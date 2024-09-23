@@ -1,7 +1,7 @@
 ---
 title: "Decades of Vulnerabilities: How Microsoft's Windows Continues to Struggle with Cybersecurity - Analysis by ZDNet"
-date: 2024-09-19 20:41:28
-updated: 2024-09-20 11:36:39
+date: 2024-09-18T16:05:18.872Z
+updated: 2024-09-23T16:24:51.190Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -47,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -83,11 +97,25 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -119,11 +147,23 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-helper.techidaily.com/1725284298158-winxvideo-ai/"><u>動画・写真品質向上のコツを集めた完全マニュアル - Winxvideo AIの手引き</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-ingenuity-how-three-distinctive-chatbots-answered-a-creative-challenge/"><u>Battle of Ingenuity: How Three Distinctive Chatbots Answered a Creative Challenge</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/converti-gratuitamente-file-wav-in-formato-flac-con-soluzione-online-movevvi/"><u>Converti Gratuitamente File WAV in Formato FLAC Con Soluzione Online - Movevvi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-footage-on-your-gopro-for-2024/"><u>Crafting Compelling Footage on Your GoPro for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-video-conversion-tool-transform-movwmv-files-for-web-sharing/"><u>Free Video Conversion Tool: Transform MOV/WMV Files for Web Sharing</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/melhor-software-de-edicao-de-videos-para-youtubers-top-10-escolhas-para-sistemas-windows-e-mac/"><u>Melhor Software De Edição De Vídeos Para YouTubers: Top 10 Escolhas Para Sistemas Windows E Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-iphone-sound-issues-a-step-by-step-guide/"><u>Solving iPhone Sound Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-avatar/"><u>Updated What Is an AI Avatar?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mp4avimov-moviebutler/"><u>オンラインでの自由なMP4/AVIファイルをMOVに簡単変換 - MOVIEBUTLER</u></a></li>
+</ul></div>
+

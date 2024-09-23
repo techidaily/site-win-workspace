@@ -1,7 +1,7 @@
 ---
 title: "Apple Embraces Siri as Its New Search Engine: Is a Shift Towards AI the Future? | ZDNet"
-date: 2024-09-19 13:20:46
-updated: 2024-09-20 12:45:24
+date: 2024-09-16T16:15:39.827Z
+updated: 2024-09-23T16:32:00.503Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,30 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-foremost-haptic-feedback-devices-providers/"><u>[New] Foremost Haptic Feedback Devices Providers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>[New] In 2024, Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ride-safely-leading-helmet-cams-reviewed-for-motorcycling/"><u>[Updated] 2024 Approved Ride Safely Leading Helmet Cams Reviewed for Motorcycling</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/nefbmp-movavi/"><u>网络上无限制地将NEF格式转换为BMP - 使用Movavi图像转换器</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ogmavi-movavi/"><u>無料で簡単オンラインOGMからAVIへ - Movavi変換ツール</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mkv-mov-movavi/"><u>線上無條件 MKV 到 MOV 轉檔工具 - 運用 Movavi 影片轉換器</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-enigmatic-computer-crash-issues/"><u>Expert Guide: Resolving Enigmatic Computer Crash Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-exceptional-no-cost-ai-applications-for-producing-stunning-visuals/"><u>Explore These Exceptional No-Cost AI Applications for Producing Stunning Visuals</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/gsm-mp3-movavi/"><u>GSM 오디오를 원근보이한 MP3로 자유성 영역에서 쉽게 바꾸기 - Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-upgrading-razer-driver-packs-across-multiple-windows-systems/"><u>Guide: Upgrading Razer Driver Packs Across Multiple Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>In 2024, Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
+<li><a href="https://article-posts.techidaily.com/start-promoting-smart-a-beginners-guide-to-using-telegram/"><u>Start Promoting Smart A Beginner's Guide to Using Telegram</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/transforme-seus-arquivos-aac-em-mp3-sem-custos-tecnica-simples-no-site-do-movavi/"><u>Transforme Seus Arquivos AAC Em MP3 Sem Custos - Técnica Simples No Site Do Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/transforme-seus-arquivos-de-video-gratuitamente-com-o-conversor-movavi-m4v-a-3gp-on-line/"><u>Transforme Seus Arquivos De Vídeo Gratuitamente Com O Conversor Movavi M4V a 3GP On-Line</u></a></li>
+</ul></div>
+

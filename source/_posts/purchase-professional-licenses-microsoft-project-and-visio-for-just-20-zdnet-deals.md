@@ -1,7 +1,7 @@
 ---
 title: "Purchase Professional Licenses: Microsoft Project & Visio for Just $20 - ZDNet Deals"
-date: 2024-09-18 14:50:30
-updated: 2024-09-20 11:10:26
+date: 2024-09-17T16:22:20.337Z
+updated: 2024-09-23T16:18:47.917Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,32 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-comprehensive-path-to-instagram-riches/"><u>[New] 2024 Approved The Ultimate Comprehensive Path to Instagram Riches</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-starting-with-av1-an-essential-overview/"><u>[New] Starting with AV1 An Essential Overview</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/downloadador-de-audio-para-videos-mkv-ferramenta-conversora-de-codigo-aberto-movavi/"><u>Downloadador De Áudio Para Vídeos MKV: Ferramenta Conversora De Código Aberto - Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-vlog-subjects-daily-selection-for-2024/"><u>Exciting Vlog Subjects Daily Selection for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-online-converter-transform-tiff-images-into-gif-format-with-ease-try-movavi/"><u>Free Online Converter: Transform TIFF Images Into GIF Format with Ease - Try Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/gratis-online-omzettingen-van-qt-fliesjes-naar-mp3-movavi/"><u>Gratis Online Omzettingen Van QT-Fliesjes Naar MP3 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-prime-collection-of-no-cost-passport-photo-making-software/"><u>In 2024, The Prime Collection of No-Cost Passport Photo Making Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-video-editor-battle-is-inshot-reigning-supreme/"><u>In 2024, Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/in-depth-look-at-wondershare-filmora-capabilities-and-cost-breakdown/"><u>In-Depth Look at Wondershare Filmora - Capabilities and Cost Breakdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/les-4-meilleures-videos-de-rip-a-partager-pour-macos-monterey-des-fichiers-vfd-libres-en-202ebra/"><u>Les 4 Meilleures Vidéos De Rip À Partager Pour MacOS Monterey : Des Fichiers VFD Libres en 202Ebra</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigate-video-landscape-3-pros-of-using-zoom-altering-tools-for-2024/"><u>Navigate Video Landscape 3 Pros of Using Zoom Altering Tools for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

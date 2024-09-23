@@ -1,7 +1,7 @@
 ---
 title: How Does Full-Disk Encryption Affect PC Speed? An Analysis by ZDNet
-date: 2024-09-19 17:36:56
-updated: 2024-09-20 10:53:37
+date: 2024-09-22T16:18:46.845Z
+updated: 2024-09-23T16:23:26.597Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-banishing-static-like-motion-in-aerial-videos/"><u>[New] Banishing Static-Like Motion in Aerial Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/orlds-highest-paying-streamer-for-2024/"><u>[New] World's Highest Paying Streamer for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-best-free-srt-translation-services/"><u>[Updated] In 2024, Navigating the Best FREE SRT Translation Services</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-archive-mastery-how-and-why-for-2024/"><u>[Updated] Instagram Archive Mastery How and Why for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-20-unrestricted-pubg-montage-samples/"><u>[Updated] Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/converti-gratuitamente-file-wav-in-formato-flac-con-soluzione-online-movevvi/"><u>Converti Gratuitamente File WAV in Formato FLAC Con Soluzione Online - Movevvi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-to-update-your-macos-sierra-system/"><u>Essential Steps to Update Your macOS Sierra System</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-online-converter-transform-tiff-images-into-gif-format-with-ease-try-movavi/"><u>Free Online Converter: Transform TIFF Images Into GIF Format with Ease - Try Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-video-conversion-tool-transform-movwmv-files-for-web-sharing/"><u>Free Video Conversion Tool: Transform MOV/WMV Files for Web Sharing</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/gratis-online-omzettingen-van-qt-fliesjes-naar-mp3-movavi/"><u>Gratis Online Omzettingen Van QT-Fliesjes Naar MP3 - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/harry-potter-film-series-the-ultimate-viewing-sequence-guide/"><u>Harry Potter Film Series: The Ultimate Viewing Sequence Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-loop-maker-assembly/"><u>In 2024, Loop Maker Assembly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-role-of-asmr-in-improving-mental-clarity/"><u>In 2024, The Role of ASMR in Improving Mental Clarity</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/melhor-software-de-edicao-de-videos-para-youtubers-top-10-escolhas-para-sistemas-windows-e-mac/"><u>Melhor Software De Edição De Vídeos Para YouTubers: Top 10 Escolhas Para Sistemas Windows E Mac</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/trasforma-file-ogg-a-formato-mov-senza-costi-guida-online-gratuita-moovavi/"><u>Trasforma File OGG a Formato MOV Senza Costi: Guida Online Gratuita - Moovavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mp4avimov-moviebutler/"><u>オンラインでの自由なMP4/AVIファイルをMOVに簡単変換 - MOVIEBUTLER</u></a></li>
+</ul></div>
+
