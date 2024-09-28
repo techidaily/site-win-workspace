@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Discomfort: Microsoft's Latest Attempt at Transforming Meetings - A Deep Dive by ZDNet"
-date: 2024-09-18T16:15:54.435Z
-updated: 2024-09-23T16:19:23.427Z
+date: 2024-09-21T18:36:39.534Z
+updated: 2024-09-28T01:23:42.523Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +152,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +194,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-brainy-battalions-ultimate-list-of-general-knowledge-trivia-networks-2024/"><u>[New] Brainy Battalions Ultimate List of General Knowledge Trivia Networks, 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-9-key-approaches-to-free-webinar-archiving-for-2024/"><u>[Updated] 9 Key Approaches to Free Webinar Archiving for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-video-presence-editing-and-changing-facebook-covers/"><u>[Updated] Enhancing Video Presence Editing and Changing Facebook Covers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>Blending Beats and Visuals A Tutorial on YouTube Music Addition</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/discover-how-microsoft-could-be-upsetting-more-clients-with-its-new-tactics-according-to-zdnet/"><u>Discover How Microsoft Could Be Upsetting More Clients With Its New Tactics, According to ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-to-transforming-video-output-bundles-to-mp4-for-windows-1011-and-macos-users/"><u>Easy Guide to Transforming Video Output Bundles to MP4 for Windows 10/11 & macOS Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-concept-to-creation-top-10-podcast-design-principles/"><u>From Concept to Creation Top 10 Podcast Design Principles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hidden-havens-of-hand-drawn-harmony-techniques/"><u>Hidden Havens of Hand-Drawn Harmony Techniques</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-microsoft-creates-a-sense-of-normalcy-with-ai-for-solo-users-insights-from-zdnet/"><u>How Microsoft Creates a Sense of Normalcy with AI for Solo Users | Insights From ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-superior-guide-to-16-freeware-players-for-pc-and-mac/"><u>In 2024, Superior Guide to 16 Freeware Players for PC & Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-android-alert-personalization-how-to-set-unique-sounds-for-each-app/"><u>Mastering Android Alert Personalization: How to Set Unique Sounds for Each App</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/simple-ethical-hacking-technique-exposes-flaw-in-microsofts-ai-recall-system-insights-from-a-dedicated-cybersecurity-professional/"><u>Simple Ethical Hacking Technique Exposes Flaw in Microsoft's AI Recall System: Insights From a Dedicated Cybersecurity Professional</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-5-cycle-stationery-units-for-a-productive-2023-insights-from-zdnet/"><u>Top 5 Cycle Stationery Units for a Productive 2023 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/transform-your-workstation-comfort-with-this-key-standing-desk-accompaniment-office-innovations/"><u>Transform Your Workstation Comfort with This Key Standing Desk Accompaniment | Office Innovations</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlock-the-power-of-touch-for-your-macbook-elevate-your-experience-using-an-amazing-portable-monitor-learn-how-at-zdnet/"><u>Unlock the Power of Touch for Your MacBook: Elevate Your Experience Using an Amazing Portable Monitor | Learn How at ZDNET</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unveiling-microsofts-innovative-ai-copy-and-paste-feature-tips-and-usage-guide-zdnet-insights/"><u>Unveiling Microsoft's Innovative AI Copy-and-Paste Feature: Tips & Usage Guide | ZDNet Insights</u></a></li>
+</ul></div>
 

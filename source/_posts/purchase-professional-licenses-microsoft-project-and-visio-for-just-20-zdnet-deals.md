@@ -1,7 +1,7 @@
 ---
 title: "Purchase Professional Licenses: Microsoft Project & Visio for Just $20 - ZDNet Deals"
-date: 2024-09-17T16:22:20.337Z
-updated: 2024-09-23T16:18:47.917Z
+date: 2024-09-25T00:30:34.961Z
+updated: 2024-09-27T18:26:54.568Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,28 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-pubg-voice-customization/"><u>[New] 2024 Approved The Ultimate Guide to PUBG Voice Customization</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-vive-headset-review-the-gateway-to-ultimate-virtuality/"><u>[New] 2024 Approved Vive Headset Review The Gateway to Ultimate Virtuality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-theme-it-right-top-5-winter-scenes-as-video-bgs/"><u>[Updated] In 2024, Theme It Right Top 5 Winter Scenes as Video Bgs</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-download-webinar-footage-from-brighttalk-compatible-with-mac-and-windows-systems/"><u>1. Download Webinar Footage From BrightTALK: Compatible with Mac & Windows Systems</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-step-by-step-guide-saving-live-channels-from-younow-for-later-viewing/"><u>1. Step-by-Step Guide: Saving Live Channels From YouNow for Later Viewing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-sync-your-mac-visuals-with-acoustic-backup/"><u>2024 Approved Sync Your Mac Visuals with Acoustic Backup</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/convert-your-favorite-youtube-videos-to-high-quality-mp3-files-at-320kbps-for-mac-and-windows-users/"><u>Convert Your Favorite YouTube Videos to High-Quality MP3 Files at 320Kbps - For Mac & Windows Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/exclude-acquaintances-from-on-this-day-highlights/"><u>Exclude Acquaintances From On This Day Highlights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-unparalleled-internet-speed-in-depth-review-of-the-netgear-nighthawk-x10-ad7200-router/"><u>Experience Unparalleled Internet Speed: In-Depth Review of the Netgear Nighthawk X1^0 (AD7200) Router</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-itel-p55t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel P55T Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-comprehensive-list-of-incredible-games/"><u>In 2024, A Comprehensive List of Incredible Games</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-to-crafting-a-secure-flipbook-using-flipbuilder/"><u>Step-by-Step Guide to Crafting a Secure FlipBook Using FlipBuilder</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-adding-jpg-png-and-bmp-visuals-on-your-site-with-flipping-page-tools-tips-from-flipbuilder-pro/"><u>Step-by-Step Guide: Adding .jpg, .png, and .bmp Visuals on Your Site with Flipping Page Tools - Tips From FlipBuilder Pro</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/transform-paperwork-into-practicality-with-flipoffices-custom-page-turning-desk-book-build-yours-now-on-flipbuildercom/"><u>Transform Paperwork Into Practicality with FlipOffice's Custom Page-Turning Desk Book - Build Yours Now on FlipBuilder.com</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

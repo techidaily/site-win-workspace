@@ -1,7 +1,7 @@
 ---
 title: "Discover Microsoft’s Ingenious Approach to Normalizing AI: An Insightful Perspective for Solo Users | ZDNet"
-date: 2024-09-19T16:08:16.632Z
-updated: 2024-09-23T16:17:12.537Z
+date: 2024-09-25T21:27:32.760Z
+updated: 2024-09-27T22:24:56.538Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,21 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -200,5 +200,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-social-blade-approach-to-analyzing-youtube-video-performance-metrics/"><u>[New] The Social Blade Approach to Analyzing YouTube Video Performance Metrics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-guide-to-morphvox-voice-changer-find-the-best-way/"><u>2024 Approved Complete Guide to MorphVOX Voice Changer Find the Best Way</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-14-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi 14 Pro FRP</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/create-stunning-album-artwork-with-flipimage-pro-innovative-3d-graphic-and-multimedia-tools-explore-at-flipbuildercom/"><u>Create Stunning Album Artwork with FlipImage Pro - Innovative 3D Graphic & Multimedia Tools [Explore at FlipBuilder.com]</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/customizing-your-flipbook-design-with-personalized-branding/"><u>Customizing Your FlipBook Design with Personalized Branding</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-x-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone X Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/expert-tips-for-securing-and-backing-up-project-files-in-flipbuilders-flipbook-platform/"><u>Expert Tips for Securing and Backing Up Project Files in FlipBuilder's FlipBook Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/following-review-innovative-outlooks/"><u>Following Review Innovative Outlooks</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-get-a-user-guide-for-flipbuildercom-a-comprehensive-tutorial/"><u>How to Get a User Guide for FlipBuilder.com: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-integrate-auto-playing-flipbooks-into-your-site-using-flipbuilder-technology/"><u>How To Integrate Auto-Playing Flipbooks Into Your Site Using FlipBuilder Technology</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-position-the-toolbar-at-the-top-in-a-flipbook-using-flipbuilder/"><u>How to Position the Toolbar at the Top in a FlipBook Using FlipBuilder</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a38-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo A38 Phone without Google Account?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-discovering-the-power-of-youtubes-comment-system/"><u>In 2024, Discovering the Power of YouTube's Comment System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-choices-windows-11-hd-webcam-mini-dvs/"><u>In 2024, Top Choices Windows 11 HD Webcam Mini-DVs</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/masterful-pdf-edits-resizing-and-reorienting-pages-in-flipbuilder-for-premium-quality-scans/"><u>Masterful PDF Edits: Resizing & Reorienting Pages in FlipBuilder for Premium Quality Scans</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mastering-page-design-inserting-your-company-logo-directly-overhead-discover-techniques-on-flipbuildercom/"><u>Mastering Page Design: Inserting Your Company Logo Directly Overhead - Discover Techniques on FlipBuilder.com</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/44ot44oo44oz44oj44op44kk44ow44k544oi44oq44o844of44oz44kw5lit44gu5pig5yop44kt44oj44ox44ob44oj44ks44kk44oj/"><u>ビヨンドライブストリーミング中の映像キャプチャガイド</u></a></li>
+</ul></div>
 

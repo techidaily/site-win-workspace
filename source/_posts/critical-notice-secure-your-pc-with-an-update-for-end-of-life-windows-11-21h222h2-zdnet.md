@@ -1,7 +1,7 @@
 ---
 title: "Critical Notice: Secure Your PC with an Update for End-of-Life Windows 11 (21H2/22H2) | ZDNet"
-date: 2024-09-19T16:02:41.375Z
-updated: 2024-09-23T16:29:19.512Z
+date: 2024-09-23T00:36:11.999Z
+updated: 2024-09-27T23:03:19.330Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -194,5 +200,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-ease-inease-out-techniques-in-camtasa-9/"><u>[New] In 2024, Mastering Ease In/Ease Out Techniques in Camtasa 9</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creating-heartfelt-youtube-journeys-for-2024/"><u>[Updated] Creating Heartfelt YouTube Journeys for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-fifth-place-winners-excellent-recorder-apps-for-2024/"><u>[Updated] Fifth Place Winners Excellent Recorder Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-peering-into-facebooks-2023-video-landscape-a-focus-on-short-clips/"><u>[Updated] In 2024, Peering Into Facebook's 2023 Video Landscape A Focus on Short Clips</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-efficient-mirillis-assistance-submit-your-invoicing-details-here/"><u>1. Efficient Mirillis Assistance: Submit Your Invoicing Details Here</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/advantages-of-enrolling-in-the-microsoft-windows-insider-program-a-comprehensive-guide-techrepublic/"><u>Advantages of Enrolling in the Microsoft Windows Insider Program: A Comprehensive Guide | TechRepublic</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/affordable-microsoft-office-2019-bundle-deal-save-big-at-25-for-windowsmac-users-unlock-tips-inside/"><u>Affordable Microsoft Office 2019 Bundle Deal: Save Big at $25 for Windows/Mac Users | Unlock Tips Inside!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/capturing-vulkan-api-interactions-insights-on-gaming-and-application-development/"><u>Capturing Vulkan API Interactions: Insights on Gaming & Application Development</u></a></li>
+<li><a href="https://blog-min.techidaily.com/decouvrez-le-monde-de-digiarty-innovation-et-expertise-en-matiere-de-services-digitaux/"><u>Découvrez Le Monde De Digiarty : Innovation Et Expertise en Matière De Services Digitaux</u></a></li>
+<li><a href="https://win-answers.techidaily.com/disco-elysium-pc-version-update-say-goodbye-to-crashes-and-enjoy-gaming/"><u>Disco Elysium PC Version Update - Say Goodbye to Crashes and Enjoy Gaming!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/record-and-stream-high-quality-videos-with-mirillis-professional-screen-recording-applications/"><u>Record & Stream High-Quality Videos with Mirillis' Professional Screen Recording Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-mobile-search-experience-on-android-and-ios-using-bings-smart-ai-feature/"><u>Revolutionize Your Mobile Search Experience on Android and iOS Using Bing's Smart AI Feature!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/transform-movpod-videos-into-common-formats-mp4-mov-avi-a-simple-guide-for-downloaders/"><u>Transform MovPod Videos Into Common Formats (MP4, MOV, AVI) - A Simple Guide for Downloaders</u></a></li>
+</ul></div>
 

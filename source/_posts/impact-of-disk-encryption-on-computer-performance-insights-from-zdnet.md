@@ -1,7 +1,7 @@
 ---
 title: "Impact of Disk Encryption on Computer Performance: Insights From ZDNet"
-date: 2024-09-17T16:05:09.425Z
-updated: 2024-09-23T16:05:58.582Z
+date: 2024-09-23T02:32:35.553Z
+updated: 2024-09-27T23:34:21.992Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -34,10 +41,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -45,13 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -80,19 +80,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -105,10 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -122,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -160,5 +154,26 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-phonesnapshot-protocols-expert-tips-for-mobile-capture-on-snapchat/"><u>[New] Phonesnapshot Protocols Expert Tips for Mobile Capture on Snapchat</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-laughmaker-quick-meme-and-image-crafter/"><u>[Updated] LaughMaker Quick Meme & Image Crafter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-samsung-unpacked-2025-dates-top-announcements-and-speculated-gadgets-revealed/"><u>All About Samsung Unpacked 2025: Dates, Top Announcements & Speculated Gadgets Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-palworlds-session-error-on-search-strategies-for-optimal-functionality/"><u>Bypassing PalWorld's Session Error on Search: Strategies for Optimal Functionality</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>Focus on the Essentials The Compreenas for Removing Youtube Channels</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-save-your-favorite-periscope-broadcasts-as-high-quality-video-files/"><u>How To Save Your Favorite Periscope Broadcasts as High-Quality Video Files</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-transform-your-youtube-media-into-high-quality-flac-files-for-macos-and-windows-users/"><u>How to Transform Your YouTube Media Into High-Quality FLAC Files for macOS & Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boosting-engagement-the-key-to-successful-youtuber-interactions/"><u>In 2024, Boosting Engagement The Key to Successful YouTuber Interactions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapid-reinstatement-of-apexs-perfection/"><u>Rapid Reinstatement of Apex's Perfection</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/save-pathoma-courses-easily-with-our-media-converter-available-as-mp4-avi-or-wmv-files/"><u>Save Pathoma Courses Easily with Our Media Converter - Available as MP4, AVI or WMV Files</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/save-your-favorite-radio-bremen-shows-as-mp3-or-video-files-mp4-mov-for-easy-playback-anywhere/"><u>Save Your Favorite Radio Bremen Shows as MP3 or Video Files (MP4, MOV) for Easy Playback Anywhere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/savor-the-seeds/"><u>Savor the Seeds</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/secure-and-authentic-telemundo-video-collection-safe-downloads-from-telemundos-website/"><u>Secure and Authentic Telemundo Video Collection - Safe Downloads From Telemundo's Website</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210599306-solving-error-code-224003-now-your-video-plays-smoothly/"><u>Solving 'Error Code 224003': Now Your Video Plays Smoothly</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-and-downloading-your-favorite-bollywood-movies-into-common-formats-like-mp4-mov-or-avi/"><u>Step-by-Step Guide: Converting and Downloading Your Favorite Bollywood Movies Into Common Formats Like MP4, MOV, or AVI</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-okru-streams-into-mp4-and-other-formats-on-macwindows/"><u>Step-by-Step Guide: Converting Ok.ru Streams Into MP4 & Other Formats on Mac/Windows</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-content-from-niconico-efficiently/"><u>Step-by-Step Guide: Downloading Content From Niconico Efficiently</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-yupptv-content-and-south-asian-shows-for-offline-viewing/"><u>Step-by-Step Guide: Downloading YuppTV Content & South Asian Shows for Offline Viewing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-color-with-the-new-kobo-clara-colour-ebook-reader/"><u>Unveiling the Power of Color with the New Kobo Clara Colour eBook Reader</u></a></li>
+</ul></div>
 

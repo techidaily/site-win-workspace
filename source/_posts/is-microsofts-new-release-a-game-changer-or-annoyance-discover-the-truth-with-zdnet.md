@@ -1,7 +1,7 @@
 ---
 title: Is Microsoft's New Release a Game-Changer or Annoyance? Discover the Truth with ZDNet!
-date: 2024-09-19T16:22:24.105Z
-updated: 2024-09-23T16:14:14.531Z
+date: 2024-09-21T02:13:27.881Z
+updated: 2024-09-28T01:18:24.715Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -89,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -194,5 +200,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-the-most-powerful-alternatives-to-vimeo-cameo-editor/"><u>[New] In 2024, Unveiling the Most Powerful Alternatives to Vimeo Cameo Editor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-dialing-in-on-youtube-success-identifying-ranks-boosters/"><u>[Updated] In 2024, Dialing in on YouTube Success Identifying Ranks Boosters</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/2021-ultimate-shopping-strategy-zdnets-expert-tips-for-black-friday-and-cyber-monday-deals/"><u>2021 Ultimate Shopping Strategy: ZDNet's Expert Tips for Black Friday & Cyber Monday Deals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-and-easy-10-high-resolution-passport-portraits-for-desktopweb-use/"><u>2024 Approved Fast & Easy 10 High-Resolution Passport Portraits for Desktop/Web Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-master-the-momentum-sending-viral-videos-soaring/"><u>2024 Approved Master the Momentum Sending Viral Videos Soaring</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/accessing-windows-11-using-your-microsoft-365-business-account-benefits-and-step-by-step-guide/"><u>Accessing Windows 11 Using Your Microsoft 365 Business Account: Benefits and Step-by-Step Guide</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/act-before-its-too-late-windows-11-versions-21h2-and-22h2-hit-end-of-life-immediate-upgrade-essential-zdnet/"><u>Act Before It's Too Late: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Immediate Upgrade Essential! | ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/balancing-act-how-microsofts-ai-tool-copilot-blends-helpful-tech-and-salesmanship-explored-by-zdnet/"><u>Balancing Act: How Microsoft’s AI Tool, Copilot, Blends Helpful Tech and Salesmanship | Explored by ZDNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuite-de-conversion-en-ligne-qt-a-laide-du-logiciel-gratuit-de-movavi-video-mov/"><u>Gratuité De Conversion en Ligne QT À L'aide Du Logiciel Gratuit De Movavi - Vidéo MOV</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>In 2024, Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>In 2024, How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/navigating-15-of-tiktoks-hottest-innovations/"><u>Navigating 15 of TikTok's Hottest Innovations</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/revolutionizing-discomfort-microsofts-latest-attempt-at-transforming-meetings-a-deep-dive-by-zdnet/"><u>Revolutionizing Discomfort: Microsoft's Latest Attempt at Transforming Meetings - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-enroll-in-the-windows-insider-program-with-microsoft-reasons-and-benefits/"><u>Step-by-Step Guide: Enroll in the Windows Insider Program with Microsoft - Reasons & Benefits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-description-crafting-compelling-podcast-hooks-for-2024/"><u>The Art of Description Crafting Compelling Podcast Hooks for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/the-great-shift-in-iot-googles-departure-and-microsofts-strategic-entry/"><u>The Great Shift in IoT: Google's Departure and Microsoft’s Strategic Entry</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-11-update-charges-coming-soon-find-out-how-much-youll-need-to-pay-in-this-upcoming-change-by-microsoft/"><u>Windows 11 Update Charges Coming Soon? Find Out How Much You'll Need to Pay in This Upcoming Change by Microsoft</u></a></li>
+</ul></div>
 

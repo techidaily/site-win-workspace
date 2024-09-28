@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Creates a Sense of Normalcy with AI for Solo Users | Insights From ZDNet
-date: 2024-09-19T16:28:18.697Z
-updated: 2024-09-23T16:22:26.412Z
+date: 2024-09-23T22:36:37.266Z
+updated: 2024-09-28T03:18:09.310Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -154,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -200,5 +194,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-action-and-adventure-with-ions-pro-3-camera-insight/"><u>[New] Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-crafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms/"><u>[New] In 2024, Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm-for-2024/"><u>[New] The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-video-and-image-backup-from-instagram/"><u>[Updated] 2024 Approved Effortless Video & Image Backup From Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essentials-to-initiate-in-google-meet/"><u>[Updated] 2024 Approved The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-hd-video-capture-ultimate-recorder-reviews/"><u>[Updated] Prime HD Video Capture Ultimate Recorder Reviews</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/exploring-the-world-of-artificial-intelligence-computers-are-they-worth-your-investment/"><u>Exploring the World of Artificial Intelligence Computers: Are They Worth Your Investment?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/identifying-your-computers-graphics-processing-unit-a-comprehensive-guide-to-discovering-and-updating-gpu-drivers/"><u>Identifying Your Computer's Graphics Processing Unit: A Comprehensive Guide to Discovering and Updating GPU Drivers</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/impact-of-disk-encryption-on-computer-performance-insights-from-zdnet/"><u>Impact of Disk Encryption on Computer Performance: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-phantom-grip-advanced-camera-review/"><u>In 2024, Phantom Grip Advanced Camera Review</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/the-joy-of-language-mastery-with-duolingo-a-free-engaging-review-by-zdnet/"><u>The Joy of Language Mastery with Duolingo: A Free, Engaging Review by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-5-key-twitch-resources-to-enhance-your-live-streaming-experience/"><u>The Ultimate Selection: 5 Key Twitch Resources to Enhance Your Live Streaming Experience</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-11-uncovered-touchpad-shortcuts-every-tech-enthusiast-should-master-insider-tips/"><u>Top 11 Uncovered Touchpad Shortcuts Every Tech Enthusiast Should Master - Insider Tips</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlock-the-hidden-power-of-windows-11-master-the-trick-for-immediate-app-closure-exclusive-insight-from-zdnets-experts/"><u>Unlock the Hidden Power of Windows 11: Master the Trick for Immediate App Closure | Exclusive Insight From ZDNet's Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-launching-cssource-2-without-a-glitch/"><u>Unlock the Secrets to Launching CS:Source 2 Without a Glitch!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/upcoming-windows-on-arm-applications-set-to-revolutionize-the-scene-why-it-matters-zdnet/"><u>Upcoming Windows on ARM Applications Set to Revolutionize the Scene: Why It Matters - ZDNet</u></a></li>
+</ul></div>
 
