@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Discomfort: Microsoft's Latest Attempt at Transforming Meetings - A Deep Dive by ZDNet"
-date: 2024-09-21T18:36:39.534Z
-updated: 2024-09-28T01:23:42.523Z
+date: 2024-10-02T06:27:24.532Z
+updated: 2024-10-03T01:05:13.175Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +135,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-brainy-battalions-ultimate-list-of-general-knowledge-trivia-networks-2024/"><u>[New] Brainy Battalions Ultimate List of General Knowledge Trivia Networks, 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-9-key-approaches-to-free-webinar-archiving-for-2024/"><u>[Updated] 9 Key Approaches to Free Webinar Archiving for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-video-presence-editing-and-changing-facebook-covers/"><u>[Updated] Enhancing Video Presence Editing and Changing Facebook Covers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>Blending Beats and Visuals A Tutorial on YouTube Music Addition</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/discover-how-microsoft-could-be-upsetting-more-clients-with-its-new-tactics-according-to-zdnet/"><u>Discover How Microsoft Could Be Upsetting More Clients With Its New Tactics, According to ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-guide-to-transforming-video-output-bundles-to-mp4-for-windows-1011-and-macos-users/"><u>Easy Guide to Transforming Video Output Bundles to MP4 for Windows 10/11 & macOS Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-concept-to-creation-top-10-podcast-design-principles/"><u>From Concept to Creation Top 10 Podcast Design Principles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hidden-havens-of-hand-drawn-harmony-techniques/"><u>Hidden Havens of Hand-Drawn Harmony Techniques</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-microsoft-creates-a-sense-of-normalcy-with-ai-for-solo-users-insights-from-zdnet/"><u>How Microsoft Creates a Sense of Normalcy with AI for Solo Users | Insights From ZDNet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-superior-guide-to-16-freeware-players-for-pc-and-mac/"><u>In 2024, Superior Guide to 16 Freeware Players for PC & Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-android-alert-personalization-how-to-set-unique-sounds-for-each-app/"><u>Mastering Android Alert Personalization: How to Set Unique Sounds for Each App</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/simple-ethical-hacking-technique-exposes-flaw-in-microsofts-ai-recall-system-insights-from-a-dedicated-cybersecurity-professional/"><u>Simple Ethical Hacking Technique Exposes Flaw in Microsoft's AI Recall System: Insights From a Dedicated Cybersecurity Professional</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-5-cycle-stationery-units-for-a-productive-2023-insights-from-zdnet/"><u>Top 5 Cycle Stationery Units for a Productive 2023 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transform-your-workstation-comfort-with-this-key-standing-desk-accompaniment-office-innovations/"><u>Transform Your Workstation Comfort with This Key Standing Desk Accompaniment | Office Innovations</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unlock-the-power-of-touch-for-your-macbook-elevate-your-experience-using-an-amazing-portable-monitor-learn-how-at-zdnet/"><u>Unlock the Power of Touch for Your MacBook: Elevate Your Experience Using an Amazing Portable Monitor | Learn How at ZDNET</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unveiling-microsofts-innovative-ai-copy-and-paste-feature-tips-and-usage-guide-zdnet-insights/"><u>Unveiling Microsoft's Innovative AI Copy-and-Paste Feature: Tips & Usage Guide | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-free-editing-software-rankings/"><u>[New] Essential Free Editing Software Rankings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-m1-pro-to-m1-max-understanding-the-differences-in-apple-computing/"><u>[New] M1 Pro to M1 Max Understanding the Differences in Apple Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-stealthiest-instagram-story-viewers/"><u>[New] The Stealthiest Instagram Story Viewers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-creating-the-ultimate-home-pc-for-professional-video-editors/"><u>2024 Approved Creating the Ultimate Home PC for Professional Video Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-different-footage-sources-on-ios-device/"><u>2024 Approved Harmonizing Different Footage Sources on iOS Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enjoy-a-glitch-free-play-death-stranding-pc-stability-achieved-and-improved-fixes-explained/"><u>Enjoy a Glitch-Free Play: Death Stranding PC Stability Achieved and Improved Fixes Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-tv-on-chromecast-the-ultimate-review-to-decide-between-it-and-firetv/"><u>Google TV on Chromecast - The Ultimate Review to Decide Between It and FireTV.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-applying-borders-on-your-videos/"><u>Step-by-Step Guide: Applying Borders on Your Videos</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-tutorials-on-how-to-swap-out-a-videos-soundtrack/"><u>Step-by-Step Tutorials on How to Swap Out a Video's Soundtrack</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-techniques-for-seamlessly-blending-your-car-into-any-imaginary-scene/"><u>Top Techniques for Seamlessly Blending Your Car Into Any Imaginary Scene</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-the-notorious-black-screen-issue/"><u>Troubleshooting and Repairing the Notorious Black Screen Issue</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlocking-file-management-easy-steps-to-review-data-on-iphones-and-ipads/"><u>Unlocking File Management: Easy Steps to Review Data on iPhones & iPads</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decades of Vulnerabilities: How Microsoft's Windows Continues to Struggle with Cybersecurity - Analysis by ZDNet"
-date: 2024-09-26T22:01:16.746Z
-updated: 2024-09-27T18:42:47.166Z
+date: 2024-09-27T03:16:00.582Z
+updated: 2024-10-03T08:19:56.108Z
 tags:
   - windows
 categories:
@@ -28,10 +28,16 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -46,6 +52,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -54,19 +67,6 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -80,18 +80,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -117,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,20 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elevate-your-streams-with-seamless-obspluszoom-integration/"><u>[Updated] In 2024, Elevate Your Streams with Seamless OBS+Zoom Integration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-transforming-messages-into-memorable-video-experienits/"><u>2024 Approved Transforming Messages Into Memorable Video Experienits</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/batch-transform-your-word-docs-into-free-flash-animation-videos-swf/"><u>Batch Transform Your Word Docs Into Free Flash Animation Videos (SWF)</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/cost-free-publishing-tool-for-ebooks-transform-your-text-documents-into-pdf-format-effortlessly/"><u>Cost-Free Publishing Tool for eBooks: Transform Your Text Documents Into PDF Format Effortlessly!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/create-and-distribute-interactive-flash-clips-from-pdfs-using-flipbuilder-the-ultimate-conversion-tool/"><u>Create and Distribute Interactive Flash Clips From PDFs Using FlipBuilder – The Ultimate Conversion Tool.</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/create-stunning-album-artwork-with-flipimage-pro-innovative-3d-graphic-and-multimedia-tools-explore-at-flipbuildercom/"><u>Create Stunning Album Artwork with FlipImage Pro - Innovative 3D Graphic & Multimedia Tools [Explore at FlipBuilder.com]</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/customizing-your-flipbook-design-with-personalized-branding/"><u>Customizing Your FlipBook Design with Personalized Branding</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/delving-into-ai-security-threats-how-do-prompt-injection-attacks-function/"><u>Delving Into AI Security Threats: How Do Prompt Injection Attacks Function?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/expert-tips-for-securing-and-backing-up-project-files-in-flipbuilders-flipbook-platform/"><u>Expert Tips for Securing and Backing Up Project Files in FlipBuilder's FlipBook Platform</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-k70e-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-master-your-creative-vision-with-digital-cropting-skills/"><u>In 2024, Master Your Creative Vision with Digital Cropting Skills</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-straightforward-video-recorders-for-win10/"><u>In 2024, Straightforward Video Recorders for Win10</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-process-to-enable-incessant-auto-video-on-facebook/"><u>In 2024, The Process to Enable Incessant Auto-Video on Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-transforming-cbr-files-into-mobi-format/"><u>Step-by-Step Guide: Transforming CBR Files Into MOBI Format</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-the-fundamental-contrasts-in-video-streaming-for-2024/"><u>Understanding the Fundamental Contrasts in Video Streaming for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-updated-youtube-income-guidelines/"><u>[New] 2024 Approved Updated YouTube Income Guidelines</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-dissecting-asuss-proart-pa-329q-an-expert-review-on-its-professional-capabilities-for-2024/"><u>[New] Dissecting Asus's ProArt PA 329Q An Expert Review on Its Professional Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-tiktok-facebook-content-exchange/"><u>[New] In 2024, Navigating the TikTok-Facebook Content Exchange</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-guide-to-iphone-selfie-gear-rankings-8/"><u>[Updated] 2024 Approved The Ultimate Guide to Iphone Selfie Gear Rankings (#8)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-efficient-mirillis-assistance-submit-your-invoicing-details-here/"><u>1. Efficient Mirillis Assistance: Submit Your Invoicing Details Here</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>2024 Approved Top Picks Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/advantages-of-enrolling-in-the-microsoft-windows-insider-program-a-comprehensive-guide-techrepublic/"><u>Advantages of Enrolling in the Microsoft Windows Insider Program: A Comprehensive Guide | TechRepublic</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/affordable-microsoft-office-2019-bundle-deal-save-big-at-25-for-windowsmac-users-unlock-tips-inside/"><u>Affordable Microsoft Office 2019 Bundle Deal: Save Big at $25 for Windows/Mac Users | Unlock Tips Inside!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/capturing-vulkan-api-interactions-insights-on-gaming-and-application-development/"><u>Capturing Vulkan API Interactions: Insights on Gaming & Application Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disguised-dangers-identifying-phony-chatgpt-tools/"><u>Disguised Dangers: Identifying Phony ChatGPT Tools</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/exploring-the-cause-behind-microsoft-365-downtime-affecting-millions-insights-from-zdnet-report/"><u>Exploring the Cause Behind Microsoft 365 Downtime Affecting Millions - Insights From ZDNet Report</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-your-cpu-slowing-down-your-pc-uncover-the-truth/"><u>Is Your CPU Slowing Down Your PC? Uncover the Truth</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/microsofts-latest-update-the-silent-release-that-sparked-an-uproar-insights-from-zdnet/"><u>Microsoft's Latest Update: The Silent Release That Sparked an Uproar - Insights From ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/record-and-stream-high-quality-videos-with-mirillis-professional-screen-recording-applications/"><u>Record & Stream High-Quality Videos with Mirillis' Professional Screen Recording Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-a15-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/scripting-success-in-japanese-characters-mastery/"><u>Scripting Success in Japanese Characters Mastery</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/the-cost-of-staying-current-microsoft-announces-paid-windows-11-update-fees-beginning-next-year-insights-and-pricing-details/"><u>The Cost of Staying Current: Microsoft Announces Paid Windows 11 Update Fees Beginning Next Year - Insights and Pricing Details</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/upcoming-launch-microsoft-prepares-for-the-second-phase-of-copilot-with-expert-analysis-from-zdnet/"><u>Upcoming Launch: Microsoft Prepares for the Second Phase of Copilot with Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-neo-5-se-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT Neo 5 SE Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

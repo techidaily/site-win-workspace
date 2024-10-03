@@ -1,7 +1,7 @@
 ---
 title: Top 11 Uncovered Touchpad Shortcuts Every Tech Enthusiast Should Master - Insider Tips
-date: 2024-09-24T17:14:21.789Z
-updated: 2024-09-28T02:54:22.333Z
+date: 2024-09-28T07:27:11.672Z
+updated: 2024-10-02T18:47:05.762Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -80,6 +80,13 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -91,31 +98,24 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,18 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-skyrocket-traffic-and-views-discover-the-best-5-video-marketing-techniques/"><u>[New] In 2024, Skyrocket Traffic and Views – Discover the Best 5 Video Marketing Techniques</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1-efficient-mirillis-assistance-submit-your-invoicing-details-here/"><u>1. Efficient Mirillis Assistance: Submit Your Invoicing Details Here</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/advantages-of-enrolling-in-the-microsoft-windows-insider-program-a-comprehensive-guide-techrepublic/"><u>Advantages of Enrolling in the Microsoft Windows Insider Program: A Comprehensive Guide | TechRepublic</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/affordable-microsoft-office-2019-bundle-deal-save-big-at-25-for-windowsmac-users-unlock-tips-inside/"><u>Affordable Microsoft Office 2019 Bundle Deal: Save Big at $25 for Windows/Mac Users | Unlock Tips Inside!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/capturing-vulkan-api-interactions-insights-on-gaming-and-application-development/"><u>Capturing Vulkan API Interactions: Insights on Gaming & Application Development</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/conquering-common-video-troubles-a-step-by-step-guide/"><u>Conquering Common Video Troubles: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-solutions-for-persistent-titanfall-2-game-crashes/"><u>Easy Solutions for Persistent Titanfall 2 Game Crashes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/exploring-roku-watching-facebook-live-effortlessly/"><u>Exploring Roku Watching Facebook Live Effortlessly</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/exploring-the-cause-behind-microsoft-365-downtime-affecting-millions-insights-from-zdnet-report/"><u>Exploring the Cause Behind Microsoft 365 Downtime Affecting Millions - Insights From ZDNet Report</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-list-best-free-video-subtitles-and-downloader/"><u>In 2024, Pro List Best Free Video Subtitles & Downloader</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/record-and-stream-high-quality-videos-with-mirillis-professional-screen-recording-applications/"><u>Record & Stream High-Quality Videos with Mirillis' Professional Screen Recording Applications</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723001903346-tactical-insights-for-cod-warzone-players-in-the-new-pacific-map/"><u>Tactical Insights for COD: Warzone Players in the New Pacific Map!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-functional-cameras-in-microsofts-latest-os/"><u>Troubleshooting Steps for Non-Functional Cameras in Microsoft's Latest OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/battlenet-outage-how-to-tell-if-its-a-global-issue-or-local-glitch/"><u>Battle.net Outage - How to Tell If It's a Global Issue or Local Glitch</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/defying-the-odds-how-enthusiasts-successfully-upgraded-their-vintage-pcs-to-windows-11-despite-microsofts-restrictions-insights-from-zdnet/"><u>Defying the Odds: How Enthusiasts Successfully Upgraded Their Vintage PCs to Windows 11 Despite Microsoft's Restrictions - Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/digital-sound-transformer-seamlessly-change-your-audio-tracks-into-mp3wma-and-others/"><u>Digital Sound Transformer - Seamlessly Change Your Audio Tracks Into MP3/WMA & Others</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-complimentary-mkv-support-plugin-compatible-with-windows-media-player-no-cost/"><u>Download the Complimentary MKV Support Plugin Compatible with Windows Media Player, No Cost!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/exploring-the-world-of-artificial-intelligence-computers-are-they-worth-your-investment/"><u>Exploring the World of Artificial Intelligence Computers: Are They Worth Your Investment?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/identifying-your-computers-graphics-processing-unit-a-comprehensive-guide-to-discovering-and-updating-gpu-drivers/"><u>Identifying Your Computer's Graphics Processing Unit: A Comprehensive Guide to Discovering and Updating GPU Drivers</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/impact-of-disk-encryption-on-computer-performance-insights-from-zdnet/"><u>Impact of Disk Encryption on Computer Performance: Insights From ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>In 2024, Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-guide-for-end-task-enabling-on-windows-11/"><u>Instructional Guide for End Task Enabling on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/les-4-meilleurs-gratuites-dvd-ripper-pour-macos-monterey-en-2023-guide-complet/"><u>Les 4 Meilleurs Gratuites DVD Ripper Pour MacOS Monterey en 2023 : Guide Complet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/maximizing-performance-optimize-mov-files-in-win-11/"><u>Maximizing Performance Optimize MOV Files in Win 11</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/the-joy-of-language-mastery-with-duolingo-a-free-engaging-review-by-zdnet/"><u>The Joy of Language Mastery with Duolingo: A Free, Engaging Review by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-y78-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Y78 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-screen-driver-compatibility-for-win10-win8-and-win7-operating-systems/"><u>Troubleshooting and Fixing HP Screen Driver Compatibility for Win10, Win8 & Win7 Operating Systems</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlock-the-hidden-power-of-windows-11-master-the-trick-for-immediate-app-closure-exclusive-insight-from-zdnets-experts/"><u>Unlock the Hidden Power of Windows 11: Master the Trick for Immediate App Closure | Exclusive Insight From ZDNet's Experts</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/upcoming-windows-on-arm-applications-set-to-revolutionize-the-scene-why-it-matters-zdnet/"><u>Upcoming Windows on ARM Applications Set to Revolutionize the Scene: Why It Matters - ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-11-speed-boost-trick-easily-stop-lagging-apps-using-an-expert-tip-revealed-by-zdnet/"><u>Windows 11 Speed Boost Trick: Easily Stop Lagging Apps Using an Expert Tip Revealed by ZDNET</u></a></li>
 </ul></div>
 
