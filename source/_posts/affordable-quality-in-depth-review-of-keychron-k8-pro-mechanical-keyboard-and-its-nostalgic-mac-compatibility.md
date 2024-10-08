@@ -1,7 +1,7 @@
 ---
 title: "Affordable Quality: In-Depth Review of Keychron K8 Pro Mechanical Keyboard & Its Nostalgic Mac Compatibility"
-date: 2024-09-26T21:47:22.695Z
-updated: 2024-10-02T19:06:16.335Z
+date: 2024-10-07T17:28:29.209Z
+updated: 2024-10-08T16:01:20.393Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -40,10 +47,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -54,13 +61,6 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -74,18 +74,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -98,18 +98,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,24 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tune-into-tomorrow-fbs-free-downloads/"><u>[New] In 2024, Tune Into Tomorrow FB's Free Downloads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-your-videos-impact-with-expertly-recorded-voices/"><u>[New] Maximizing Your Video's Impact with Expertly Recorded Voices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-mystery-of-free-pictorial-video-downloads/"><u>2024 Approved Unveiling the Mystery of Free Pictorial Video Downloads</u></a></li>
-<li><a href="https://facebook.techidaily.com/determining-authorship-in-online-visual-content/"><u>Determining Authorship in Online Visual Content</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/free-sexix-video-converter-and-downloader-save-and-convert-xnxx-clips-into-popular-formats-like-mp4avi/"><u>Free Sexix Video Converter & Downloader: Save and Convert XNXX Clips Into Popular Formats Like MP4/AVI</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/guide-to-downloading-and-enjoying-spotify-music-on-ipad-in-high-quality-audio-formats/"><u>Guide to Downloading and Enjoying Spotify Music on iPad in High-Quality Audio Formats</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/guide-converting-your-favorite-cartoons-into-mp4avimov-formats-on-pc-and-mac/"><u>Guide: Converting Your Favorite Cartoons Into MP4/AVI/MOV Formats on PC & Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-craft-a-professional-email-signature-on-godaddy-webmail-complete-guide/"><u>How To Craft A Professional Email Signature On GoDaddy Webmail - Complete Guide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-effortlessly-capture-clips-and-films-off-youku-a-guide-for-high-speed-downloading-tools/"><u>How to Effortlessly Capture Clips & Films Off Youku – A Guide for High-Speed Downloading Tools</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-save-your-favorite-periscope-broadcasts-as-high-quality-video-files/"><u>How To Save Your Favorite Periscope Broadcasts as High-Quality Video Files</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-transform-your-youtube-media-into-high-quality-flac-files-for-macos-and-windows-users/"><u>How to Transform Your YouTube Media Into High-Quality FLAC Files for macOS & Windows Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/image-mastery-through-top-rated-grid-makers-for-2024/"><u>Image Mastery Through Top-Rated Grid Makers for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-free-video-trimming-software-online-top-10-picks/"><u>New Best Free Video Trimming Software Online Top 10 Picks</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/save-pathoma-courses-easily-with-our-media-converter-available-as-mp4-avi-or-wmv-files/"><u>Save Pathoma Courses Easily with Our Media Converter - Available as MP4, AVI or WMV Files</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/save-your-favorite-radio-bremen-shows-as-mp3-or-video-files-mp4-mov-for-easy-playback-anywhere/"><u>Save Your Favorite Radio Bremen Shows as MP3 or Video Files (MP4, MOV) for Easy Playback Anywhere</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/secure-and-authentic-telemundo-video-collection-safe-downloads-from-telemundos-website/"><u>Secure and Authentic Telemundo Video Collection - Safe Downloads From Telemundo's Website</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-sidestep-policy-based-installation-denial-in-windows/"><u>Strategies to Sidestep Policy-Based Installation Denial in Windows</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2016-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2016 File Not Opening Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-free-filter-treasures-through-instagrams-advanced-searches/"><u>Unraveling Free Filter Treasures Through Instagram’s Advanced Searches</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-maximizing-revenue-crafting-engaging-fb-animation-ads/"><u>[Updated] 2024 Approved Maximizing Revenue Crafting Engaging FB Animation Ads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-explore-the-top-5-pick-for-windows-screen-snipers/"><u>[Updated] In 2024, Explore the Top 5 Pick for Windows Screen Snipers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-revisit-and-refine-your-past-editing-fbs-look-back-videos-for-2024/"><u>[Updated] Revisit and Refine Your Past Editing FB's Look Back Videos for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/nefbmp-movavi/"><u>网络上无限制地将NEF格式转换为BMP - 使用Movavi图像转换器</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/cambiar-de-formato-wav-a-wmv-online-sin-coste-guia-integral-con-movavi/"><u>Cambiar De Formato WAV a WMV Online Sin Coste - Guía Integral Con Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/gsm-mp3-movavi/"><u>GSM 오디오를 원근보이한 MP3로 자유성 영역에서 쉽게 바꾸기 - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-lava-blaze-pro-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Lava Blaze Pro 5G Device</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mastering-visual-planning-learn-the-art-of-creating-an-effective-storyboard-in-just-7-simple-steps/"><u>Mastering Visual Planning: Learn the Art of Creating an Effective Storyboard in Just 7 Simple Steps</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/movavi-mpeg-4-to-avi/"><u>Movavi: 원탁해 무료 인터넷 공간의 MPEG-4 to AVI 전환</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-port-over-contacts-from-blackberry-devices-to-higher-end-samsung-phones/"><u>Step-by-Step Guide: How to Port Over Contacts From BlackBerry Devices to Higher End Samsung Phones</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/strumenti-online-per-la-conversione-da-vob-a-mp4-gratuito-e-facile-guidato-da-movavi/"><u>Strumenti Online per La Conversione Da VOB a MP4, Gratuito E Facile: Guidato Da Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-4-techniques-for-capturing-screen-and-sound-on-windows-a-comprehensive-guide/"><u>Top 4 Techniques for Capturing Screen & Sound on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/transforme-seus-arquivos-de-video-gratuitamente-com-o-conversor-movavi-m4v-a-3gp-on-line/"><u>Transforme Seus Arquivos De Vídeo Gratuitamente Com O Conversor Movavi M4V a 3GP On-Line</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-sound-effects-for-video-editing-a-comprehensive-guide-for-final-cut-pro-users-for-2024/"><u>Updated Free Sound Effects for Video Editing A Comprehensive Guide for Final Cut Pro Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/makes-a-youtube-short-go-viral-for-2024/"><u>What Makes a YouTube Short Go Viral for 2024</u></a></li>
 </ul></div>
 

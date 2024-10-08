@@ -1,7 +1,7 @@
 ---
 title: Top 11 Uncovered Touchpad Shortcuts Every Tech Enthusiast Should Master - Insider Tips
-date: 2024-09-28T07:27:11.672Z
-updated: 2024-10-02T18:47:05.762Z
+date: 2024-10-02T16:04:27.723Z
+updated: 2024-10-08T16:41:02.027Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -80,13 +80,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -104,6 +97,13 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -111,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,22 +156,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/battlenet-outage-how-to-tell-if-its-a-global-issue-or-local-glitch/"><u>Battle.net Outage - How to Tell If It's a Global Issue or Local Glitch</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/defying-the-odds-how-enthusiasts-successfully-upgraded-their-vintage-pcs-to-windows-11-despite-microsofts-restrictions-insights-from-zdnet/"><u>Defying the Odds: How Enthusiasts Successfully Upgraded Their Vintage PCs to Windows 11 Despite Microsoft's Restrictions - Insights From ZDNet</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/digital-sound-transformer-seamlessly-change-your-audio-tracks-into-mp3wma-and-others/"><u>Digital Sound Transformer - Seamlessly Change Your Audio Tracks Into MP3/WMA & Others</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-the-complimentary-mkv-support-plugin-compatible-with-windows-media-player-no-cost/"><u>Download the Complimentary MKV Support Plugin Compatible with Windows Media Player, No Cost!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/exploring-the-world-of-artificial-intelligence-computers-are-they-worth-your-investment/"><u>Exploring the World of Artificial Intelligence Computers: Are They Worth Your Investment?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/identifying-your-computers-graphics-processing-unit-a-comprehensive-guide-to-discovering-and-updating-gpu-drivers/"><u>Identifying Your Computer's Graphics Processing Unit: A Comprehensive Guide to Discovering and Updating GPU Drivers</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/impact-of-disk-encryption-on-computer-performance-insights-from-zdnet/"><u>Impact of Disk Encryption on Computer Performance: Insights From ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>In 2024, Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/instructional-guide-for-end-task-enabling-on-windows-11/"><u>Instructional Guide for End Task Enabling on Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/les-4-meilleurs-gratuites-dvd-ripper-pour-macos-monterey-en-2023-guide-complet/"><u>Les 4 Meilleurs Gratuites DVD Ripper Pour MacOS Monterey en 2023 : Guide Complet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/maximizing-performance-optimize-mov-files-in-win-11/"><u>Maximizing Performance Optimize MOV Files in Win 11</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/the-joy-of-language-mastery-with-duolingo-a-free-engaging-review-by-zdnet/"><u>The Joy of Language Mastery with Duolingo: A Free, Engaging Review by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-y78-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Y78 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-screen-driver-compatibility-for-win10-win8-and-win7-operating-systems/"><u>Troubleshooting and Fixing HP Screen Driver Compatibility for Win10, Win8 & Win7 Operating Systems</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unlock-the-hidden-power-of-windows-11-master-the-trick-for-immediate-app-closure-exclusive-insight-from-zdnets-experts/"><u>Unlock the Hidden Power of Windows 11: Master the Trick for Immediate App Closure | Exclusive Insight From ZDNet's Experts</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/upcoming-windows-on-arm-applications-set-to-revolutionize-the-scene-why-it-matters-zdnet/"><u>Upcoming Windows on ARM Applications Set to Revolutionize the Scene: Why It Matters - ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/windows-11-speed-boost-trick-easily-stop-lagging-apps-using-an-expert-tip-revealed-by-zdnet/"><u>Windows 11 Speed Boost Trick: Easily Stop Lagging Apps Using an Expert Tip Revealed by ZDNET</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-complete-guide-to-building-a-captivating-discord-pfp/"><u>[Updated] In 2024, The Complete Guide to Building a Captivating Discord PFP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/affordable-news-transformation-how-dl-consulting-reduces-costs-with-abbyy-technology/"><u>Affordable News Transformation: How DL Consulting Reduces Costs with ABBYY® Technology</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guide-to-downloading-and-enjoying-spotify-music-on-ipad-in-high-quality-audio-formats/"><u>Guide to Downloading and Enjoying Spotify Music on iPad in High-Quality Audio Formats</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-effortlessly-capture-clips-and-films-off-youku-a-guide-for-high-speed-downloading-tools/"><u>How to Effortlessly Capture Clips & Films Off Youku – A Guide for High-Speed Downloading Tools</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-save-your-favorite-periscope-broadcasts-as-high-quality-video-files/"><u>How To Save Your Favorite Periscope Broadcasts as High-Quality Video Files</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-transform-your-youtube-media-into-high-quality-flac-files-for-macos-and-windows-users/"><u>How to Transform Your YouTube Media Into High-Quality FLAC Files for macOS & Windows Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-for-fixing-media-creators-error-0x8007043c/"><u>Methods for Fixing Media Creator's Error 0X8007043C</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/thorough-examination-of-the-anker-maggo-6600mah-assessing-its-oversized-design-and-efficient-charging-capabilities/"><u>Thorough Examination of the Anker MagGo (6600mAh) - Assessing Its Oversized Design and Efficient Charging Capabilities</u></a></li>
 </ul></div>
 

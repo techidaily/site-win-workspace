@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Touch for Your MacBook: Elevate Your Experience Using an Amazing Portable Monitor | Learn How at ZDNET"
-date: 2024-09-26T23:52:05.544Z
-updated: 2024-10-03T08:38:26.553Z
+date: 2024-10-03T16:00:41.763Z
+updated: 2024-10-08T17:17:16.374Z
 tags:
   - office-furniture
 categories:
@@ -42,10 +42,10 @@ That mostly holds true with the Espresso Display V2, save for the cheaper price 
 The 15-inch touchscreen model that I've been testing [costs $499](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1), which isn't the most expensive portable monitor out there, but it's a marginal step up from the sub-$200 offerings that you'd typically find on [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dportable%2Bmonitor%26i%3Delectronics%26crid%3D24ZP2PE8N0I59%26sprefix%3Dportable%2Bmonitor%2Celectronics%2C82%26ref%3Dnb%5Fsb%5Fnoss%5F1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1). Here's my review of it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,10 +63,10 @@ The 15-inch touchscreen model that I've been testing [costs $499](https://buy.ge
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Designed for minimalists
@@ -86,13 +86,6 @@ June Wan/ZDNET
 The monitor has two USB-C ports for display connection and nothing more. Gone is the 3.5mm headphone jack that was on the V1 model, and you won't find any HDMI or USB port on the monitor, either. This can be a dealbreaker for some, especially if you're eyeing a portable monitor to use as a standalone device. At the same time, the minimal, one-cable-rules-all approach is what makes the Display V2 as thin as it is.
 
 **More: [Best portable monitors to get work done](https://www.zdnet.com/article/best-portable-monitor/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How it works
 
@@ -116,6 +109,13 @@ June Wan/ZDNET
 
 There are bottom-firing speakers on the monitor, but you're better off using the native one(s) of your connected device. It's certainly astounding how Espresso managed to cram a functioning speaker into the chassis, but in its pursuit of slimness, the actual audio performance takes a major hit. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Finally, a touchscreen for Mac
 
 Industrial achievements aside, the Display V2 impressed me the most by doing something that even Apple cannot: giving touchscreen support for my MacBook. As many [ZDNET contributors and readers have opined](https://www.zdnet.com/article/the-results-are-in-zdnets-linkedin-fans-want-a-touchscreen-macbook-too/), a MacBook with a touchscreen would make one of the best productivity machines even better. While the Display V2 doesn't turn your actual MacBook display into a touchscreen, it does replicate the content, allowing you to interact with taps, presses, and swipes. 
@@ -130,18 +130,18 @@ June Wan/ZDNET
 
 [Buy the Espresso Display V2 $683.07 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09WMX6442%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should you buy it?
 
 The [Espresso Display V2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca95f3e2c-2511-4e21-8a0a-a3043baa82c5%7Cdtp&dtb=1) is the thinnest portable monitor in the world, which means, by design, there are benefits and drawbacks. For traveling business people, hybrid workers, and digital nomads, the enhanced portability and simple set-up will be greatly appreciated. For remote and stationary workers, the ability to flex between display orientations and interact via touch comes in handy. 
 
 The things I'd watch out for are the subpar speakers, additional upcharges for accessories, and the glossy display panel, especially if you work near windows. If you can shoulder these limitations, then the Espresso Display V2 is as good as portable monitors get.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -189,19 +189,15 @@ For a no-frills portable monitor, we'd recommend this 15.6-inch, touchscreen off
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-pro-level-snap-tech-free-from-any-delaying-hiccups/"><u>[New] 2024 Approved Pro-Level Snap Tech Free From Any Delaying Hiccups</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-audiovisual-elements-in-eye-catching-fb-advertising/"><u>[New] In 2024, Audiovisual Elements in Eye-Catching FB Advertising</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-moments-that-foster-interest-in-audios/"><u>[Updated] First Moments that Foster Interest in Audios</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-flamegrab-ff-extras/"><u>[Updated] In 2024, Flamegrab FF Extras</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-content-how-to-see-more-on-fb-feed/"><u>[Updated] In 2024, Unlocking Content How to See More on FB Feed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-to-selecting-the-best-online-game-coverage/"><u>2024 Approved Secrets to Selecting the Best Online Game Coverage</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mkv-mov-movavi/"><u>線上無條件 MKV 到 MOV 轉檔工具 - 運用 Movavi 影片轉換器</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/guide-emulate-call-of-duty-mobile-action-on-your-pc/"><u>Guide: Emulate Call of Duty Mobile Action on Your PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-text-adventure-games-using-chatgpt-for-enhanced-player-experience/"><u>Mastering the Art of Text Adventure Games Using ChatGPT for Enhanced Player Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/streamline-your-listening-experience-swift-techniques-to-download-music-from-vk-platforms/"><u>Streamline Your Listening Experience: Swift Techniques to Download Music From VK Platforms</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transforme-seus-arquivos-aac-em-mp3-sem-custos-tecnica-simples-no-site-do-movavi/"><u>Transforme Seus Arquivos AAC Em MP3 Sem Custos - Técnica Simples No Site Do Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaker-distortion-issues-on-windows-117-solutions-inside/"><u>Troubleshooting Speaker Distortion Issues on Windows 11/7 - Solutions Inside</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/tutorial-pour-transferer-des-videos-entre-les-formats-quicktime-et-autres-methodes-faciles-a-suivre/"><u>Tutorial Pour Transférer Des Vidéos Entre Les Formats QuickTime Et Autres : Méthodes Faciles À Suivre !</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-chill-and-thrills-highlighting-olympic-snowboard-cross-winners/"><u>[New] In 2024, Chill & Thrills Highlighting Olympic Snowboard Cross Winners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-implementing-borders-on-instagram-images/"><u>[Updated] 2024 Approved Step-by-Step Guide to Implementing Borders on Instagram Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-instagrams-algorithm-unlocked-optimizing-your-reels/"><u>[Updated] Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[Updated] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/2021-ultimate-shopping-strategy-zdnets-expert-tips-for-black-friday-and-cyber-monday-deals/"><u>2021 Ultimate Shopping Strategy: ZDNet's Expert Tips for Black Friday & Cyber Monday Deals</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/act-before-its-too-late-windows-11-versions-21h2-and-22h2-hit-end-of-life-immediate-upgrade-essential-zdnet/"><u>Act Before It's Too Late: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Immediate Upgrade Essential! | ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/balancing-act-how-microsofts-ai-tool-copilot-blends-helpful-tech-and-salesmanship-explored-by-zdnet/"><u>Balancing Act: How Microsoft’s AI Tool, Copilot, Blends Helpful Tech and Salesmanship | Explored by ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-xlsx-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to add a digital signature field to a .xlsx </u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-find-x7-ultra-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo Find X7 Ultra Phone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/revolutionizing-discomfort-microsofts-latest-attempt-at-transforming-meetings-a-deep-dive-by-zdnet/"><u>Revolutionizing Discomfort: Microsoft's Latest Attempt at Transforming Meetings - A Deep Dive by ZDNet</u></a></li>
 </ul></div>
 

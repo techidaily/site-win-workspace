@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Reverses Decision: Continues Support for Windows Control Panel, Confirms Future Updates"
-date: 2024-10-01T21:28:29.987Z
-updated: 2024-10-03T02:44:06.362Z
+date: 2024-10-07T17:10:32.470Z
+updated: 2024-10-08T17:28:30.000Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,13 +148,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fixed-eclipsed-youtube-short-video-for-2024/"><u>[New] Fixed Eclipsed YouTube Short Video for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>[Updated] In 2024, The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-key-approaches-to-compelling-client-endorsements-on-film/"><u>[Updated] Key Approaches to Compelling Client Endorsements on Film</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-economical-systems-optimized-by-ideal-obs-settings/"><u>2024 Approved Economical Systems Optimized by Ideal OBS Settings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-hell-let-loose-pc-instability-and-game-crash-issues/"><u>Overcoming Hell Let Loose PC Instability and Game Crash Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/polling-pace-on-mice-vs-keyboards-a-comparative-analysis/"><u>Polling Pace on Mice vs Keyboards - A Comparative Analysis</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/revolutionize-your-digital-publishing-with-flipbuilder-explore-new-directions/"><u>Revolutionize Your Digital Publishing with FlipBuilder – Explore New Directions</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/revolutionize-your-digital-reading-experience-with-corner-flipping-effect-in-online-books-learn-more-at-flipbuildercom/"><u>Revolutionize Your Digital Reading Experience with Corner Flipping Effect in Online Books - Learn More at FlipBuilder.com</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/share-your-digital-flipbook-creations-with-friends-on-flipbuildercom/"><u>Share Your Digital Flipbook Creations with Friends on FlipBuilder.com</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/solving-the-mystery-of-nonfunctional-links-in-fliphtml-ibooks-created-with-flipbuilder/"><u>Solving the Mystery of Nonfunctional Links in FlipHTML iBooks Created with FlipBuilder</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-to-crafting-a-secure-flipbook-using-flipbuilder/"><u>Step-by-Step Guide to Crafting a Secure FlipBook Using FlipBuilder</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-adding-jpg-png-and-bmp-visuals-on-your-site-with-flipping-page-tools-tips-from-flipbuilder-pro/"><u>Step-by-Step Guide: Adding .jpg, .png, and .bmp Visuals on Your Site with Flipping Page Tools - Tips From FlipBuilder Pro</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transform-paperwork-into-practicality-with-flipoffices-custom-page-turning-desk-book-build-yours-now-on-flipbuildercom/"><u>Transform Paperwork Into Practicality with FlipOffice's Custom Page-Turning Desk Book - Build Yours Now on FlipBuilder.com</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fueling-inspiration-crafting-engaging-channel-content-for-2024/"><u>[New] Fueling Inspiration Crafting Engaging Channel Content for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] 2024 Approved Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-dynamic-photographic-ensembles/"><u>2024 Approved Building Dynamic Photographic Ensembles</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 10 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/best-picture-enhancing-apps-for-making-your-reel-videos-stand-out/"><u>Best Picture-Enhancing Apps for Making Your Reel Videos Stand Out</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deciding-on-your-next-smart-tv-key-points-to-note/"><u>Deciding on Your Next Smart TV: Key Points to Note</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/desktop-users-manual-easily-access-and-enjoy-instagram-reels-without-a-mobile-device/"><u>Desktop Users' Manual: Easily Access and Enjoy Instagram Reels Without a Mobile Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-extensive-43plus-ui-elements-collection-of-bootstraps-by-creative-tim-for-superior-web-designs/"><u>Discover the Extensive 43+ UI Elements Collection of Bootstraps by Creative Tim for Superior Web Designs</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effortless-techniques-for-transforming-word-docs-into-portable-pdf-format/"><u>Effortless Techniques for Transforming Word Docs Into Portable PDF Format</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effortlessly-shifting-itunes-audio-content-to-your-smartphone-a-comprehensive-tutorial/"><u>Effortlessly Shifting iTunes Audio Content to Your Smartphone - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-successfully-navigating-and-fixing-launch-issues-in-rocket-league/"><u>Expert Advice: Successfully Navigating and Fixing Launch Issues in Rocket League</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-p55plus-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel P55+ PC | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/seamless-transition-guide-how-to-move-your-data-effortlessly-from-ios-to-android/"><u>Seamless Transition Guide: How to Move Your Data Effortlessly From iOS to Android</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/speedy-methods-for-extracting-background-from-images-on-an-iphone-a-step-by-step-guide/"><u>Speedy Methods for Extracting Background From Images on an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/speedy-strategies-for-seamlessly-handling-your-iphones-address-book/"><u>Speedy Strategies for Seamlessly Handling Your iPhone's Address Book</u></a></li>
 </ul></div>
 

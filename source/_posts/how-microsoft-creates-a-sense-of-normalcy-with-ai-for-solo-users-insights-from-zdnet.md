@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Creates a Sense of Normalcy with AI for Solo Users | Insights From ZDNet
-date: 2024-09-28T23:29:56.894Z
-updated: 2024-10-02T22:39:19.686Z
+date: 2024-10-01T17:13:35.675Z
+updated: 2024-10-08T17:27:03.363Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +142,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +208,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-masters-crafting-unparalleled-vr-adventures/"><u>[New] In 2024, Masters Crafting Unparalleled VR Adventures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-complete-routine-for-hulu-capture-on-diverse-devices/"><u>[Updated] 2024 Approved The Complete Routine for Hulu Capture on Diverse Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[Updated] A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-high-quality-sound-memos/"><u>[Updated] Expert Tips for High-Quality Sound Memos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-the-future-of-virtual-health-advice-7-compelling-reasons-to-trust-ai-in-wellness/"><u>ChatGPT: The Future of Virtual Health Advice - 7 Compelling Reasons to Trust AI in Wellness</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/descargar-y-convertir-archivos-rmvb-a-formato-mp4-sin-costo-alguno-con-convertidor-online-de-movavi/"><u>Descargar Y Convertir Archivos RMVB a Formato MP4 Sin Costo Alguno Con Convertidor Online De Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/english-worlds-apart/"><u>English Worlds Apart</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/free-online-conversion-of-nsv-wmv-files-moveavi/"><u>Free Online Conversion of NSV WMV Files - MoveAVI</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/free-online-conversion-transform-your-wma-files-into-mp4-format-with-movavi/"><u>Free Online Conversion: Transform Your WMA Files Into MP4 Format with Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2019-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2019 Files on Mac Complete Guide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-10-tecnicas-online-para-gravacao-de-transmissoes-radiofonicas-guia-do-movavi/"><u>Top 10 Técnicas Online Para Gravação De Transmissões Radiofônicas - Guia Do Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-13-videa-gopro-editing-programy-najlepsi-pristup-k-software-s-pripravenim-obrazu/"><u>Top 13 Videa GoPro Editing Programy: Najlepší Prístup K Software S Přípravením Obrazů</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solved-connect-bluetooth-speaker-to-laptop-quickly-and-easily/"><u>[SOLVED] Connect Bluetooth Speaker To Laptop. Quickly & Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/achieve-crystal-clear-audio-with-instant-downloads-of-official-msi-drivers/"><u>Achieve Crystal Clear Audio with Instant Downloads of Official MSI Drivers</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/buy-microsoft-project-and-visio-pro-licenses-immediately-for-a-steal-only-20-available-now-on-zdnet/"><u>Buy Microsoft Project & Visio Pro Licenses Immediately for a Steal: Only $20 Available Now on ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/cloud-gaming-goes-big-how-microsoft-and-samsung-could-revolutionize-the-industry-together/"><u>Cloud Gaming Goes Big: How Microsoft & Samsung Could Revolutionize the Industry Together</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-vr-gear-for-aerial-devices-for-2024/"><u>Essential VR Gear for Aerial Devices for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/former-microsoft-boss-steve-ballmer-reveals-lack-of-bravery-insights-from-the-tech-world-zdnet/"><u>Former Microsoft Boss Steve Ballmer Reveals Lack of Bravery: Insights From the Tech World - ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-steelseries-gaming-mouse-install-software-download/"><u>Free SteelSeries Gaming Mouse Install Software Download</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/microsoft-reverses-decision-continues-support-for-windows-control-panel-confirms-future-updates/"><u>Microsoft Reverses Decision: Continues Support for Windows Control Panel, Confirms Future Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-wobbling-keyboard-arrows-in-windows-environments/"><u>Revive Wobbling Keyboard Arrows in Windows Environments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedy-for-windows-zoom-crash-error-1132/"><u>Swift Remedy for Windows Zoom Crash - Error 1132</u></a></li>
 </ul></div>
 

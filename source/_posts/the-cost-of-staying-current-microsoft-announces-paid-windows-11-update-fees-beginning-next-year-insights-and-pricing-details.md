@@ -1,7 +1,7 @@
 ---
 title: "The Cost of Staying Current: Microsoft Announces Paid Windows 11 Update Fees Beginning Next Year - Insights and Pricing Details"
-date: 2024-09-26T20:57:27.593Z
-updated: 2024-10-03T02:35:19.274Z
+date: 2024-10-03T16:54:06.322Z
+updated: 2024-10-08T16:36:01.941Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,22 +135,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,21 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-essential-guide-for-gopro-live-streams-to-social-media-hubs/"><u>[New] In 2024, The Essential Guide for GoPro Live Streams to Social Media Hubs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-laughing-through-the-metaverse-making-your-own-humor/"><u>[New] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[Updated] 2024 Approved Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-decoding-revenue-how-much-do-creators-earn-on-youtube-for-2024/"><u>[Updated] Decoding Revenue How Much Do Creators Earn on Youtube for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1-mastering-customization-adjusting-your-flipbuilder-menu-panels-color/"><u>1. Mastering Customization: Adjusting Your FlipBuilder Menu Panel's Color</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/webmkaaac/"><u>無償WebMKAファイルからAACへの変換ツール - モバヴェィ!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/batch-transform-your-word-docs-into-free-flash-animation-videos-swf/"><u>Batch Transform Your Word Docs Into Free Flash Animation Videos (SWF)</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/converting-3gpp-audio-files-to-mp3-format-free-quick-and-easy-with-movavi/"><u>Converting 3GPP Audio Files to MP3 Format Free - Quick and Easy with Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/cost-free-publishing-tool-for-ebooks-transform-your-text-documents-into-pdf-format-effortlessly/"><u>Cost-Free Publishing Tool for eBooks: Transform Your Text Documents Into PDF Format Effortlessly!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/create-and-distribute-interactive-flash-clips-from-pdfs-using-flipbuilder-the-ultimate-conversion-tool/"><u>Create and Distribute Interactive Flash Clips From PDFs Using FlipBuilder – The Ultimate Conversion Tool.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortlessly-switch-from-mp3-to-ogg-audio-a-cost-free-method/"><u>Effortlessly Switch From MP3 to OGG Audio - A Cost-Free Method</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-record-edit-and-produce-high-quality-webcam-videos/"><u>In 2024, How to Record, Edit and Produce High-Quality Webcam Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-google-meet-setup-and-scheduling-guide/"><u>In 2024, Mastering Google Meet Setup and Scheduling Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-listening-windows-episode-releases-for-2024/"><u>Prime Listening Windows Episode Releases for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/trasforma-file-ogg-a-formato-mov-senza-costi-guida-online-gratuita-moovavi/"><u>Trasforma File OGG a Formato MOV Senza Costi: Guida Online Gratuita - Moovavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pioneering-technology-cutting-edge-screen-capture-software-listings/"><u>[New] Pioneering Technology Cutting-Edge Screen Capture Software Listings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-bonds-before-buying-subscription-strategies/"><u>[Updated] 2024 Approved Building Bonds Before Buying Subscription Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pioneering-strategies-in-instavid-world-design-an-optimal-marketing-approach/"><u>[Updated] 2024 Approved Pioneering Strategies in InstaVid World Design an Optimal Marketing Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-decoding-social-medias-new-wave-10-realities-about-reels-for-2024/"><u>[Updated] Decoding Social Media's New Wave 10 Realities About Reels for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-instagram-selfies-a-comprehensive-guide-for-2024/"><u>[Updated] Demystifying Instagram Selfies A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sportswomens-scorecard-poker-analysis/"><u>2024 Approved SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-ai-prompting-tips-and-tricks-that-actually-work/"><u>7 AI Prompting Tips and Tricks That Actually Work</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/best-practices-and-applications-crafting-images-in-png-format-easily/"><u>Best Practices & Applications: Crafting Images in PNG Format Easily</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effortless-methods-for-easily-erasing-objects-in-images/"><u>Effortless Methods for Easily Erasing Objects in Images</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-6-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 6 activation lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-adding-descriptive-titlestexts-via-microsoft-photos-win-11/"><u>In 2024, Adding Descriptive Titles/Texts via Microsoft Photos Win 11</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-applying-borders-on-your-videos/"><u>Step-by-Step Guide: Applying Borders on Your Videos</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-transferring-your-huawei-p20-data-to-your-computer/"><u>Step-by-Step Guide: Transferring Your Huawei P20 Data to Your Computer</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-tutorials-on-how-to-swap-out-a-videos-soundtrack/"><u>Step-by-Step Tutorials on How to Swap Out a Video's Soundtrack</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-rated-applications-for-capturing-your-tablet-display/"><u>Top-Rated Applications for Capturing Your Tablet Display</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ultimate-tutorial-setting-up-live-gaming-sessions-through-obs-and-apowermirror/"><u>Ultimate Tutorial: Setting Up Live Gaming Sessions Through OBS & ApowerMirror</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlocking-file-management-easy-steps-to-review-data-on-iphones-and-ipads/"><u>Unlocking File Management: Easy Steps to Review Data on iPhones & iPads</u></a></li>
 </ul></div>
 

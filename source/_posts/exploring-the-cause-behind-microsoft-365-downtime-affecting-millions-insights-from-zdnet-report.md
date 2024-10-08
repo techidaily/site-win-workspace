@@ -1,7 +1,7 @@
 ---
 title: Exploring the Cause Behind Microsoft 365 Downtime Affecting Millions - Insights From ZDNet Report
-date: 2024-10-02T02:46:11.440Z
-updated: 2024-10-03T06:35:31.288Z
+date: 2024-10-01T17:07:35.246Z
+updated: 2024-10-08T16:11:56.762Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-unlocking-social-media-stardom-essential-strategies-for-instagram-fame-for-2024/"><u>[New] Unlocking Social Media Stardom Essential Strategies for Instagram Fame for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-mac-screen-clips-roundup-under-156-chars/"><u>[Updated] 2024 Approved Best Mac Screen Clips Roundup (Under 156 Chars)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evaluating-dailymotion-vs-youtube-profitability/"><u>[Updated] In 2024, Evaluating Dailymotion vs YouTube Profitability</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-innovative-approaches-for-unwavering-viewership-within-limit-for-2024/"><u>[Updated] Innovative Approaches for Unwavering Viewership (Within Limit) for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-fix-the-youtube-shorts-not-showing-up-issue/"><u>2024 Approved How to Fix the YouTube Shorts Not Showing Up Issue?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-galaxy-a35-now-available-in-the-us-with-comprehensive-5-year-security-support/"><u>Affordable Galaxy A35 Now Available in the U.S. with Comprehensive 5-Year Security Support</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/convert-arw-raw-images-to-jpeg-for-free-with-movavis-user-friendly-online-tool/"><u>Convert ARW RAW Images to JPEG for Free with Movavi's User-Friendly Online Tool</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/convertissez-gratuitement-un-fichier-mp4-au-format-mov-sur-internet-movavi/"><u>Convertissez Gratuitement Un Fichier MP4 Au Format MOV Sur Internet - Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/downloadador-de-audio-para-videos-mkv-ferramenta-conversora-de-codigo-aberto-movavi/"><u>Downloadador De Áudio Para Vídeos MKV: Ferramenta Conversora De Código Aberto - Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/en-musteri-satislarinda-secilecek-8-dizinin-adreslerini-kaydetmek-icin-en-kompleks-siteler-movavi/"><u>En Müşteri Satışlarında Seçilecek 8 Dizinin Adreslerini Kaydetmek İçin En Kompleks Siteler - Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/in-depth-look-at-wondershare-filmora-capabilities-and-cost-breakdown/"><u>In-Depth Look at Wondershare Filmora - Capabilities and Cost Breakdown</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/movavi-online-mp4-aac/"><u>Movavi Online: 자이어체를 비용 없이 MP4에서 AAC로 전환</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/rapid-ascension-harness-likes-and-videos-for-insta-success-for-2024/"><u>Rapid Ascension Harness Likes & Videos for Insta Success for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/the-ultimate-top-5-instagram-video-editor-picks-elevate-your-content-creation/"><u>The Ultimate Top 5 Instagram Video Editor Picks: Elevate Your Content Creation</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unlocking-the-full-potential-of-windows-n-10-settings-to-boost-gameplay-a-comprehensive-guide-for-gamers/"><u>Unlocking the Full Potential of Windows N 10 Settings to Boost Gameplay - A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-syma-x5c-a-beginners-prime-drone-choice-for-2024/"><u>Unveiling the Syma X5C A Beginner’s Prime Drone Choice for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-noise-reduction-for-better-video-experiences-on-youtube/"><u>[New] 2024 Approved Noise Reduction for Better Video Experiences on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonized-high-res-overlays-for-devices/"><u>[Updated] Harmonized High-Res Overlays for Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-harnessing-hashtags-for-hitting-video-hotspots-on-fb-for-2024/"><u>[Updated] Harnessing Hashtags for Hitting Video Hotspots on FB for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-easy-guide-mastering-movie-downloads-from-onionplay/"><u>1. Easy Guide: Mastering Movie Downloads From OnionPlay</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/exploring-the-world-of-artificial-intelligence-computers-are-they-worth-your-investment/"><u>Exploring the World of Artificial Intelligence Computers: Are They Worth Your Investment?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/identifying-your-computers-graphics-processing-unit-a-comprehensive-guide-to-discovering-and-updating-gpu-drivers/"><u>Identifying Your Computer's Graphics Processing Unit: A Comprehensive Guide to Discovering and Updating GPU Drivers</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/impact-of-disk-encryption-on-computer-performance-insights-from-zdnet/"><u>Impact of Disk Encryption on Computer Performance: Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a70-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A70 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>In 2024, Learn to Conduct Zoom Webinars A Newbie's Blueprint</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-website-downtime-a-guide-to-resolving-503-error-messages/"><u>Overcoming Website Downtime: A Guide to Resolving 503 Error Messages</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/the-joy-of-language-mastery-with-duolingo-a-free-engaging-review-by-zdnet/"><u>The Joy of Language Mastery with Duolingo: A Free, Engaging Review by ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-11-uncovered-touchpad-shortcuts-every-tech-enthusiast-should-master-insider-tips/"><u>Top 11 Uncovered Touchpad Shortcuts Every Tech Enthusiast Should Master - Insider Tips</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlock-the-hidden-power-of-windows-11-master-the-trick-for-immediate-app-closure-exclusive-insight-from-zdnets-experts/"><u>Unlock the Hidden Power of Windows 11: Master the Trick for Immediate App Closure | Exclusive Insight From ZDNet's Experts</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/upcoming-windows-on-arm-applications-set-to-revolutionize-the-scene-why-it-matters-zdnet/"><u>Upcoming Windows on ARM Applications Set to Revolutionize the Scene: Why It Matters - ZDNet</u></a></li>
 </ul></div>
 

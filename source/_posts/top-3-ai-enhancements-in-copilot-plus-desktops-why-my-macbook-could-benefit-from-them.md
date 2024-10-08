@@ -1,7 +1,7 @@
 ---
 title: "Top 3 AI Enhancements in Copilot + Desktops: Why My MacBook Could Benefit From Them"
-date: 2024-09-25T21:00:24.287Z
-updated: 2024-10-03T07:55:01.308Z
+date: 2024-10-07T17:03:58.928Z
+updated: 2024-10-08T17:18:04.879Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-capturing-audiene-with-spectacular-gadget-unboxing-vlogs-for-2024/"><u>[New] Capturing Audiene with Spectacular Gadget Unboxing Vlogs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-comparing-the-best-of-gopro-cameras/"><u>[New] Comparing the Best of GoPro Cameras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-gopro-max-versus-hero-11-ultimate-review-guide/"><u>[New] In 2024, GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-content-perfecting-videos-on-instagram/"><u>2024 Approved Elevate Your Content Perfecting Videos on Instagram</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-plan-for-streamlining-your-video-queue-on-youtube/"><u>2024 Approved The Ultimate Plan for Streamlining Your Video Queue on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-srt-to-video-top-10-free-subtitle-tools/"><u>2024 Approved Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/accessing-windows-11-using-your-microsoft-365-business-account-benefits-and-step-by-step-guide/"><u>Accessing Windows 11 Using Your Microsoft 365 Business Account: Benefits and Step-by-Step Guide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/critical-notice-secure-your-pc-with-an-update-for-end-of-life-windows-11-21h222h2-zdnet/"><u>Critical Notice: Secure Your PC with an Update for End-of-Life Windows 11 (21H2/22H2) | ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/download-and-convert-tidal-tracks-top-free-flac-transposer-apps-for-pc-and-mac/"><u>Download & Convert TIDAL Tracks: Top Free FLAC Transposer Apps for PC & Mac</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/embracing-innovation-in-spreadsheets-my-journey-into-microsofts-creative-call-to-action-as-featured-on-zdnet/"><u>Embracing Innovation in Spreadsheets: My Journey Into Microsoft's Creative Call-to-Action as Featured on ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/grabacion-de-video-gratuita-online-convertir-archivos-vob-a-formatos-mjpeg-con-movavi/"><u>Grabación De Vídeo Gratuita Online: Convertir Archivos VOB a Formatos MJPEG Con Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/is-microsofts-new-release-a-game-changer-or-annoyance-discover-the-truth-with-zdnet/"><u>Is Microsoft's New Release a Game-Changer or Annoyance? Discover the Truth with ZDNet!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mastering-file-management-on-the-go-a-step-by-step-guide-to-utilizing-microsoft-365-mobile-for-document-collaboration/"><u>Mastering File Management On-the-Go: A Step-by-Step Guide to Utilizing Microsoft 365 Mobile for Document Collaboration</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/play-anywhere-no-region-restrictions-with-this-universal-dvd-player-application/"><u>Play Anywhere: No Region Restrictions with This Universal DVD Player Application</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/revolutionizing-discomfort-microsofts-latest-attempt-at-transforming-meetings-a-deep-dive-by-zdnet/"><u>Revolutionizing Discomfort: Microsoft's Latest Attempt at Transforming Meetings - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-enroll-in-the-windows-insider-program-with-microsoft-reasons-and-benefits/"><u>Step-by-Step Guide: Enroll in the Windows Insider Program with Microsoft - Reasons & Benefits</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/the-great-shift-in-iot-googles-departure-and-microsofts-strategic-entry/"><u>The Great Shift in IoT: Google's Departure and Microsoft’s Strategic Entry</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-affordable-cameras-for-effective-vloggers/"><u>[New] 2024 Approved Affordable Cameras for Effective Vloggers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/downloadador-de-audio-para-videos-mkv-ferramenta-conversora-de-codigo-aberto-movavi/"><u>Downloadador De Áudio Para Vídeos MKV: Ferramenta Conversora De Código Aberto - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-vivo-v29e-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Vivo V29e.</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-online-converter-transform-tiff-images-into-gif-format-with-ease-try-movavi/"><u>Free Online Converter: Transform TIFF Images Into GIF Format with Ease - Try Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/gratis-online-omzettingen-van-qt-fliesjes-naar-mp3-movavi/"><u>Gratis Online Omzettingen Van QT-Fliesjes Naar MP3 - Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-p55-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel P55 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-5-ways-to-record-facetime-calls/"><u>In 2024, 5 Ways to Record FaceTime Calls</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-6-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 6 & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/in-depth-look-at-wondershare-filmora-capabilities-and-cost-breakdown/"><u>In-Depth Look at Wondershare Filmora - Capabilities and Cost Breakdown</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/melhor-software-de-edicao-de-videos-para-youtubers-top-10-escolhas-para-sistemas-windows-e-mac/"><u>Melhor Software De Edição De Vídeos Para YouTubers: Top 10 Escolhas Para Sistemas Windows E Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trouble-with-dvds-master-the-solution-for-seamless-playback-ripping-and-copying/"><u>Trouble with DVDs? Master the Solution for Seamless Playback, Ripping & Copying!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mp4avimov-moviebutler/"><u>オンラインでの自由なMP4/AVIファイルをMOVに簡単変換 - MOVIEBUTLER</u></a></li>
 </ul></div>
 

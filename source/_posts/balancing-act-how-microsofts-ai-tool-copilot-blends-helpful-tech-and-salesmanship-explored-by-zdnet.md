@@ -1,7 +1,7 @@
 ---
 title: "Balancing Act: How Microsoft’s AI Tool, Copilot, Blends Helpful Tech and Salesmanship | Explored by ZDNET"
-date: 2024-09-29T19:43:05.480Z
-updated: 2024-10-02T22:29:02.364Z
+date: 2024-10-01T16:18:25.336Z
+updated: 2024-10-08T17:31:19.242Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,16 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,22 +148,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,17 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-get-it-right-a-beginners-guide-to-iphone-screen-shots/"><u>[New] Get It Right A Beginner's Guide to iPhone Screen Shots</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-high-definition-aesthetics-exclusive-top-15-lut-selection-for-gopro/"><u>[Updated] 2024 Approved High-Definition Aesthetics Exclusive Top 15 LUT Selection for GOPRO</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-skills-importing-snapchat-images-into-device-gallery-for-2024/"><u>[Updated] Essential Skills Importing Snapchat Images Into Device Gallery for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-expertly-slice-your-videos-macs-finest-mp4-applications/"><u>[Updated] Expertly Slice Your Videos Mac's Finest MP4 Applications</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-no-more-hassle-record-games-like-pros/"><u>[Updated] No More Hassle Record Games Like Pros</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/best-practices-and-applications-crafting-images-in-png-format-easily/"><u>Best Practices & Applications: Crafting Images in PNG Format Easily</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effortless-methods-for-easily-erasing-objects-in-images/"><u>Effortless Methods for Easily Erasing Objects in Images</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-deskjet-ink-advantage-3050a-updated-drivers-secure-compatibility-with-windows-download-now/"><u>Get Your HP Deskjet Ink Advantage 3050A Updated Drivers: Secure Compatibility with Windows - Download Now</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-transferring-your-huawei-p20-data-to-your-computer/"><u>Step-by-Step Guide: Transferring Your Huawei P20 Data to Your Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-hot-40i-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Hot 40i? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-rated-applications-for-capturing-your-tablet-display/"><u>Top-Rated Applications for Capturing Your Tablet Display</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/ultimate-tutorial-setting-up-live-gaming-sessions-through-obs-and-apowermirror/"><u>Ultimate Tutorial: Setting Up Live Gaming Sessions Through OBS & ApowerMirror</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-walkthrough-transferring-visuals-on-apple-devices/"><u>[New] Expert Walkthrough Transferring Visuals on Apple Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-assessment-gopro-silver-hero4-sliver/"><u>2024 Approved In-Depth Assessment GoPro Silver Hero4 Sliver</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/comparatif-de-qualite-png-vs-jpg-quel-format-offre-le-meilleur-rendu-visuel/"><u>Comparatif De Qualité PNG Vs. JPG - Quel Format Offre Le Meilleur Rendu Visuel?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/home-cinematic-excellence-with-5-quick-tips-for-2024/"><u>Home Cinematic Excellence with 5 Quick Tips for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-designjet-500-printer-driver-download-latest-version/"><u>HP DesignJet 500 Printer Driver Download - Latest Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>In 2024, Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone SE</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-advanced-video-editing-techniques-and-effects-for-2024/"><u>New Unleash Your Creativity Advanced Video Editing Techniques and Effects for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protecting-your-mobile-data-how-to-set-up-biometric-authentication-and-passwords-for-iphone-security/"><u>Protecting Your Mobile Data: How to Set Up Biometric Authentication & Passwords for iPhone Security</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-to-downloading-and-saving-gangnam-style-songs-in-mp4avimov-for-mac-users-and-windows/"><u>Step-by-Step Guide to Downloading and Saving Gangnam Style Songs in MP4/AVI/MOV for Mac Users and Windows</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-and-downloading-your-favorite-bollywood-movies-into-common-formats-like-mp4-mov-or-avi/"><u>Step-by-Step Guide: Converting and Downloading Your Favorite Bollywood Movies Into Common Formats Like MP4, MOV, or AVI</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-okru-streams-into-mp4-and-other-formats-on-macwindows/"><u>Step-by-Step Guide: Converting Ok.ru Streams Into MP4 & Other Formats on Mac/Windows</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-content-from-niconico-efficiently/"><u>Step-by-Step Guide: Downloading Content From Niconico Efficiently</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-yupptv-content-and-south-asian-shows-for-offline-viewing/"><u>Step-by-Step Guide: Downloading YuppTV Content & South Asian Shows for Offline Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-srt-addition-to-mp4s-for-next-level-audio-for-2024/"><u>Step-by-Step SRT Addition to MP4s for Next-Level Audio for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-tutorial-how-to-download-high-quality-mp4-videos-from-youtube-using-any-computer-mac-or-windows/"><u>Step-by-Step Tutorial: How To Download High-Quality MP4 Videos From YouTube Using Any Computer (Mac or Windows)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/streamline-your-media-library-by-downloading-video-content-in-various-formats-mp4-mov-avi-from-videomore/"><u>Streamline Your Media Library by Downloading Video Content in Various Formats (MP4, MOV, AVI) From Videomore.</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/telemb-downloader-pro-seamless-conversion-from-streaming-videos-to-multiple-formats-like-mp4-avi-and-wmv/"><u>TeleMB Downloader Pro: Seamless Conversion From Streaming Videos to Multiple Formats Like MP4, AVI & WMV</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-libertarian-software-replacement-a-comprehensive-guide-for-macos-and-windows-allavsoft/"><u>Top Libertarian Software Replacement: A Comprehensive Guide for macOS & Windows (Allavsoft)</u></a></li>
 </ul></div>
 

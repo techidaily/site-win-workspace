@@ -1,7 +1,7 @@
 ---
 title: "Critical Notice: Secure Your PC with an Update for End-of-Life Windows 11 (21H2/22H2) | ZDNet"
-date: 2024-10-01T20:34:57.943Z
-updated: 2024-10-03T04:02:14.234Z
+date: 2024-10-03T17:25:59.086Z
+updated: 2024-10-08T16:48:55.928Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-core-elements-in-virtual-narrative-design/"><u>[New] Core Elements in Virtual Narrative Design</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-enhance-videos-with-easy-apple-music-integration/"><u>2024 Approved Enhance Videos with Easy Apple Music Integration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/critical-5-changes-in-apple-phone-photoshoot-settings/"><u>Critical 5 Changes in Apple Phone Photoshoot Settings</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/discover-how-microsoft-could-be-upsetting-more-clients-with-its-new-tactics-according-to-zdnet/"><u>Discover How Microsoft Could Be Upsetting More Clients With Its New Tactics, According to ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-microsoft-creates-a-sense-of-normalcy-with-ai-for-solo-users-insights-from-zdnet/"><u>How Microsoft Creates a Sense of Normalcy with AI for Solo Users | Insights From ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Moto G34 5G FRP?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-12-mini-activation-lock-primer-by-drfone-ios-unlock-ios-unlock/"><u>iPhone 12 mini activation lock primer</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/purchase-microsoft-project-and-visio-professional-licenses-today-at-just-20-exclusive-offer-on-zdnet/"><u>Purchase Microsoft Project & Visio Professional Licenses Today at Just $20 - Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/simple-ethical-hacking-technique-exposes-flaw-in-microsofts-ai-recall-system-insights-from-a-dedicated-cybersecurity-professional/"><u>Simple Ethical Hacking Technique Exposes Flaw in Microsoft's AI Recall System: Insights From a Dedicated Cybersecurity Professional</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-pcs-name-on-windows-10/"><u>Step-by-Step Guide: Discovering Your PC's Name on Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics-for-2024/"><u>Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-5-cycle-stationery-units-for-a-productive-2023-insights-from-zdnet/"><u>Top 5 Cycle Stationery Units for a Productive 2023 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unveiling-microsofts-innovative-ai-copy-and-paste-feature-tips-and-usage-guide-zdnet-insights/"><u>Unveiling Microsoft's Innovative AI Copy-and-Paste Feature: Tips & Usage Guide | ZDNet Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/updating-old-pcs-think-beyond-windows/"><u>Updating Old PCs? Think Beyond Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-overcoming-technical-challenges-with-fb-live-videos/"><u>[Updated] Overcoming Technical Challenges with FB Live Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-a56s-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo A56s 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-collaboration-using-copilot-in-microsoft-teams-an-ultimate-guide/"><u>Enhance Collaboration Using Copilot in Microsoft Teams: An Ultimate Guide</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/expert-tips-for-securing-and-backing-up-project-files-in-flipbuilders-flipbook-platform/"><u>Expert Tips for Securing and Backing Up Project Files in FlipBuilder's FlipBook Platform</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-get-a-user-guide-for-flipbuildercom-a-comprehensive-tutorial/"><u>How to Get a User Guide for FlipBuilder.com: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-integrate-auto-playing-flipbooks-into-your-site-using-flipbuilder-technology/"><u>How To Integrate Auto-Playing Flipbooks Into Your Site Using FlipBuilder Technology</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-position-the-toolbar-at-the-top-in-a-flipbook-using-flipbuilder/"><u>How to Position the Toolbar at the Top in a FlipBook Using FlipBuilder</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/masterful-pdf-edits-resizing-and-reorienting-pages-in-flipbuilder-for-premium-quality-scans/"><u>Masterful PDF Edits: Resizing & Reorienting Pages in FlipBuilder for Premium Quality Scans</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mastering-page-design-inserting-your-company-logo-directly-overhead-discover-techniques-on-flipbuildercom/"><u>Mastering Page Design: Inserting Your Company Logo Directly Overhead - Discover Techniques on FlipBuilder.com</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-non-operational-status-of-diagnostics-management-service/"><u>Resolving the Non-Operational Status of Diagnostics Management Service</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/revolutionize-your-year-with-unlimited-lifetime-access-to-mondly-premium-at-no-cost/"><u>Revolutionize Your Year with Unlimited Lifetime Access to Mondly Premium at No Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-non-functioning-pc-audio-devices/"><u>Top Solutions for Non-Functioning PC Audio Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-if-you-encounter-a-shelldll-not-present-error-message/"><u>What To Do If You Encounter a 'Shell.dll Not Present' Error Message</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a78-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A78 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

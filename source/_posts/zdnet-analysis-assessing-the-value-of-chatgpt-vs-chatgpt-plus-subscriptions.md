@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Analysis: Assessing the Value of ChatGPT Vs. ChatGPT Plus Subscriptions"
-date: 2024-09-27T04:30:53.252Z
-updated: 2024-10-02T18:57:13.480Z
+date: 2024-10-01T17:31:47.284Z
+updated: 2024-10-08T16:32:42.901Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -95,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -128,13 +142,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>2024 Approved The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/apple-embraces-siri-as-its-new-search-engine-is-a-shift-towards-ai-the-future-zdnet/"><u>Apple Embraces Siri as Its New Search Engine: Is a Shift Towards AI the Future? | ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/buy-microsoft-project-and-visio-pro-licenses-immediately-for-a-steal-only-20-available-now-on-zdnet/"><u>Buy Microsoft Project & Visio Pro Licenses Immediately for a Steal: Only $20 Available Now on ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/discover-microsofts-ingenious-approach-to-normalizing-ai-an-insightful-perspective-for-solo-users-zdnet/"><u>Discover Microsoft’s Ingenious Approach to Normalizing AI: An Insightful Perspective for Solo Users | ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-raw-renders-to-rich-realities-grading-in-post-production-for-2024/"><u>From Raw Renders to Rich Realities Grading in Post-Production for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-video-player-apps-for-windows-os-enthusiasts-for-2024/"><u>Ideal Video Player Apps for Windows OS Enthusiasts for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-best-cloud-storage-for-your-photos-free-and-paid-included/"><u>In 2024, The Best Cloud Storage for Your Photos Free and Paid Included</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-5-ps1-emulation-tools-for-modern-pcs/"><u>In 2024, Ultimate 5 PS1 Emulation Tools for Modern PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-broadcast-mastery-exploring-superior-software-options-beyond-manycams-virtual-camera-technology/"><u>Live Broadcast Mastery: Exploring Superior Software Options Beyond ManyCam's Virtual Camera Technology</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/master-recommendations-inside-the-ultimate-guide-to-windows-laptops-at-best-buy-zdnet/"><u>Master Recommendations Inside: The Ultimate Guide to Windows Laptops at Best Buy - ZDNet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/master-the-art-of-fast-instagram-videos-for-2024/"><u>Master the Art of Fast Instagram Videos for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/purchase-professional-licenses-microsoft-project-and-visio-for-just-20-zdnet-deals/"><u>Purchase Professional Licenses: Microsoft Project & Visio for Just $20 - ZDNet Deals</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/secure-your-discounted-ms-project-and-visio-professional-licenses-for-only-20-today-exclusive-offer-on-zdnet/"><u>Secure Your Discounted MS Project & Visio Professional Licenses for Only $20 Today - Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-3-ai-enhancements-in-copilot-plus-desktops-why-my-macbook-could-benefit-from-them/"><u>Top 3 AI Enhancements in Copilot + Desktops: Why My MacBook Could Benefit From Them</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/transform-photos-with-the-premier-11-edits/"><u>Transform Photos with the Premier 11 Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>[New] Pro 3 Camera Insight Mastering Video on the Go with ION</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-techniques-optimizing-obs-streams-for-your-fb-audience/"><u>[Updated] In 2024, Expert Techniques Optimizing OBS Streams for Your FB Audience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-key-10-plug-ins-for-elevating-your-fcp-workflow/"><u>[Updated] In 2024, Key 10 Plug-Ins for Elevating Your FCP Workflow</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/webmkaaac/"><u>無償WebMKAファイルからAACへの変換ツール - モバヴェィ!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/converti-gratuitamente-file-wav-in-formato-flac-con-soluzione-online-movevvi/"><u>Converti Gratuitamente File WAV in Formato FLAC Con Soluzione Online - Movevvi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/converting-3gpp-audio-files-to-mp3-format-free-quick-and-easy-with-movavi/"><u>Converting 3GPP Audio Files to MP3 Format Free - Quick and Easy with Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-wf-2630-driver-updated-software-for-windows-users-78110/"><u>Epson WF 2630 Driver: Updated Software for Windows Users (7/8.1/10)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-video-conversion-tool-transform-movwmv-files-for-web-sharing/"><u>Free Video Conversion Tool: Transform MOV/WMV Files for Web Sharing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-your-obs-mic-issues-expert-tips-and-tricks/"><u>How To Repair Your OBS Mic Issues: Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-top-7-superior-wet-proof-camcorders/"><u>In 2024, Ultimate Guide Top 7 Superior Wet-Proof Camcorders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/love-in-a-digital-age-chatgpt-to-the-rescue/"><u>Love in a Digital Age: ChatGPT to the Rescue</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/spearheading-efficient-speech-recognition-on-google-platforms/"><u>Spearheading Efficient Speech Recognition on Google Platforms</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/trasforma-file-ogg-a-formato-mov-senza-costi-guida-online-gratuita-moovavi/"><u>Trasforma File OGG a Formato MOV Senza Costi: Guida Online Gratuita - Moovavi</u></a></li>
 </ul></div>
 
