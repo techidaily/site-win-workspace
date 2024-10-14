@@ -1,7 +1,7 @@
 ---
 title: How Does Full-Disk Encryption Affect PC Speed? An Analysis by ZDNet
-date: 2024-10-01T16:12:50.393Z
-updated: 2024-10-08T16:17:44.976Z
+date: 2024-10-13T00:51:29.053Z
+updated: 2024-10-14T05:46:11.532Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-your-storytelling-game-on-snapchat-top-15-ideas/"><u>[New] In 2024, Elevate Your Storytelling Game on Snapchat (Top 15 Ideas)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-a-comprehensive-introduction-to-quantum-hdr-principles/"><u>2024 Approved A Comprehensive Introduction to Quantum HDR Principles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-watch-more-not-less-secrets-to-free-youtube-gains/"><u>2024 Approved Watch More, Not Less Secrets to Free YouTube Gains</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/desktop-users-manual-easily-access-and-enjoy-instagram-reels-without-a-mobile-device/"><u>Desktop Users' Manual: Easily Access and Enjoy Instagram Reels Without a Mobile Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-fixes-for-players-facing-problems-with-starting-gta-5-gameplay/"><u>DIY Fixes for Players Facing Problems with Starting GTA 5 Gameplay</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effortless-techniques-for-transforming-word-docs-into-portable-pdf-format/"><u>Effortless Techniques for Transforming Word Docs Into Portable PDF Format</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-artisans-guide-to-aesthetic-photographic-adjustments/"><u>In 2024, The Artisan's Guide to Aesthetic Photographic Adjustments</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/seamless-transition-guide-how-to-move-your-data-effortlessly-from-ios-to-android/"><u>Seamless Transition Guide: How to Move Your Data Effortlessly From iOS to Android</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/simple-steps-to-restore-accidentally-deleted-documents-on-windows-11/"><u>Simple Steps to Restore Accidentally Deleted Documents on Windows 11</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/speedy-methods-for-extracting-background-from-images-on-an-iphone-a-step-by-step-guide/"><u>Speedy Methods for Extracting Background From Images on an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-nvidia-and-amd-gpus-for-4k-workstations/"><u>Top NVIDIA & AMD GPUs for 4K Workstations</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-techniques-for-seamlessly-blending-your-car-into-any-imaginary-scene/"><u>Top Techniques for Seamlessly Blending Your Car Into Any Imaginary Scene</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-wi-fi-problems-on-your-apple-device-a-guide-with-eight-methods/"><u>Troubleshooting Wi-Fi Problems on Your Apple Device: A Guide with Eight Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-higher-engagement-a-guide-to-youtube-success/"><u>[New] 2024 Approved Unlocking Higher Engagement A Guide to YouTube Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2023-8-free-and-online-facebook-link-downloaders/"><u>[Updated] 2023 | 8 Free And Online Facebook Link Downloaders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-clear-youtubes-obscured-visual-field/"><u>[Updated] 2024 Approved Clear Youtube's Obscured Visual Field</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-best-budget-friendly-high-quality-ae-templates/"><u>[Updated] Best Budget-Friendly, High-Quality AE Templates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-techniques-extracting-youtube-audio/"><u>2024 Approved Techniques Extracting YouTube Audio</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/descargar-y-convertir-archivos-rmvb-a-formato-mp4-sin-costo-alguno-con-convertidor-online-de-movavi/"><u>Descargar Y Convertir Archivos RMVB a Formato MP4 Sin Costo Alguno Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/en-musteri-satislarinda-secilecek-8-dizinin-adreslerini-kaydetmek-icin-en-kompleks-siteler-movavi/"><u>En Müşteri Satışlarında Seçilecek 8 Dizinin Adreslerini Kaydetmek İçin En Kompleks Siteler - Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-online-conversion-of-nsv-wmv-files-moveavi/"><u>Free Online Conversion of NSV WMV Files - MoveAVI</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-online-conversion-transform-your-wma-files-into-mp4-format-with-movavi/"><u>Free Online Conversion: Transform Your WMA Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-pro-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 Pro to Roku? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-reno-8t-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-navigating-through-the-best-10-free-video-chat-options-for-business-and-education-sectors/"><u>In 2024, Navigating Through the Best 10 Free Video Chat Options for Business and Education Sectors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-windows-11-driver-for-amd-radeon-hd-6950-gpu/"><u>Latest Windows 11 Driver for AMD Radeon HD 6950 GPU</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-10-tecnicas-online-para-gravacao-de-transmissoes-radiofonicas-guia-do-movavi/"><u>Top 10 Técnicas Online Para Gravação De Transmissões Radiofônicas - Guia Do Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-10-video-compression-tools-optimized-for-streaming-on-discord-with-movavi/"><u>Top 10 Video Compression Tools Optimized for Streaming on Discord with Movavi</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-11-vob-player-software-for-windows-and-mac-os-compare-the-best-free-video-tools/"><u>Top 11 VOB Player Software for Windows and Mac OS - Compare the Best Free Video Tools!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-13-videa-gopro-editing-programy-najlepsi-pristup-k-software-s-pripravenim-obrazu/"><u>Top 13 Videa GoPro Editing Programy: Najlepší Prístup K Software S Přípravením Obrazů</u></a></li>
 </ul></div>
 

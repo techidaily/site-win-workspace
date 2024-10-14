@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Update Charges Coming Soon? Find Out How Much You'll Need to Pay in This Upcoming Change by Microsoft
-date: 2024-10-06T16:31:05.390Z
-updated: 2024-10-08T16:42:44.463Z
+date: 2024-10-09T06:04:24.966Z
+updated: 2024-10-14T01:45:28.452Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[New] In 2024, Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unveiling-your-online-income-an-all-encompassing-guide-on-measuring-youtube-growth-and-earnings/"><u>[Updated] Unveiling Your Online Income An All-Encompassing Guide on Measuring YouTube Growth & Earnings</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/best-picture-enhancing-apps-for-making-your-reel-videos-stand-out/"><u>Best Picture-Enhancing Apps for Making Your Reel Videos Stand Out</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/desktop-users-manual-easily-access-and-enjoy-instagram-reels-without-a-mobile-device/"><u>Desktop Users' Manual: Easily Access and Enjoy Instagram Reels Without a Mobile Device</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effortlessly-shifting-itunes-audio-content-to-your-smartphone-a-comprehensive-tutorial/"><u>Effortlessly Shifting iTunes Audio Content to Your Smartphone - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/free-methods-to-capture-and-preserve-your-voicemail-a-step-by-step-guide/"><u>Free Methods to Capture and Preserve Your Voicemail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-started-with-vr-setting-up-your-oculus-meta-quest-or-quest-2/"><u>Get Started with VR: Setting Up Your Oculus (Meta) Quest or Quest 2</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-communication-how-chatgpt-enhances-global-understanding-through-translation/"><u>Revolutionizing Communication: How ChatGPT Enhances Global Understanding Through Translation</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/speedy-strategies-for-seamlessly-handling-your-iphones-address-book/"><u>Speedy Strategies for Seamlessly Handling Your iPhone's Address Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/voice-command-showdown-comparing-the-pros-and-cons-of-alexa-and-google-assistant-for-users-like-you/"><u>Voice Command Showdown: Comparing the Pros and Cons of Alexa & Google Assistant for Users Like You</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-group-chat-and-webcams-the-best-selection-for-2024/"><u>[New] Elite Group Chat & Webcams The Best Selection for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-pages-for-stylish-shiny-3d-type-creations/"><u>[New] In 2024, Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mac-owners-guide-to-downloading-snapchat/"><u>2024 Approved Mac Owners' Guide to Downloading Snapchat</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/announcement-launch-of-emeditor-pro-version-13-beta-4-latest-update-for-text-editing-software/"><u>Announcement: Launch of EmEditor Pro Version 13 Beta 4, Latest Update for Text Editing Software</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/best-3-mobile-applications-for-seamless-iphone-data-migration/"><u>Best 3 Mobile Applications for Seamless iPhone Data Migration</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guide-emulate-call-of-duty-mobile-action-on-your-pc/"><u>Guide: Emulate Call of Duty Mobile Action on Your PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-a05s-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-best-budget-gaming-accessories-keyboards-and-mice-under-99/"><u>In 2024, Best Budget Gaming Accessories Keyboards & Mice Under $99</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-voice-over-mastery-essential-fcp-recording-hacks-for-2024/"><u>New Voice Over Mastery Essential FCP Recording Hacks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-programs-making-movies-from-picture-files/"><u>Optimal Programs Making Movies From Picture Files</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/proven-techniques-with-showcase-images-elevate-your-sales-through-optimal-product-photography/"><u>Proven Techniques with Showcase Images: Elevate Your Sales Through Optimal Product Photography</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/setting-your-preferred-web-browser-as-default-in-emeditor-a-step-by-step-guide/"><u>Setting Your Preferred Web Browser as Default in EmEditor: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplified-approach-to-preserving-video-calls-for-2024/"><u>Simplified Approach to Preserving Video Calls for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ultimate-guide-seamless-photo-transfer-from-your-iphone-to-the-huawei-p30/"><u>Ultimate Guide: Seamless Photo Transfer From Your iPhone to the Huawei P30</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/understanding-macro-support-do-registries-and-globals-work-like-vimemacs-within-the-emeditor-text-editing-suite/"><u>Understanding Macro Support: Do Registries and Globals Work Like Vim/Emacs Within the EmEditor Text Editing Suite?</u></a></li>
 </ul></div>
 

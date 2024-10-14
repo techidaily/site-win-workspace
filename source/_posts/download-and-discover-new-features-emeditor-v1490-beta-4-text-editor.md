@@ -1,7 +1,7 @@
 ---
 title: "Download & Discover New Features: EmEditor v14.9.0 Beta 4 - Text Editor"
-date: 2024-10-06T16:55:09.564Z
-updated: 2024-10-08T16:59:22.178Z
+date: 2024-10-08T06:23:33.667Z
+updated: 2024-10-13T23:59:10.116Z
 tags:
   - product
 categories:
@@ -32,10 +32,10 @@ Updates from v14.9.0 beta 3 include:
    * The **In the Selection Only by Default** command was added to the menu item appeared when the **\>** button is clicked in the **Find**/**Replace** dialog box.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bugfixes
@@ -69,18 +69,22 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-aligning-content-quality-with-instagrams-user-base-for-2024/"><u>[New] Aligning Content Quality with Instagram's User Base for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-yts-best-practices-for-choosing-images-that-drive-view-count-updates/"><u>[Updated] 2024 Approved YT's Best Practices for Choosing Images That Drive View Count Updates</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>[Updated] Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-leading-edge-in-game-capture-moving-past-fbx-methods/"><u>2024 Approved Leading Edge in Game Capture Moving Past FBX Methods</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/affordable-quality-in-depth-review-of-keychron-k8-pro-mechanical-keyboard-and-its-nostalgic-mac-compatibility/"><u>Affordable Quality: In-Depth Review of Keychron K8 Pro Mechanical Keyboard & Its Nostalgic Mac Compatibility</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/april-2024-windows-updates-causing-trouble-identifying-how-they-affect-your-vpn-service-insights-from-microsoft/"><u>April 2024 Windows Updates Causing Trouble: Identifying How They Affect Your VPN Service - Insights From Microsoft</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/choosing-the-right-account-for-a-smooth-windows-11-setup-experience-expert-advice/"><u>Choosing the Right Account for a Smooth Windows 11 Setup Experience – Expert Advice</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/decades-of-vulnerabilities-how-microsofts-windows-continues-to-struggle-with-cybersecurity-analysis-by-zdnet/"><u>Decades of Vulnerabilities: How Microsoft's Windows Continues to Struggle with Cybersecurity - Analysis by ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-excellence-of-the-samsung-galaxy-tab-s7-the-ultimate-guide-to-choosing-a-middle-tier-tablet-for-android-aficionados/"><u>Discover the Excellence of the Samsung Galaxy Tab S7: The Ultimate Guide to Choosing a Middle-Tier Tablet for Android Aficionados</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-and-use-our-movavi-tool-to-transform-asf-audiovideo-files-with-zero-cost/"><u>Download and Use Our Movavi Tool to Transform ASF Audio/Video Files with Zero Cost!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transformez-votre-video-webm-en-format-flash-swf-sans-frais-effortlessly-avec-movavi/"><u>Transformez Votre Vidéo WebM en Format Flash SWF Sans Frais - Effortlessly Avec Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unlock-the-power-of-touch-for-your-macbook-elevate-your-experience-using-an-amazing-portable-monitor-learn-how-at-zdnet/"><u>Unlock the Power of Touch for Your MacBook: Elevate Your Experience Using an Amazing Portable Monitor | Learn How at ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-mediatrans-pcipadiphoneipod/"><u>WinX MediaTrans - PCからiPad・iPhone・iPodへの無限に移行可能なメディアマネジメント</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-youtubes-finest-virtual-reality-content/"><u>[New] 2024 Approved Explore YouTube's Finest Virtual Reality Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-browser-fb-vid-extractor-kit/"><u>[New] 2024 Approved Master Browser FB Vid Extractor Kit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-techniques-for-high-resolution-webcam-videos/"><u>[New] Top Techniques for High-Resolution WebCam Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-5-strategies-for-implementing-tiktok-video-descriptions-for-2024/"><u>[Updated] Top 5 Strategies for Implementing TikTok Video Descriptions for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/announcement-launch-of-emeditor-pro-version-13-beta-4-latest-update-for-text-editing-software/"><u>Announcement: Launch of EmEditor Pro Version 13 Beta 4, Latest Update for Text Editing Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-web-based-fax-solutions-available-today/"><u>Best Free Web-Based Fax Solutions Available Today</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/capitalize-in-style-with-wordcomplete-a-premier-uppercase-text-editor-feature-by-emeditor/"><u>Capitalize in Style with WordComplete: A Premier Uppercase Text Editor Feature by EmEditor</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/emeditor-pro-powerful-and-lightweight-text-editing-tool/"><u>EmEditor Pro - Powerful and Lightweight Text Editing Tool</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/fixing-the-multi-line-selection-issue-for-strings-enclosed-in-quotes-using-emeditor/"><u>Fixing the Multi-Line Selection Issue for Strings Enclosed in Quotes Using EmEditor</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 14?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-design-at-its-best-an-insightful-look-into-fugeteks-luxury-selfie-stick-model-ft-568/"><u>Innovative Design at Its Best: An Insightful Look Into Fugetek's Luxury Selfie Stick, Model FT-568</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/introducing-scrolling-upgrade-add-a-source-scrollbar-feature-in-your-emeditor-experience/"><u>Introducing Scrolling Upgrade: Add a Source Scrollbar Feature in Your EmEditor Experience</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/response-to-inquiry-handling-large-files-in-emeditor-text-editor/"><u>Response to Inquiry: Handling Large Files in EmEditor Text Editor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snap-spectacularly-with-top-10-sticker-enhancing-phone-apps/"><u>Snap Spectacularly with Top 10 Sticker-Enhancing Phone Apps</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/tips-and-tricks-how-to-keep-your-files-out-of-sight-in-emeditor-text-editor/"><u>Tips and Tricks: How to Keep Your Files Out of Sight in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshooting-data-transfer-flaws-in-the-emeditor-software/"><u>Troubleshooting Data Transfer Flaws in the EmEditor Software</u></a></li>
 </ul></div>
 

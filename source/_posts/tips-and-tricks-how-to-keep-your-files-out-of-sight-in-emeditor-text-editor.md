@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks: How to Keep Your Files Out of Sight in EmEditor Text Editor"
-date: 2024-10-02T16:07:34.605Z
-updated: 2024-10-08T17:32:05.453Z
+date: 2024-10-07T22:04:23.739Z
+updated: 2024-10-14T00:55:31.678Z
 tags:
   - product
 categories:
@@ -58,29 +58,28 @@ Viewing 4 posts - 1 through 4 (of 4 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-subforsub-review-is-it-safe-to-use-for-increasing-youtube-subscribers/"><u>[New] Subforsub Review? Is It Safe to Use for Increasing YouTube Subscribers?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-converting-youtube-to-gif-a-comprehensive-online-process-for-2024/"><u>[Updated] Converting YouTube to GIF A Comprehensive Online Process for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-discovering-your-youtube-unique-slot/"><u>2024 Approved Discovering Your YouTube Unique Slot</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightroom-workflow-creating-and-merging-professional-hdr-images/"><u>2024 Approved Lightroom Workflow Creating & Merging Professional HDR Images</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-price-tags-to-ai-output-excellence-gains/"><u>Comparing Price Tags to AI Output Excellence Gains</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/desktop-users-manual-easily-access-and-enjoy-instagram-reels-without-a-mobile-device/"><u>Desktop Users' Manual: Easily Access and Enjoy Instagram Reels Without a Mobile Device</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effortless-techniques-for-transforming-word-docs-into-portable-pdf-format/"><u>Effortless Techniques for Transforming Word Docs Into Portable PDF Format</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effortlessly-shifting-itunes-audio-content-to-your-smartphone-a-comprehensive-tutorial/"><u>Effortlessly Shifting iTunes Audio Content to Your Smartphone - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-first-video-second-comparing-podcast-vs-youtube/"><u>In 2024, Audio First, Video Second? Comparing Podcast vs YouTube</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-11-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 11 Pro Lock Screen</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-mpeg-video-joiner-software-top-selections/"><u>New In 2024, Free MPEG Video Joiner Software Top Selections</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimal-and-economical-selecting-the-top-free-webm-playback-options/"><u>Optimal and Economical Selecting the Top Free WebM Playback Options</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/seamless-transition-guide-how-to-move-your-data-effortlessly-from-ios-to-android/"><u>Seamless Transition Guide: How to Move Your Data Effortlessly From iOS to Android</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/simple-steps-to-restore-accidentally-deleted-documents-on-windows-11/"><u>Simple Steps to Restore Accidentally Deleted Documents on Windows 11</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/speedy-methods-for-extracting-background-from-images-on-an-iphone-a-step-by-step-guide/"><u>Speedy Methods for Extracting Background From Images on an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-applying-borders-on-your-videos/"><u>Step-by-Step Guide: Applying Borders on Your Videos</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-techniques-for-seamlessly-blending-your-car-into-any-imaginary-scene/"><u>Top Techniques for Seamlessly Blending Your Car Into Any Imaginary Scene</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-7-best-online-youtube-tag-extractors/"><u>[New] 2024 Approved 7 Best Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-harmony-through-play-our-best-10-gems/"><u>[New] Harmony Through Play Our Best 10 Gems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-modifying-ios-tones-for-max-impact/"><u>[Updated] In-Depth Modifying iOS Tones for Max Impact</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/announcement-launch-of-emeditor-pro-version-13-beta-4-latest-update-for-text-editing-software/"><u>Announcement: Launch of EmEditor Pro Version 13 Beta 4, Latest Update for Text Editing Software</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/capitalize-in-style-with-wordcomplete-a-premier-uppercase-text-editor-feature-by-emeditor/"><u>Capitalize in Style with WordComplete: A Premier Uppercase Text Editor Feature by EmEditor</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/download-and-discover-new-features-emeditor-v1490-beta-4-text-editor/"><u>Download & Discover New Features: EmEditor v14.9.0 Beta 4 - Text Editor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-tecno-spark-10-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Tecno Spark 10 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-ways-to-leverage-zoom-for-fb-live/"><u>Innovative Ways to Leverage Zoom for FB Live</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/installation-and-registration-wondershare-virbo/"><u>Installation and Registration | Wondershare Virbo</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/introducing-scrolling-upgrade-add-a-source-scrollbar-feature-in-your-emeditor-experience/"><u>Introducing Scrolling Upgrade: Add a Source Scrollbar Feature in Your EmEditor Experience</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/setting-your-preferred-web-browser-as-default-in-emeditor-a-step-by-step-guide/"><u>Setting Your Preferred Web Browser as Default in EmEditor: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-art-of-hidden-web-trails-in-top-browsers-like-chrome-edge-firefox-safari-and-opera/"><u>The Art of Hidden Web Trails in Top Browsers Like Chrome, Edge, Firefox, Safari, and Opera</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-ideas-into-videos-top-30-strategies/"><u>Transforming Ideas Into Videos Top 30 Strategies</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshooting-data-transfer-flaws-in-the-emeditor-software/"><u>Troubleshooting Data Transfer Flaws in the EmEditor Software</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/understanding-macro-support-do-registries-and-globals-work-like-vimemacs-within-the-emeditor-text-editing-suite/"><u>Understanding Macro Support: Do Registries and Globals Work Like Vim/Emacs Within the EmEditor Text Editing Suite?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 3 AI Enhancements in Copilot + Desktops: Why My MacBook Could Benefit From Them"
-date: 2024-10-07T17:03:58.928Z
-updated: 2024-10-08T17:18:04.879Z
+date: 2024-10-11T00:31:30.611Z
+updated: 2024-10-14T04:29:08.021Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-affordable-cameras-for-effective-vloggers/"><u>[New] 2024 Approved Affordable Cameras for Effective Vloggers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/downloadador-de-audio-para-videos-mkv-ferramenta-conversora-de-codigo-aberto-movavi/"><u>Downloadador De Áudio Para Vídeos MKV: Ferramenta Conversora De Código Aberto - Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-vivo-v29e-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Vivo V29e.</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/free-online-converter-transform-tiff-images-into-gif-format-with-ease-try-movavi/"><u>Free Online Converter: Transform TIFF Images Into GIF Format with Ease - Try Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/gratis-online-omzettingen-van-qt-fliesjes-naar-mp3-movavi/"><u>Gratis Online Omzettingen Van QT-Fliesjes Naar MP3 - Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-p55-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel P55 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-5-ways-to-record-facetime-calls/"><u>In 2024, 5 Ways to Record FaceTime Calls</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-6-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 6 & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/in-depth-look-at-wondershare-filmora-capabilities-and-cost-breakdown/"><u>In-Depth Look at Wondershare Filmora - Capabilities and Cost Breakdown</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/melhor-software-de-edicao-de-videos-para-youtubers-top-10-escolhas-para-sistemas-windows-e-mac/"><u>Melhor Software De Edição De Vídeos Para YouTubers: Top 10 Escolhas Para Sistemas Windows E Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trouble-with-dvds-master-the-solution-for-seamless-playback-ripping-and-copying/"><u>Trouble with DVDs? Master the Solution for Seamless Playback, Ripping & Copying!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mp4avimov-moviebutler/"><u>オンラインでの自由なMP4/AVIファイルをMOVに簡単変換 - MOVIEBUTLER</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-purestream-app-audit-report/"><u>[New] PureStream App Audit Report</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instas-tunes-ownership-and-legalities/"><u>[Updated] 2024 Approved Insta's Tunes Ownership & Legalities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-slomo-recording-app-evaluation-future-outlook/"><u>[Updated] Full SloMo Recording App Evaluation - Future Outlook</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-mastering-customization-adjusting-your-flipbuilder-menu-panels-color/"><u>1. Mastering Customization: Adjusting Your FlipBuilder Menu Panel's Color</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-12-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 12 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-effective-strategies-for-utilizing-auto-gpt-boost-your-efficiency/"><u>8 Effective Strategies for Utilizing Auto-GPT: Boost Your Efficiency</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/batch-transform-your-word-docs-into-free-flash-animation-videos-swf/"><u>Batch Transform Your Word Docs Into Free Flash Animation Videos (SWF)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/cost-free-publishing-tool-for-ebooks-transform-your-text-documents-into-pdf-format-effortlessly/"><u>Cost-Free Publishing Tool for eBooks: Transform Your Text Documents Into PDF Format Effortlessly!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/create-and-distribute-interactive-flash-clips-from-pdfs-using-flipbuilder-the-ultimate-conversion-tool/"><u>Create and Distribute Interactive Flash Clips From PDFs Using FlipBuilder – The Ultimate Conversion Tool.</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/create-stunning-album-artwork-with-flipimage-pro-innovative-3d-graphic-and-multimedia-tools-explore-at-flipbuildercom/"><u>Create Stunning Album Artwork with FlipImage Pro - Innovative 3D Graphic & Multimedia Tools [Explore at FlipBuilder.com]</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/customizing-your-flipbook-design-with-personalized-branding/"><u>Customizing Your FlipBook Design with Personalized Branding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/drei-kostenlose-tools-zur-umwandlung-von-videos-im-mts-format-zu-mp4/"><u>Drei Kostenlose Tools Zur Umwandlung Von Videos Im MTS-Format Zu MP4</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-user-experience-using-the-power-of-cookiebot/"><u>Elevate User Experience Using the Power of Cookiebot</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/expert-tips-for-securing-and-backing-up-project-files-in-flipbuilders-flipbook-platform/"><u>Expert Tips for Securing and Backing Up Project Files in FlipBuilder's FlipBook Platform</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-get-a-user-guide-for-flipbuildercom-a-comprehensive-tutorial/"><u>How to Get a User Guide for FlipBuilder.com: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-se-2022-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://win-able.techidaily.com/twitch-audio-issues-solved-ensure-perfect-streaming-sounds/"><u>Twitch Audio Issues Solved – Ensure Perfect Streaming Sounds!</u></a></li>
 </ul></div>
 

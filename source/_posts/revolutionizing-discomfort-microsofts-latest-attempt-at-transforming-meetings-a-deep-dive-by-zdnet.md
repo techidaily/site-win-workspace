@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Discomfort: Microsoft's Latest Attempt at Transforming Meetings - A Deep Dive by ZDNet"
-date: 2024-10-06T16:07:46.927Z
-updated: 2024-10-08T17:05:54.906Z
+date: 2024-10-13T04:45:39.253Z
+updated: 2024-10-14T08:41:37.035Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-superior-live-streaming-and-conferencing-apps/"><u>[New] 2024 Approved Superior Live Streaming & Conferencing Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-vloggers-ultimate-gear-list-17-100/"><u>[New] In 2024, Vloggers' Ultimate Gear List #17-100</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1-efficient-mirillis-assistance-submit-your-invoicing-details-here/"><u>1. Efficient Mirillis Assistance: Submit Your Invoicing Details Here</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-8-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 8 Plus Online</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/advantages-of-enrolling-in-the-microsoft-windows-insider-program-a-comprehensive-guide-techrepublic/"><u>Advantages of Enrolling in the Microsoft Windows Insider Program: A Comprehensive Guide | TechRepublic</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/affordable-microsoft-office-2019-bundle-deal-save-big-at-25-for-windowsmac-users-unlock-tips-inside/"><u>Affordable Microsoft Office 2019 Bundle Deal: Save Big at $25 for Windows/Mac Users | Unlock Tips Inside!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/capturing-vulkan-api-interactions-insights-on-gaming-and-application-development/"><u>Capturing Vulkan API Interactions: Insights on Gaming & Application Development</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chromatic-confluence-blending-colors-with-flair-for-2024/"><u>Chromatic Confluence Blending Colors with Flair for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-se-2020-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone SE (2020) to Roku? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-identifying-and-tapping-into-youtubes-hidden-niches/"><u>In 2024, Identifying and Tapping Into Youtube's Hidden Niches</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/record-and-stream-high-quality-videos-with-mirillis-professional-screen-recording-applications/"><u>Record & Stream High-Quality Videos with Mirillis' Professional Screen Recording Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-11-on-a-brand-new-hard-drive/"><u>Step-by-Step Guide: Setting Up Windows 11 on a Brand New Hard Drive</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-ranking-cross-platform-video-grabber-apps-ideal-choice-for-windows-and-mac-enthusiasts/"><u>Top-Ranking Cross-Platform Video Grabber Apps: Ideal Choice for Windows & Mac Enthusiasts</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transform-and-save-effortlessly-turn-streamago-tv-media-into-mp4-format-using-the-streamago-downloader-tool/"><u>Transform and Save: Effortlessly Turn Streamago Tv Media Into MP4 Format Using the Streamago Downloader Tool</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transform-movpod-videos-into-common-formats-mp4-mov-avi-a-simple-guide-for-downloaders/"><u>Transform MovPod Videos Into Common Formats (MP4, MOV, AVI) - A Simple Guide for Downloaders</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-features-and-savings-with-the-beantech-bitwatch-s1-plus-our-expert-review/"><u>Unlocking Features & Savings with the Beantech Bitwatch S1 Plus - Our Expert Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ideal-free-webcam-video-grabber-solution/"><u>[Updated] 2024 Approved Ideal Free Webcam Video Grabber Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-virtual-clan-combat-top-10-titles-with-a-tsushinian-twist/"><u>[Updated] 2024 Approved Virtual Clan Combat Top 10 Titles with a Tsushinian Twist</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-selections-premium-webcam-platforms/"><u>[Updated] In 2024, Ultimate Selections Premium Webcam Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-swift-stylizing-boost-your-digital-artistry-on-pc-photos-editor/"><u>[Updated] Swift Stylizing Boost Your Digital Artistry on PC Photos Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-content-best-12-html5-video-tools/"><u>2024 Approved Streamline Your Content Best 12 HTML5 Video Tools</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/apple-embraces-siri-as-its-new-search-engine-is-a-shift-towards-ai-the-future-zdnet/"><u>Apple Embraces Siri as Its New Search Engine: Is a Shift Towards AI the Future? | ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/balancing-act-how-microsofts-ai-tool-copilot-blends-helpful-tech-and-salesmanship-explored-by-zdnet/"><u>Balancing Act: How Microsoft’s AI Tool, Copilot, Blends Helpful Tech and Salesmanship | Explored by ZDNET</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/discover-microsofts-ingenious-approach-to-normalizing-ai-an-insightful-perspective-for-solo-users-zdnet/"><u>Discover Microsoft’s Ingenious Approach to Normalizing AI: An Insightful Perspective for Solo Users | ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-bad-pool-header-error-and-restoring-stability-in-windows-pressure-a-detailed-tutorial/"><u>Effective Solutions for Fixing the Bad Pool Header Error and Restoring Stability in Windows Pressure: A Detailed Tutorial</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/embracing-innovation-in-spreadsheets-my-journey-into-microsofts-creative-call-to-action-as-featured-on-zdnet/"><u>Embracing Innovation in Spreadsheets: My Journey Into Microsoft's Creative Call-to-Action as Featured on ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/is-investing-in-chatgpt-plus-over-chatgpt-worth-it-expert-insights-from-zdnet/"><u>Is Investing in ChatGPT Plus Over ChatGPT Worth It? Expert Insights From ZDNET</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/is-microsofts-new-release-a-game-changer-or-annoyance-discover-the-truth-with-zdnet/"><u>Is Microsoft's New Release a Game-Changer or Annoyance? Discover the Truth with ZDNet!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/master-recommendations-inside-the-ultimate-guide-to-windows-laptops-at-best-buy-zdnet/"><u>Master Recommendations Inside: The Ultimate Guide to Windows Laptops at Best Buy - ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mastering-file-management-on-the-go-a-step-by-step-guide-to-utilizing-microsoft-365-mobile-for-document-collaboration/"><u>Mastering File Management On-the-Go: A Step-by-Step Guide to Utilizing Microsoft 365 Mobile for Document Collaboration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-iphone/"><u>MP3への変換ガイド - iPhone動画取得</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/purchase-professional-licenses-microsoft-project-and-visio-for-just-20-zdnet-deals/"><u>Purchase Professional Licenses: Microsoft Project & Visio for Just $20 - ZDNet Deals</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/secure-your-discounted-ms-project-and-visio-professional-licenses-for-only-20-today-exclusive-offer-on-zdnet/"><u>Secure Your Discounted MS Project & Visio Professional Licenses for Only $20 Today - Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-hidden-mastering-the-mask-of-background-blur/"><u>Unveiling the Hidden Mastering the Mask of Background Blur</u></a></li>
 </ul></div>
 

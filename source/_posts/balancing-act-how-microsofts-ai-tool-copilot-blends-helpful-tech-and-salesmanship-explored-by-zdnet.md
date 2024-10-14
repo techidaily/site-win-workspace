@@ -1,7 +1,7 @@
 ---
 title: "Balancing Act: How Microsoft’s AI Tool, Copilot, Blends Helpful Tech and Salesmanship | Explored by ZDNET"
-date: 2024-10-01T16:18:25.336Z
-updated: 2024-10-08T17:31:19.242Z
+date: 2024-10-08T02:49:38.482Z
+updated: 2024-10-14T10:29:30.663Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -208,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-walkthrough-transferring-visuals-on-apple-devices/"><u>[New] Expert Walkthrough Transferring Visuals on Apple Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-assessment-gopro-silver-hero4-sliver/"><u>2024 Approved In-Depth Assessment GoPro Silver Hero4 Sliver</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/comparatif-de-qualite-png-vs-jpg-quel-format-offre-le-meilleur-rendu-visuel/"><u>Comparatif De Qualité PNG Vs. JPG - Quel Format Offre Le Meilleur Rendu Visuel?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/home-cinematic-excellence-with-5-quick-tips-for-2024/"><u>Home Cinematic Excellence with 5 Quick Tips for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-designjet-500-printer-driver-download-latest-version/"><u>HP DesignJet 500 Printer Driver Download - Latest Version</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>In 2024, Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone SE</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-advanced-video-editing-techniques-and-effects-for-2024/"><u>New Unleash Your Creativity Advanced Video Editing Techniques and Effects for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/protecting-your-mobile-data-how-to-set-up-biometric-authentication-and-passwords-for-iphone-security/"><u>Protecting Your Mobile Data: How to Set Up Biometric Authentication & Passwords for iPhone Security</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-to-downloading-and-saving-gangnam-style-songs-in-mp4avimov-for-mac-users-and-windows/"><u>Step-by-Step Guide to Downloading and Saving Gangnam Style Songs in MP4/AVI/MOV for Mac Users and Windows</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-and-downloading-your-favorite-bollywood-movies-into-common-formats-like-mp4-mov-or-avi/"><u>Step-by-Step Guide: Converting and Downloading Your Favorite Bollywood Movies Into Common Formats Like MP4, MOV, or AVI</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-converting-okru-streams-into-mp4-and-other-formats-on-macwindows/"><u>Step-by-Step Guide: Converting Ok.ru Streams Into MP4 & Other Formats on Mac/Windows</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-content-from-niconico-efficiently/"><u>Step-by-Step Guide: Downloading Content From Niconico Efficiently</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-downloading-yupptv-content-and-south-asian-shows-for-offline-viewing/"><u>Step-by-Step Guide: Downloading YuppTV Content & South Asian Shows for Offline Viewing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-srt-addition-to-mp4s-for-next-level-audio-for-2024/"><u>Step-by-Step SRT Addition to MP4s for Next-Level Audio for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-tutorial-how-to-download-high-quality-mp4-videos-from-youtube-using-any-computer-mac-or-windows/"><u>Step-by-Step Tutorial: How To Download High-Quality MP4 Videos From YouTube Using Any Computer (Mac or Windows)</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/streamline-your-media-library-by-downloading-video-content-in-various-formats-mp4-mov-avi-from-videomore/"><u>Streamline Your Media Library by Downloading Video Content in Various Formats (MP4, MOV, AVI) From Videomore.</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/telemb-downloader-pro-seamless-conversion-from-streaming-videos-to-multiple-formats-like-mp4-avi-and-wmv/"><u>TeleMB Downloader Pro: Seamless Conversion From Streaming Videos to Multiple Formats Like MP4, AVI & WMV</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-libertarian-software-replacement-a-comprehensive-guide-for-macos-and-windows-allavsoft/"><u>Top Libertarian Software Replacement: A Comprehensive Guide for macOS & Windows (Allavsoft)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-assemble-a-personalized-youtube-music-list-for-2024/"><u>[New] How to Assemble a Personalized YouTube Music List for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-camtech-dive-looking-for-improved-alternatives/"><u>[New] In 2024, CamTech Dive Looking for Improved Alternatives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-instant-view-enabling-fb-videos-to-play-by-themselves-for-2024/"><u>[Updated] Instant View Enabling FB Videos to Play By Themselves for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/2021-ultimate-shopping-strategy-zdnets-expert-tips-for-black-friday-and-cyber-monday-deals/"><u>2021 Ultimate Shopping Strategy: ZDNet's Expert Tips for Black Friday & Cyber Monday Deals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gif-wizardry-10-tools-to-ignite-your-creative-spark/"><u>2024 Approved GIF Wizardry 10 Tools to Ignite Your Creative Spark</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-start-off-right-top-gear-for-aspiring-gopro-users/"><u>2024 Approved Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/accessing-windows-11-using-your-microsoft-365-business-account-benefits-and-step-by-step-guide/"><u>Accessing Windows 11 Using Your Microsoft 365 Business Account: Benefits and Step-by-Step Guide</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/act-before-its-too-late-windows-11-versions-21h2-and-22h2-hit-end-of-life-immediate-upgrade-essential-zdnet/"><u>Act Before It's Too Late: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Immediate Upgrade Essential! | ZDNet</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/convert-videos-to-avi-format-at-no-cost-with-the-macx-free-video-transcoder/"><u>Convert Videos to AVI Format at No Cost with the MacX Free Video Transcoder</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/critical-notice-secure-your-pc-with-an-update-for-end-of-life-windows-11-21h222h2-zdnet/"><u>Critical Notice: Secure Your PC with an Update for End-of-Life Windows 11 (21H2/22H2) | ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-complet-supprimer-les-espaces-vides-sur-windows-10-top-techniques/"><u>Guide Complet : Supprimer Les Espaces Vides Sur Windows 10 - Top Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-a-dead-laptop-mouse-effective-solutions-for-stuck-or-non-responsive-usb-devices/"><u>Revive a Dead Laptop Mouse: Effective Solutions for Stuck or Non-Responsive USB Devices</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/revolutionizing-discomfort-microsofts-latest-attempt-at-transforming-meetings-a-deep-dive-by-zdnet/"><u>Revolutionizing Discomfort: Microsoft's Latest Attempt at Transforming Meetings - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-conversion-a-step-by-step-guide-to-transferring-dvds-onto-your-iphone-7-or-7-plus/"><u>Seamless Conversion: A Step-by-Step Guide to Transferring DVDs Onto Your iPhone 7 or 7 Plus</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-enroll-in-the-windows-insider-program-with-microsoft-reasons-and-benefits/"><u>Step-by-Step Guide: Enroll in the Windows Insider Program with Microsoft - Reasons & Benefits</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/the-great-shift-in-iot-googles-departure-and-microsofts-strategic-entry/"><u>The Great Shift in IoT: Google's Departure and Microsoft’s Strategic Entry</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/upcoming-launch-microsoft-prepares-for-the-second-phase-of-copilot-with-expert-analysis-from-zdnet/"><u>Upcoming Launch: Microsoft Prepares for the Second Phase of Copilot with Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-11-update-charges-coming-soon-find-out-how-much-youll-need-to-pay-in-this-upcoming-change-by-microsoft/"><u>Windows 11 Update Charges Coming Soon? Find Out How Much You'll Need to Pay in This Upcoming Change by Microsoft</u></a></li>
 </ul></div>
 

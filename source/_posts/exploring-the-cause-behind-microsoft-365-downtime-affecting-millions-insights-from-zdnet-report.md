@@ -1,7 +1,7 @@
 ---
 title: Exploring the Cause Behind Microsoft 365 Downtime Affecting Millions - Insights From ZDNet Report
-date: 2024-10-01T17:07:35.246Z
-updated: 2024-10-08T16:11:56.762Z
+date: 2024-10-11T09:24:57.552Z
+updated: 2024-10-13T20:33:13.438Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -123,10 +129,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +208,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-noise-reduction-for-better-video-experiences-on-youtube/"><u>[New] 2024 Approved Noise Reduction for Better Video Experiences on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonized-high-res-overlays-for-devices/"><u>[Updated] Harmonized High-Res Overlays for Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-harnessing-hashtags-for-hitting-video-hotspots-on-fb-for-2024/"><u>[Updated] Harnessing Hashtags for Hitting Video Hotspots on FB for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-easy-guide-mastering-movie-downloads-from-onionplay/"><u>1. Easy Guide: Mastering Movie Downloads From OnionPlay</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/exploring-the-world-of-artificial-intelligence-computers-are-they-worth-your-investment/"><u>Exploring the World of Artificial Intelligence Computers: Are They Worth Your Investment?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/identifying-your-computers-graphics-processing-unit-a-comprehensive-guide-to-discovering-and-updating-gpu-drivers/"><u>Identifying Your Computer's Graphics Processing Unit: A Comprehensive Guide to Discovering and Updating GPU Drivers</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/impact-of-disk-encryption-on-computer-performance-insights-from-zdnet/"><u>Impact of Disk Encryption on Computer Performance: Insights From ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a70-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A70 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>In 2024, Learn to Conduct Zoom Webinars A Newbie's Blueprint</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-website-downtime-a-guide-to-resolving-503-error-messages/"><u>Overcoming Website Downtime: A Guide to Resolving 503 Error Messages</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/the-joy-of-language-mastery-with-duolingo-a-free-engaging-review-by-zdnet/"><u>The Joy of Language Mastery with Duolingo: A Free, Engaging Review by ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-11-uncovered-touchpad-shortcuts-every-tech-enthusiast-should-master-insider-tips/"><u>Top 11 Uncovered Touchpad Shortcuts Every Tech Enthusiast Should Master - Insider Tips</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unlock-the-hidden-power-of-windows-11-master-the-trick-for-immediate-app-closure-exclusive-insight-from-zdnets-experts/"><u>Unlock the Hidden Power of Windows 11: Master the Trick for Immediate App Closure | Exclusive Insight From ZDNet's Experts</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/upcoming-windows-on-arm-applications-set-to-revolutionize-the-scene-why-it-matters-zdnet/"><u>Upcoming Windows on ARM Applications Set to Revolutionize the Scene: Why It Matters - ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-squaring-the-circle-your-imovie-path-to-perfect-instagram-videos/"><u>[New] In 2024, Squaring the Circle Your iMovie Path to Perfect Instagram Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-2023-edition-of-effortless-instagram-filter-usage-unveiled-for-2024/"><u>[New] The 2023 Edition of Effortless Instagram Filter Usage Unveiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>[Updated] In 2024, The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-speed-control-interface-on-snapchat/"><u>[Updated] Navigating The Speed Control Interface on Snapchat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722899574293-d3dx928dll-disappears-heres-how-you-can-restore-the-file-and-fix-your-software/"><u>D3dx9_28.dll Disappears? Here's How You Can Restore the File & Fix Your Software</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/essential-usb-c-gadgets-for-both-macos-and-windows-compatible-with-8k-displays-recommended-by-zdnet/"><u>Essential USB-C Gadgets for Both macOS & Windows: Compatible with 8K Displays, Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-validity-of-prompt-engineering-as-employment/"><u>Exploring the Validity of Prompt Engineering as Employment</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-does-full-disk-encryption-affect-pc-speed-an-analysis-by-zdnet/"><u>How Does Full-Disk Encryption Affect PC Speed? An Analysis by ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-taking-over-ig-monthly-strategies-to-hit-the-1k-follower-goal/"><u>In 2024, Taking Over IG Monthly Strategies to Hit the 1K Follower Goal</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mastering-xubuntu-how-to-tailor-a-versatile-linux-desktop-for-maximum-productivity-insights-from-zdnet/"><u>Mastering Xubuntu: How to Tailor a Versatile Linux Desktop for Maximum Productivity, Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-camera-connectivity-on-windows-10/"><u>Resolved ASUS Camera Connectivity on Windows 10</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-11-speed-boost-trick-easily-stop-lagging-apps-using-an-expert-tip-revealed-by-zdnet/"><u>Windows 11 Speed Boost Trick: Easily Stop Lagging Apps Using an Expert Tip Revealed by ZDNET</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/zdnets-guide-to-accelerating-slow-computers-enhance-speed-for-older-windows-10mac-systems/"><u>ZDNet's Guide to Accelerating Slow Computers: Enhance Speed for Older Windows 10/Mac Systems</u></a></li>
 </ul></div>
 

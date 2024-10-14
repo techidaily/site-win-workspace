@@ -1,7 +1,7 @@
 ---
 title: "Critical Notice: Secure Your PC with an Update for End-of-Life Windows 11 (21H2/22H2) | ZDNet"
-date: 2024-10-03T17:25:59.086Z
-updated: 2024-10-08T16:48:55.928Z
+date: 2024-10-10T10:28:59.829Z
+updated: 2024-10-13T22:07:05.759Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-overcoming-technical-challenges-with-fb-live-videos/"><u>[Updated] Overcoming Technical Challenges with FB Live Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-a56s-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo A56s 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-collaboration-using-copilot-in-microsoft-teams-an-ultimate-guide/"><u>Enhance Collaboration Using Copilot in Microsoft Teams: An Ultimate Guide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/expert-tips-for-securing-and-backing-up-project-files-in-flipbuilders-flipbook-platform/"><u>Expert Tips for Securing and Backing Up Project Files in FlipBuilder's FlipBook Platform</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-get-a-user-guide-for-flipbuildercom-a-comprehensive-tutorial/"><u>How to Get a User Guide for FlipBuilder.com: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-integrate-auto-playing-flipbooks-into-your-site-using-flipbuilder-technology/"><u>How To Integrate Auto-Playing Flipbooks Into Your Site Using FlipBuilder Technology</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-position-the-toolbar-at-the-top-in-a-flipbook-using-flipbuilder/"><u>How to Position the Toolbar at the Top in a FlipBook Using FlipBuilder</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/masterful-pdf-edits-resizing-and-reorienting-pages-in-flipbuilder-for-premium-quality-scans/"><u>Masterful PDF Edits: Resizing & Reorienting Pages in FlipBuilder for Premium Quality Scans</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mastering-page-design-inserting-your-company-logo-directly-overhead-discover-techniques-on-flipbuildercom/"><u>Mastering Page Design: Inserting Your Company Logo Directly Overhead - Discover Techniques on FlipBuilder.com</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-non-operational-status-of-diagnostics-management-service/"><u>Resolving the Non-Operational Status of Diagnostics Management Service</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/revolutionize-your-year-with-unlimited-lifetime-access-to-mondly-premium-at-no-cost/"><u>Revolutionize Your Year with Unlimited Lifetime Access to Mondly Premium at No Cost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-non-functioning-pc-audio-devices/"><u>Top Solutions for Non-Functioning PC Audio Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-do-if-you-encounter-a-shelldll-not-present-error-message/"><u>What To Do If You Encounter a 'Shell.dll Not Present' Error Message</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a78-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A78 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-solve-invisible-frames-in-video-capture-software/"><u>[New] 2024 Approved Solve Invisible Frames in Video Capture Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-instagram-gurus-playbook-5-game-changing-strategies-and-outcomes/"><u>[New] In 2024, The Instagram Guru’s Playbook 5 Game Changing Strategies and Outcomes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-your-screens-guide-to-smart-stocks/"><u>[New] In 2024, Your Screen's Guide to Smart Stocks</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-step-by-step-guide-saving-live-channels-from-younow-for-later-viewing/"><u>1. Step-by-Step Guide: Saving Live Channels From YouNow for Later Viewing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>2024 Approved How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-tips-for-crafting-impactful-video-thumbnails-on-youtube/"><u>2024 Approved Tips for Crafting Impactful Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/access-free-movies-and-tv-series-downloads-for-pc-or-mac-at-no-cost/"><u>Access Free Movies & TV Series Downloads for PC or Mac at No Cost!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/audio-experts-choice-convert-top-chart-hits-from-billboard-to-mp4aacwma-formats/"><u>Audio Expert's Choice: Convert Top Chart Hits From Billboard to MP4/AAC/WMA Formats</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/cnn-videos-downloaded-in-various-formats-mp4-avi-and-more/"><u>CNN Videos Downloaded in Various Formats: MP4, AVI & More</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/convert-and-download-playfm-tracks-in-various-formats-including-mp3-wav-and-flac/"><u>Convert and Download Play.FM Tracks in Various Formats Including MP3, WAV, & FLAC</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/converting-national-geographics-media-step-by-step-guide-to-downloading-in-mp4-mov-and-avi-formats/"><u>Converting National Geographic's Media - Step-by-Step Guide to Downloading in MP4, MOV & AVI Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/different-algos-one-creative-goal-bot-showcase/"><u>Different Algos, One Creative Goal: Bot Showcase</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/download-premium-gay-porn-footage-with-ease-on-needgayporn-platform/"><u>Download Premium Gay Porn Footage with Ease on NeedGayPorn Platform</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/download-unlimited-zedge-ringtones-for-mobile-phones-at-no-cost-your-ultimate-guide-to-free-audio-content/"><u>Download Unlimited Zedge Ringtones for Mobile Phones at No Cost – Your Ultimate Guide to Free Audio Content!</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/download-your-favorite-tv-shows-from-viafree-without-any-interruptions/"><u>Download Your Favorite TV Shows From Viafree Without Any Interruptions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-visuals-the-role-of-a-tripod-in-video-content/"><u>Enhancing Visuals The Role of a Tripod in Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-80s-visual-tricks-for-elevated-editing/"><u>In 2024, Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-cloud-storage-enhance-your-data-management-with-centrum-podpory/"><u>Movavi Cloud Storage: Enhance Your Data Management with Centrum Podpory</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-einer-totgeglaubten-festplatte/"><u>Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Einer Totgeglaubten Festplatte</u></a></li>
 </ul></div>
 
