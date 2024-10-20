@@ -1,7 +1,7 @@
 ---
 title: Windows 11 用户如何有效地更新 Windows Defender 保护程序
-date: 2024-10-09T07:07:41.056Z
-updated: 2024-10-14T04:50:48.568Z
+date: 2024-10-17T22:44:31.507Z
+updated: 2024-10-20T00:45:50.875Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9f8408e2327a12770828cd7d.jpg
@@ -43,10 +43,10 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
@@ -55,19 +55,6 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 ## About winload.efi file
@@ -75,6 +62,13 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 **Winload.efi**, an EFI (Extensible Firmware Interface) file, plays a crucial role in booting, restarting, and installing Windows. It serves as a vital component in the core of the boot process. When missing or corrupted, Windows faces difficulties in normal booting, leading to a stuck state on a blue or black screen with error codes like "Winload.efi Missing" or "winload.efi error code 0xc00000e.
 
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What caused winload.efi missing error?
 
@@ -111,10 +105,10 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
@@ -143,6 +137,13 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -162,6 +163,13 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -188,10 +196,10 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 Exercise caution to avoid potential system errors when using this command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
@@ -244,14 +252,14 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -266,28 +274,15 @@ Was the provided information useful? Your vote is important to us!
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -319,13 +314,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -341,22 +329,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-review-by-inclusive-experts/"><u>[New] Comprehensive Review by Inclusive Experts</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-combining-youtube-harmonies-in-moving-images/"><u>[Updated] Combining YouTube Harmonies in Moving Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-color-correction-techniques/"><u>2024 Approved Mastering Color Correction Techniques</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1726221781780-12/"><u>圧縮ソフトの推薦! 無料動画小さくして保存するためのベストツール12選!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/cambiar-de-formato-wav-a-wmv-online-sin-coste-guia-integral-con-movavi/"><u>Cambiar De Formato WAV a WMV Online Sin Coste - Guía Integral Con Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/gsm-mp3-movavi/"><u>GSM 오디오를 원근보이한 MP3로 자유성 영역에서 쉽게 바꾸기 - Movavi</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-become-a-youtube-gif-wizard-your-complete-online-transformation-tutorial/"><u>In 2024, Become a Youtube Gif Wizard Your Complete Online Transformation Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensive-list-best-10-terraria-mods/"><u>In 2024, Comprehensive List Best 10 Terraria Mods</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mastering-visual-planning-learn-the-art-of-creating-an-effective-storyboard-in-just-7-simple-steps/"><u>Mastering Visual Planning: Learn the Art of Creating an Effective Storyboard in Just 7 Simple Steps</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/movavi-mpeg-4-to-avi/"><u>Movavi: 원탁해 무료 인터넷 공간의 MPEG-4 to AVI 전환</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/precision-in-personal-health-chatgpts-plan-writing/"><u>Precision in Personal Health: ChatGPT's Plan-Writing</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/strumenti-online-per-la-conversione-da-vob-a-mp4-gratuito-e-facile-guidato-da-movavi/"><u>Strumenti Online per La Conversione Da VOB a MP4, Gratuito E Facile: Guidato Da Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-4-techniques-for-capturing-screen-and-sound-on-windows-a-comprehensive-guide/"><u>Top 4 Techniques for Capturing Screen & Sound on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transforme-seus-arquivos-de-video-gratuitamente-com-o-conversor-movavi-m4v-a-3gp-on-line/"><u>Transforme Seus Arquivos De Vídeo Gratuitamente Com O Conversor Movavi M4V a 3GP On-Line</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtube-success-top-10-keyword-research-utilities-listed-for-2024/"><u>Unlocking YouTube Success Top 10 Keyword Research Utilities Listed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unravel-the-potential-of-multiple-screen-usage-in-netflix-for-2024/"><u>Unravel The Potential of Multiple Screen Usage in Netflix for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-in-the-virtual-world-your-step-by-step-meme-guide/"><u>[New] Crafting in the Virtual World Your Step-by-Step Meme Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>[New] Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-optimal-online-stream-setup-the-vlc-methodology-for-2024/"><u>[Updated] Optimal Online Stream Setup The VLC Methodology for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snap-share-and-save-on-instagram/"><u>[Updated] Snap, Share, and Save on Instagram</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-premier-photography-frame-selection-24-for-2024/"><u>[Updated] The Premier Photography Frame Selection '24 for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/comment-recuperer-un-fichier-efface-sur-windows-11-guide-rapide-et-facile/"><u>Comment Récupérer Un Fichier Effacé Sur Windows 11 - Guide Rapide Et Facile</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/free-methods-transferring-data-from-laptop-to-external-hdd-on-windows-11-8-and-7/"><u>Free Methods: Transferring Data From Laptop to External HDD on Windows 11, 8, and 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/precision-analysis-and-guides-on-latest-computer-components-by-tom/"><u>Precision Analysis and Guides on Latest Computer Components by Tom</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/recover-lost-save-files-in-the-witcher-3-step-by-step-guide/"><u>Recover Lost Save Files in The Witcher 3 – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-guide-to-resolve-microphone-not-working-in-google-hangouts/"><u>Simple Guide to Resolve 'Microphone Not Working' In Google Hangouts</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/solve-the-puzzle-overcome-your-external-drives-endless-loading-cycle/"><u>Solve the Puzzle: Overcome Your External Drive's Endless Loading Cycle</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/solving-the-issue-of-windows-11-installation-media-creation-failure/"><u>Solving the Issue of Windows 11 Installation Media Creation Failure</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/tutorial-passo-passo-per-trasferire-il-contenuto-dellssd-a-un-supporto-esterno-usb/"><u>Tutorial Passo-Passo per Trasferire Il Contenuto Dell'SSD a Un Supporto Esterno USB</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ultimate-step-by-step-tutorial-how-to-download-and-setup-windows-server-2ebe3/"><u>Ultimate Step-by-Step Tutorial: How to Download & Setup Windows Server 2Ebe3</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/verstandliche-tipps-zur-wiederbelebung-vergangener-ordnerdateien-windowsold-auf-ihrem-pc-mit-windows-11/"><u>Verständliche Tipps Zur Wiederbelebung Vergangener Ordnerdateien (Windows.old) Auf Ihrem PC Mit Windows 11</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/win32-disk-imagersd/"><u>Win32 Disk Imagerを使ったSDカードの完璧なバックアップ方法:ステップごとの詳しいマニュアル</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Protecting Your Windows 11 System with DIY USB Security Keys - A Comprehensive Tutorial
-date: 2024-10-13T02:21:45.992Z
-updated: 2024-10-13T18:08:51.638Z
+date: 2024-10-13T22:25:39.836Z
+updated: 2024-10-19T16:44:53.061Z
 tags:
   - product
   - antivirus
@@ -60,13 +60,6 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 
 [How to Remove Virus Alert from Microsoft Edge?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Cons:**
 
 * If you damage or lose the physical key, the recovery is possible but by a long and lethargic process.
@@ -76,10 +69,10 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 So, these are the Pros and Cons of the Physical Security key. Weigh them keeping your preference in mind and then choose whether to go for it or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create a USB Security Key on Windows 10?
@@ -87,13 +80,6 @@ So, these are the Pros and Cons of the Physical Security key. Weigh them keeping
 You can create a USB security key on Windows 10 using an in-built program – **Windows BitLocker.** However, this method would only work for Pro and Enterprise versions of Windows as the Home version does not come with BitLocker.
 
 The first step is to enable the BitLocker on your system Drive, that is, the drive where the Windows 10 is installed.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Enable Bitlocker**
 
@@ -126,24 +112,10 @@ A new window would open, click on **Enable** bullet option. There’s a drop-dow
 ![Enable additional authentication](https://www.malwarefox.com/wp-content/uploads/2020/06/Enable-additional-authentication.png)
 5. **Run Command Prompt**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the final step, run Command Prompt as admin and type this command:  
 **manage-bde -protectors -add c: -TPMAndStartupKey j:**  
 Where ‘c:’ is the drive where Windows is installed and ‘j:’ is assigned to the USB drive.  
 ![Run Command](https://www.malwarefox.com/wp-content/uploads/2020/06/USB-key.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
@@ -165,16 +137,16 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Predator**
 
 ![Predator USB security key](https://www.malwarefox.com/wp-content/uploads/2020/06/predator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Predator is another popular program to turn a USB into a physical security key. After the USB drive is converted into a security key, your system would only be accessible when the USB is plugged in. As soon as the drive would be plugged out, the computer will be locked automatically.
 
@@ -187,10 +159,10 @@ Installation of the Predator is easy. Download the installation file and open it
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Rohos Logon Key**
@@ -206,6 +178,13 @@ Rohos store your login credential into the USB drive, and during startup, when y
 [Get Rohos Logon Key](http://www.rohos.com/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -223,10 +202,25 @@ While creating a key, you would always be prompted to create a recovery method i
 
 [According to YubiKey](https://support.yubico.com/support/solutions/articles/15000010242-can-i-duplicate-or-back-up-a-yubikey-), due to security reasons, the firmware of YubiKey does not allow the system to read the drive after it is written. Therefore, it is impossible to create a backup of YubiKey.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 thoughts on “How to Make a USB Security Key to Protect Windows 10 PC”
 
 1. ![](https://secure.gravatar.com/avatar/1f15aeebf604b14368e5d572c11913a9?s=50&d=mm&r=g)  
 Robert  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [January 1, 2022 at 2:40 pm](https://tools.techidaily.com/malwarefox/products/)  
 what about windows 11 this is now outdated information I been looking up information for windows 11 it pulls up this windows 10 in search on bing.com  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -249,6 +243,13 @@ what about windows 11 this is now outdated information I been looking up informa
    [February 25, 2022 at 2:41 am](https://tools.techidaily.com/malwarefox/products/)  
    Windows 11 is literally just a reskin of Windows 10 (with a few extra features). All of these should work perfectly fine.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -275,19 +276,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-economical-systems-optimized-by-ideal-obs-settings/"><u>[Updated] 2024 Approved Economical Systems Optimized by Ideal OBS Settings</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/desktop-users-manual-easily-access-and-enjoy-instagram-reels-without-a-mobile-device/"><u>Desktop Users' Manual: Easily Access and Enjoy Instagram Reels Without a Mobile Device</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effortless-techniques-for-transforming-word-docs-into-portable-pdf-format/"><u>Effortless Techniques for Transforming Word Docs Into Portable PDF Format</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effortlessly-shifting-itunes-audio-content-to-your-smartphone-a-comprehensive-tutorial/"><u>Effortlessly Shifting iTunes Audio Content to Your Smartphone - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v29-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V29 Pro</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-economic-approaches-to-online-educational-broadcasting/"><u>In 2024, Economic Approaches to Online Educational Broadcasting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/lights-camera-action-mastering-fundamental-shots-first-for-2024/"><u>Lights, Camera, Action! Mastering Fundamental Shots First for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-maplestory-troubleshooting-fix-crashes-on-windows-11-for-gamers/"><u>Mastering MapleStory Troubleshooting – Fix Crashes on Windows 11 for Gamers</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/seamless-transition-guide-how-to-move-your-data-effortlessly-from-ios-to-android/"><u>Seamless Transition Guide: How to Move Your Data Effortlessly From iOS to Android</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/speedy-methods-for-extracting-background-from-images-on-an-iphone-a-step-by-step-guide/"><u>Speedy Methods for Extracting Background From Images on an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-8t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 8T Reset Code | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-full-access-to-itunes-radio-features-for-2024/"><u>Unlocking Full Access to iTunes Radio Features for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-s23-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy S23? Here is How | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-expert-selections-of-innovative-vtuber-sound-tools/"><u>[Updated] In 2024, Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-8-best-website-for-3d-graffiti-fonts/"><u>2024 Approved 8 Best Website for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>2024 Approved In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-1140xc1900101/"><u>如何在Windows 11上简单修复4个常见的0xC1900101崩溃 - 有效解决方案</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/apoyo-affordable-lightroom-counterparts-reviewed-for-2024/"><u>Apoyo Affordable Lightroom Counterparts Reviewed for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comment-realiser-un-sauvegarde-et-une-clonage-rapides-de-votre-carte-sd-en-utilisant-la-meilleure-solution-gratuite-sous-windows/"><u>Comment Réaliser Un Sauvegarde Et Une Clonage Rapides De Votre Carte SD en Utilisant La Meilleure Solution Gratuite Sous Windows</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guia-paso-a-paso-para-clonear-hdd-a-ssd-en-windows-con-particion-bootable/"><u>Guía Paso a Paso Para Clonear HDD a SSD en Windows Con Partición BOOTABLE</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guide-preserving-iphone-chats-on-your-desktop-using-two-different-techniques/"><u>Guide: Preserving iPhone Chats on Your Desktop Using Two Different Techniques</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-repair-acer-recovery-mode-problems-step-by-step-troubleshooting-guide/"><u>How To Repair Acer Recovery Mode Problems - Step-By-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-realme-narzo-n55-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Realme Narzo N55</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-x-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapshot-secrets-iphones-techniques-for-clear-reflections/"><u>In 2024, Snapshot Secrets IPhone's Techniques for Clear Reflections</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-windows-11-with-top-tips/"><u>Mastering Windows 11 with Top Tips</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/solving-the-riddle-of-0x80072f8f-a-comprehensive-guide-for-troubleshooting-common-technology-glitches/"><u>Solving the Riddle of 0X80072F8F: A Comprehensive Guide for Troubleshooting Common Technology Glitches</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/techniques-optimales-pour-transferer-un-gros-volume-de-donnees-du-gpt-a-un-ssd-compact-et-rapide/"><u>Techniques Optimales Pour Transférer Un Gros Volume De Données Du GPT À Un SSD Compact Et Rapide</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshoot-non-detection-issues-with-your-hard-drive-effective-solutions/"><u>Troubleshoot Non-Detection Issues with Your Hard Drive: Effective Solutions</u></a></li>
 </ul></div>
 

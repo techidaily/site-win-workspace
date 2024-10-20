@@ -1,7 +1,7 @@
 ---
 title: パスワードで保護されていなくても、Excelファイルが消えちゃった！簡単にデータを取り戻す6つのテクニック - Excel 回復術
-date: 2024-10-13T00:15:41.289Z
-updated: 2024-10-14T03:40:59.567Z
+date: 2024-10-13T02:50:25.803Z
+updated: 2024-10-20T10:21:42.210Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac72dff09f39b3449e1fcd630.jpg
@@ -39,16 +39,10 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
@@ -84,10 +78,10 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
@@ -95,10 +89,10 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
@@ -108,6 +102,13 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -169,10 +170,10 @@ Sicherer Download
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
@@ -180,13 +181,20 @@ Sicherer Download
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -197,13 +205,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -256,10 +257,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MyRecover Jetzt Kostenlos Erhalten
@@ -271,13 +272,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,21 +288,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-collection-mastery-extracting-twitters-animated-tweets/"><u>[New] 2024 Approved Digital Collection Mastery Extracting Twitter's Animated Tweets</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-top-20-thumbnail-fonts-for-impressive-video-credits/"><u>[New] 2024 Approved Top 20 Thumbnail Fonts for Impressive Video Credits</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-figure-views-prime-hashtag-strategies-for-success/"><u>[New] 6-Figure Views Prime Hashtag Strategies for Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-your-content-6-steps-to-higher-youtube-visibility-for-2024/"><u>[Updated] Elevating Your Content 6 Steps to Higher YouTube Visibility for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-gamers-screen-recordings-with-win10-for-2024/"><u>[Updated] The Ultimate Guide to Gamers' Screen Recordings with Win10 for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/nefbmp-movavi/"><u>网络上无限制地将NEF格式转换为BMP - 使用Movavi图像转换器</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/ogmavi-movavi/"><u>無料で簡単オンラインOGMからAVIへ - Movavi変換ツール</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mkv-mov-movavi/"><u>線上無條件 MKV 到 MOV 轉檔工具 - 運用 Movavi 影片轉換器</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/conversion-libre-de-videos-mpeg-vers-asf-en-ligne-guide-pas-a-pas-avec-movavi/"><u>Conversion Libre De Vidéos MPEG Vers ASF en Ligne : Guide Pas À Pas Avec Movavi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/gsm-mp3-movavi/"><u>GSM 오디오를 원근보이한 MP3로 자유성 영역에서 쉽게 바꾸기 - Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-enable-or-disable-the-on-screen-keyboard-in-windows-11/"><u>How to Enable or Disable the On-Screen Keyboard in Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-riddle-me-this-the-ultimate-room-conundrums/"><u>In 2024, Riddle Me This The Ultimate Room Conundrums</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unraveling-youtubes-monetization-policy-overhaul/"><u>In 2024, Unraveling YouTube’s Monetization Policy Overhaul</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/strumenti-online-per-la-conversione-da-vob-a-mp4-gratuito-e-facile-guidato-da-movavi/"><u>Strumenti Online per La Conversione Da VOB a MP4, Gratuito E Facile: Guidato Da Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-usb-non-attachment-problems-in-virtualbox-on-your-pc/"><u>Tackling USB Non-Attachment Problems in VirtualBox on Your PC</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transforme-seus-arquivos-de-video-gratuitamente-com-o-conversor-movavi-m4v-a-3gp-on-line/"><u>Transforme Seus Arquivos De Vídeo Gratuitamente Com O Conversor Movavi M4V a 3GP On-Line</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-platforms-modeling-animating-unite/"><u>[Updated] Leading Platforms Modeling, Animating Unite</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>[Updated] Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unleash-the-full-potential-of-your-images-with-instagram-filters/"><u>2024 Approved Unleash the Full Potential of Your Images with Instagram Filters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/compile-presentation-asset-to-video-for-2024/"><u>Compile Presentation Asset to Video for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/drucke-deine-imessages-aus-effektive-methoden-zum-drucken-von-nachrichten-auf-dem-iphone/"><u>Drucke Deine iMessages Aus - Effektive Methoden Zum Drucken Von Nachrichten Auf Dem iPhone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effizientes-konvertieren-von-daten-einfache-import-export-methoden-fur-konfigurationsdateien/"><u>Effizientes Konvertieren Von Daten: Einfache Import-Export-Methoden Für Konfigurationsdateien</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-latest-ios-18-update-for-eligible-iphones-step-by-step-download-instructions/"><u>Get the Latest iOS 18 Update for Eligible iPhones - Step-by-Step Download Instructions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/multimedia-artists-cyber-meeting-room-for-2024/"><u>Multimedia Artists' Cyber Meeting Room for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/page-located-discover-the-missing-link-with-wonderfox/"><u>Page Located! - Discover the Missing Link with WonderFox</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-retrieve-old-deleted-yahoo-mail-messages-from-any-timeframe/"><u>Step-by-Step Guide: Retrieve Old Deleted Yahoo Mail Messages From Any Timeframe</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-transferring-files-from-raw-to-fat32-without-data-loss/"><u>Step-by-Step Guide: Transferring Files From RAW to FAT32 Without Data Loss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-11-insider-secrets-for-windows-11-mastery/"><u>Top 11 Insider Secrets for Windows 11 Mastery</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/tutoriel-simple-et-elegant-synchronez-vos-fichiers-pc-a-pc-avec-facilite-sur-votre-reseau-local/"><u>Tutoriel Simple Et Élégant : Synchronez Vos Fichiers PC À PC Avec Facilité Sur Votre Réseau Local</u></a></li>
 </ul></div>
 

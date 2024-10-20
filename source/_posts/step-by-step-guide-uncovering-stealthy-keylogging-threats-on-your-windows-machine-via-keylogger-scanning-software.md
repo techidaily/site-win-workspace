@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Uncovering Stealthy Keylogging Threats on Your Windows Machine via Keylogger Scanning Software"
-date: 2024-10-11T19:36:37.594Z
-updated: 2024-10-13T21:43:42.244Z
+date: 2024-10-17T18:53:22.603Z
+updated: 2024-10-20T04:32:43.521Z
 tags:
   - product
   - antivirus
@@ -50,18 +50,18 @@ If there is a hardware keylogger, generally attached to a USB port, it is visibl
 
 ## How to detect if Keylogger is installed ?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Go Through Running Processes
 
 Even if the software program runs in the background, there must be a process running on the Windows system. You can open task manager and take a look at what processes are running.
 
 ![windows task manager](https://malwarefox.com/wp-content/uploads/2017/03/windows-task-manager.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you are a tech-savvy person, it should be easy for you to notice any suspicious processes on the list.
 
@@ -86,10 +86,10 @@ You can use applications like [Windows Firewall Control](https://www.binisoft.or
 By doing this, you may be able to stop any keylogger from transmitting data to a hacker. However, this method doesn’t guarantee that you have blocked the correct process. Also, if there are multiple ways of file transmission using different processes, you are out of luck.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Use Keylogger Detector
@@ -97,13 +97,6 @@ By doing this, you may be able to stop any keylogger from transmitting data to a
 Instead of making attempts manually that may not end up with assured results, it is recommended to use a reliable keylogger detection tool.
 
 We will be using MalwareFox, which is actually an Anti-malware solution but has an Anti-keylogger module built in.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MalwareFox Keylogger Detector
 
@@ -133,6 +126,13 @@ You have successfully detected and removed the Keylogger from Computer.
 
 If this procedure doesn’t work, restart the computer in Safe Mode with networking and re-scan completely.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Note: Keyloggers are not always Spyware
 
 In the above case, we considered keylogger to be a malicious program used to spy and misuse a user’s data. However, this is not always true.
@@ -146,13 +146,6 @@ There are keyloggers that can even take control of webcams and take a user’s p
 Although keylogger programs are promoted as a monitoring tool for parents and employees, they are mostly abused. There are often cases of a jealous boyfriend spying on his girlfriend or people using them to catch cheating spouses.
 
 No matter what the case may be, you should ensure complete protection against keyloggers before it’s too late.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 23 thoughts on “How to Detect Keyloggers?”
 
@@ -169,25 +162,11 @@ A jealous boyfriend/girlfriend could have installed it? So you don’t have to b
    * ![](https://secure.gravatar.com/avatar/d7e2acee2b280be6a1979ae6cc02cf0c?s=50&d=mm&r=g)  
    Super Gizmomen  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [August 27, 2019 at 11:05 am](https://tools.techidaily.com/malwarefox/products/)  
    Hey Is there a program that stops hackers from hacking your facebook account?  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/4c3cf0260c5ba301028cb9e31daa7f8d?s=50&d=mm&r=g)  
 Aubrey G. Lemons  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [April 19, 2017 at 9:10 am](https://tools.techidaily.com/malwarefox/products/)  
 Why would anyone want to do that? I mean, by keylogging you can see the websites that the victim visits or the messages that he is sending but what for? How could this help a purpose in any way? (apart from spying on your SO)  
@@ -204,6 +183,14 @@ Why would anyone want to do that? I mean, by keylogging you can see the websites
          [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/9e20e8a501b9962a0ce63f0fe5557103?s=50&d=mm&r=g)  
    Catherine V. Williams  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [May 1, 2017 at 10:17 am](https://tools.techidaily.com/malwarefox/products/)  
    It’s actually an easy way to earn money you know? All you have to do is to track the username/password of a bank account and that’s it, free money. Getting away with it is hard of course but I’m just saying.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -224,13 +211,6 @@ Why would anyone want to do that? I mean, by keylogging you can see the websites
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/58945a8d747c25b2e4abf5ca612a4034?s=50&d=mm&r=g)  
 Sharon B. Wilson  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [April 26, 2017 at 2:20 pm](https://tools.techidaily.com/malwarefox/products/)  
 Has anyone noticed that when an article about privacy is published the 99% of the those who leave a comment are women?  
@@ -258,13 +238,6 @@ This is creepy in so many ways.
 6. ![](https://secure.gravatar.com/avatar/b83a54597306fd6190ca9f3b25b93aa6?s=50&d=mm&r=g)  
 Ken  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [February 28, 2019 at 5:19 am](https://tools.techidaily.com/malwarefox/products/)  
 I just had this experience by a fb friend/ somebody from Australia sending me a flash drive with music on it that resulted in my credit card being hit for $1200 worth of computer equipment being purchased and shipped to Australia.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -275,6 +248,20 @@ Real help is needed for women in abusive situations. I wish there was a hacker c
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/5bffd29b3f59ccb59cae7211a56deca0?s=50&d=mm&r=g)  
    Jdeming  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [February 20, 2020 at 7:02 pm](https://tools.techidaily.com/malwarefox/products/)  
    Not necessarily true I would think most “people” that would use something like this I don’t want to say against; but to validate the truthfullyness (George W. Word combinationising here) their partner to know that there not dealing with an abusive or narissistic individual. And, in way shape or form are they attempting to control anything let alone your “next step, control the money, and your movements. ” Trust me as a man that’s the sole income provider for a family of 5 , I don’t have a lot of time laying around and if your not comfortable with the income providers control of the money then I suggest you go and get a job and if you have and something like that is going on then that’s your own mistake not the opposing genders. But, back to the topic our society is almost setup in a way that produces and incourages narissistic, sociopath type ideals and there’s more now than ever dare I say to an extent we all are narissistical wired; but when you provide everything for someone and they repay that with resentment, disrespect and harsh critism and out if the blue stop having sex at 33 because theyre not interested in it anymore (bullshit, then why would they be fapping all day got the tape recording to prove it maybe alittle more) then they there goes the emotional intimacy too, oh what let’s throw in some silent treatment and a non existent busy schedule. And, you keep asking what’s wrong what’s going on and all you get for an answer is oh nothing’s wrong why and you go thru the list I just gave(the short one) and your gaslighted as a crazy person and made to feel like someone just pulled a slight if hand on a street shell game on you because you’ve walked away feeling somehow like it was unreasonable to want to discuss why your needs are the only ones going unmet within the group. And, yeah to get answers you’ll go to any lengths so you know you have been used this whole time and if so at least you the information to make a decision how you want the rest of your life to go and not only but maybe something to help with getting some custody of the children you both raised but someone would rather use as leverage or income guarantee.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -286,6 +273,14 @@ Real help is needed for women in abusive situations. I wish there was a hacker c
          [Reply](https://tools.techidaily.com/malwarefox/products/)  
          * ![](https://secure.gravatar.com/avatar/4d8b0371e0810e71834c25c2defdae4f?s=50&d=mm&r=g)  
          Recovering Woman of Abuse  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
          [December 14, 2021 at 4:37 pm](https://tools.techidaily.com/malwarefox/products/)  
          WTHeckers? This is not a Rant and Rave site. 😶🙄😳  
          But, for a millisecond I thought I was reading someones Blog about??? Their personal demands not being met by a SO. Comments made unjustifiably towards a woman who is or was in an abusive relationship. 😣😡😠  
@@ -305,11 +300,26 @@ Real help is needed for women in abusive situations. I wish there was a hacker c
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 8. ![](https://secure.gravatar.com/avatar/97714a435eec618f00aedc1688bda957?s=50&d=mm&r=g)  
 DKitty  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [February 18, 2020 at 9:23 am](https://tools.techidaily.com/malwarefox/products/)  
 Hi, I have MalwareFox Antimalware on my Android phone and it runs a full scan daily.  
 I saw your instructions on Keylogger Detector and have a question. If the scan automatically checks this then what is the Anti-Keylogger App and how do I find the license key?  
 This is a great app and I appreciate the information provided as well.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -336,21 +346,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-navigation-in-telegram-web-app/"><u>[New] Step-by-Step Navigation in Telegram Web App</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/2021-ultimate-shopping-strategy-zdnets-expert-tips-for-black-friday-and-cyber-monday-deals/"><u>2021 Ultimate Shopping Strategy: ZDNet's Expert Tips for Black Friday & Cyber Monday Deals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>2024 Approved The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>2024 Approved Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/act-before-its-too-late-windows-11-versions-21h2-and-22h2-hit-end-of-life-immediate-upgrade-essential-zdnet/"><u>Act Before It's Too Late: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Immediate Upgrade Essential! | ZDNet</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/balancing-act-how-microsofts-ai-tool-copilot-blends-helpful-tech-and-salesmanship-explored-by-zdnet/"><u>Balancing Act: How Microsoft’s AI Tool, Copilot, Blends Helpful Tech and Salesmanship | Explored by ZDNET</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-6s-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 6s Without a Home Button</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-lava-yuva-3-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Lava Yuva 3 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-voice/"><u>In 2024, What Is AI Voice?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/microsofts-latest-update-the-silent-release-that-sparked-an-uproar-insights-from-zdnet/"><u>Microsoft's Latest Update: The Silent Release That Sparked an Uproar - Insights From ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/starting-point-learning-to-thrive-in-instagrams-virtual-spaces/"><u>Starting Point Learning to Thrive in Instagram's Virtual Spaces</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/the-cost-of-staying-current-microsoft-announces-paid-windows-11-update-fees-beginning-next-year-insights-and-pricing-details/"><u>The Cost of Staying Current: Microsoft Announces Paid Windows 11 Update Fees Beginning Next Year - Insights and Pricing Details</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-guide-to-turning-off-your-new-iphone-15-propro-max/"><u>The Definitive Guide to Turning Off Your New iPhone 15 Pro/Pro Max</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/upcoming-launch-microsoft-prepares-for-the-second-phase-of-copilot-with-expert-analysis-from-zdnet/"><u>Upcoming Launch: Microsoft Prepares for the Second Phase of Copilot with Expert Analysis From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-10-proplus-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 10 Pro+ 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/windows-11-update-charges-coming-soon-find-out-how-much-youll-need-to-pay-in-this-upcoming-change-by-microsoft/"><u>Windows 11 Update Charges Coming Soon? Find Out How Much You'll Need to Pay in This Upcoming Change by Microsoft</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/farewell-chatgpt-disconnection-guide/"><u>Farewell, ChatGPT – Disconnection Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-a2-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi A2 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-tropical-tango-toucan/"><u>In 2024, Tropical Tango Toucan</u></a></li>
+<li><a href="https://facebook.techidaily.com/reduce-exposure-to-facebook-reels/"><u>Reduce Exposure to Facebook Reels</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/schnell-und-einfach-bilddateien-von-picasa-auf-externen-speicher-sichern/"><u>Schnell Und Einfach: Bilddateien Von Picasa Auf Externen Speicher Sichern</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/seamless-migration-transferring-systems-to-compatible-hardware-using-unified-recovery-methods/"><u>Seamless Migration: Transferring Systems to Compatible Hardware Using Unified Recovery Methods</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/securely-store-and-transfer-huge-data-sets-with-the-indestructible-lexar-jumpdrive-tough-usb/"><u>Securely Store and Transfer Huge Data Sets with the Indestructible Lexar JumpDrive Tough USB</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/tutorial-pour-la-recuperation-de-videos-effacees-sur-iphone-android-et-systemes-dexploitation-windows/"><u>Tutorial Pour La Récupération De Vidéos Effacées Sur iPhone, Android Et Systèmes D'exploitation Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-podcast-broadcast-simplifier/"><u>Ultimate Podcast Broadcast Simplifier</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-enterprise-capabilities-and-unique-selling-points-explained/"><u>Understanding ChatGPT Enterprise - Capabilities and Unique Selling Points Explained</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/voorbeelden-voor-herstellen-van-behoudbare-documenten-na-schijffeverversumming/"><u>Voorbeelden Voor Herstellen Van Behoudbare Documenten Na Schijffeverversumming</u></a></li>
 </ul></div>
 
