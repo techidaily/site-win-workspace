@@ -1,7 +1,7 @@
 ---
 title: Protecting Your Windows 11 System with DIY USB Security Keys - A Comprehensive Tutorial
-date: 2024-10-13T22:25:39.836Z
-updated: 2024-10-19T16:44:53.061Z
+date: 2024-10-24T05:47:48.096Z
+updated: 2024-10-25T19:58:38.436Z
 tags:
   - product
   - antivirus
@@ -52,6 +52,13 @@ The cheaper alternative is creating your own USB login key. However, for that, y
 
 Every coin has two sides. Likewise, security keys also have two sides, positive and negative. Let us list them out.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Pros:**
 
 * A USB security would provide an extra layer of protection to your device by forming a two-factor authentication.
@@ -69,10 +76,10 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 So, these are the Pros and Cons of the Physical Security key. Weigh them keeping your preference in mind and then choose whether to go for it or not.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create a USB Security Key on Windows 10?
@@ -89,11 +96,32 @@ The first step is to enable the BitLocker on your system Drive, that is, the dri
 
 ![Turn on BitLocker.](https://www.malwarefox.com/wp-content/uploads/2020/06/Turn-on-BitLocker.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 – Follow the on-screen steps, and at the end, click on “**Start encrypting.**“
 
 ![Start encrypting](https://www.malwarefox.com/wp-content/uploads/2020/06/Bitlocker-encryption.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 – Your system would restart, and then encryption would begin, which would take some time, depending on the size of the drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Enable Security Key using BitLocker**
 
@@ -137,15 +165,22 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Predator**
 
 ![Predator USB security key](https://www.malwarefox.com/wp-content/uploads/2020/06/predator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Predator is another popular program to turn a USB into a physical security key. After the USB drive is converted into a security key, your system would only be accessible when the USB is plugged in. As soon as the drive would be plugged out, the computer will be locked automatically.
@@ -157,13 +192,6 @@ Installation of the Predator is easy. Download the installation file and open it
 [Get Predator](https://www.predator-usb.com/predator/en/index.php)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Rohos Logon Key**
 
@@ -178,13 +206,6 @@ Rohos store your login credential into the USB drive, and during startup, when y
 [Get Rohos Logon Key](http://www.rohos.com/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -202,23 +223,16 @@ While creating a key, you would always be prompted to create a recovery method i
 
 [According to YubiKey](https://support.yubico.com/support/solutions/articles/15000010242-can-i-duplicate-or-back-up-a-yubikey-), due to security reasons, the firmware of YubiKey does not allow the system to read the drive after it is written. Therefore, it is impossible to create a backup of YubiKey.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 thoughts on “How to Make a USB Security Key to Protect Windows 10 PC”
 
 1. ![](https://secure.gravatar.com/avatar/1f15aeebf604b14368e5d572c11913a9?s=50&d=mm&r=g)  
 Robert  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [January 1, 2022 at 2:40 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -227,29 +241,9 @@ what about windows 11 this is now outdated information I been looking up informa
    * ![](https://secure.gravatar.com/avatar/b078f2f4ee5a7d70f03d2ed3d315f291?s=50&d=mm&r=g)  
    Lukas  
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [February 25, 2022 at 2:41 am](https://tools.techidaily.com/malwarefox/products/)  
    Windows 11 is literally just a reskin of Windows 10 (with a few extra features). All of these should work perfectly fine.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -276,22 +270,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-expert-selections-of-innovative-vtuber-sound-tools/"><u>[Updated] In 2024, Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-8-best-website-for-3d-graffiti-fonts/"><u>2024 Approved 8 Best Website for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>2024 Approved In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/windows-1140xc1900101/"><u>如何在Windows 11上简单修复4个常见的0xC1900101崩溃 - 有效解决方案</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/apoyo-affordable-lightroom-counterparts-reviewed-for-2024/"><u>Apoyo Affordable Lightroom Counterparts Reviewed for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/comment-realiser-un-sauvegarde-et-une-clonage-rapides-de-votre-carte-sd-en-utilisant-la-meilleure-solution-gratuite-sous-windows/"><u>Comment Réaliser Un Sauvegarde Et Une Clonage Rapides De Votre Carte SD en Utilisant La Meilleure Solution Gratuite Sous Windows</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/guia-paso-a-paso-para-clonear-hdd-a-ssd-en-windows-con-particion-bootable/"><u>Guía Paso a Paso Para Clonear HDD a SSD en Windows Con Partición BOOTABLE</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/guide-preserving-iphone-chats-on-your-desktop-using-two-different-techniques/"><u>Guide: Preserving iPhone Chats on Your Desktop Using Two Different Techniques</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-to-repair-acer-recovery-mode-problems-step-by-step-troubleshooting-guide/"><u>How To Repair Acer Recovery Mode Problems - Step-By-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-realme-narzo-n55-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Realme Narzo N55</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-x-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone X</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snapshot-secrets-iphones-techniques-for-clear-reflections/"><u>In 2024, Snapshot Secrets IPhone's Techniques for Clear Reflections</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-windows-11-with-top-tips/"><u>Mastering Windows 11 with Top Tips</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/solving-the-riddle-of-0x80072f8f-a-comprehensive-guide-for-troubleshooting-common-technology-glitches/"><u>Solving the Riddle of 0X80072F8F: A Comprehensive Guide for Troubleshooting Common Technology Glitches</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/techniques-optimales-pour-transferer-un-gros-volume-de-donnees-du-gpt-a-un-ssd-compact-et-rapide/"><u>Techniques Optimales Pour Transférer Un Gros Volume De Données Du GPT À Un SSD Compact Et Rapide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/troubleshoot-non-detection-issues-with-your-hard-drive-effective-solutions/"><u>Troubleshoot Non-Detection Issues with Your Hard Drive: Effective Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-revolutionary-alternative-tools-for-fbx-file-capture/"><u>[New] Revolutionary Alternative Tools for FBX File Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beyond-marketing-hype-the-genuine-facts-of-reels/"><u>[Updated] Beyond Marketing Hype The Genuine Facts of Reels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-mobile-image-personalization-iphoneandroids-best-10-apps/"><u>[Updated] In 2024, Mastering Mobile Image Personalization IPhone/Android's Best 10 Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-stumble-upon-these-hidden-meme-page-treasures/"><u>[Updated] Stumble Upon These Hidden Meme Page Treasures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-easy-steps-for-sharing-your-xbox-playtime/"><u>2024 Approved Easy Steps for Sharing Your Xbox Playtime</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/automatizacion-de-copias-de-respaldo-en-windows-11-tres-facil-y-eficientes-metodos/"><u>Automatización De Copias De Respaldo en Windows 11: Tres Fácil Y Eficientes Métodos</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/discover-the-reasons-behind-missing-saved-documents-in-microsoft-word/"><u>Discover the Reasons Behind Missing Saved Documents in Microsoft Word</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/efficient-weg-hoe-je-wechat-gesprekshistorie-te-exporteren-op-iphoneandroid/"><u>Efficiënt Weg Hoe Je WeChat Gesprekshistorie Te Exporteren Op iPhone/Android</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effortless-steps-to-restore-lost-files-following-a-windows-1011-system-failure/"><u>Effortless Steps to Restore Lost Files Following a Windows 10/11 System Failure</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-restore-missing-pictures-on-your-pc-for-free-windows-n-11-guide/"><u>How to Restore Missing Pictures on Your PC for Free - Windows N 11 Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Pova 5 Pro Phone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/iphone-wiederherstellungslosungen-mit-behoben-lost-deine-itunes-probleme-endlich/"><u>IPhone-Wiederherstellungslösungen Mit Behoben: Löst Deine iTunes Probleme Endlich</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/quick-fix-restore-accidentally-erased-files-on-usb-using-ifind-advanced-recovery-tool/"><u>Quick Fix: Restore Accidentally Erased Files on USB Using iFind Advanced Recovery Tool</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/recuperation-gratuite-de-partitions-formatees-sur-systemes-dexploitation-windows-xp-vista-7-8-and-10/"><u>Recuperation Gratuite De Partitions Formatees Sur Systèmes D'Exploitation Windows (XP, Vista, 7, 8 & 10)</u></a></li>
+<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-11-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 11 screen lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speaker-woes-banish-that-irritating-zzzz-with-easy-tricks/"><u>Speaker Woes? Banish that Irritating Zzzz with Easy Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-altering-windows-index-settings/"><u>Step-by-Step: Altering Windows Index Settings</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-5-strategies-for-clearing-a-full-sd-card-with-missing-files-recovery/"><u>Top 5 Strategies for Clearing a Full SD Card with Missing Files Recovery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-gionee-f3-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Gionee F3 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 
