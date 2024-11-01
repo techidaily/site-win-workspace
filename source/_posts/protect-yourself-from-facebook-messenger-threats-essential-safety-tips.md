@@ -1,7 +1,7 @@
 ---
 title: "Protect Yourself From Facebook Messenger Threats: Essential Safety Tips"
-date: 2024-10-15T09:17:59.918Z
-updated: 2024-10-19T20:34:14.497Z
+date: 2024-10-29T23:17:20.288Z
+updated: 2024-11-01T00:47:29.934Z
 tags:
   - product
   - antivirus
@@ -50,13 +50,6 @@ In this post, we would learn how to remove the Facebook Messenger Virus and stay
 
 Facebook Messenger Virus is basically a malicious file spread through the Messenger platform. Users receive the nasty Trojan from their trusted connection through a file, for example, a video or a link. In one of the attacks, the FormBook Trojan was spread through an archive file titled **“video\_13925.bz.”** On extracting this file, the FormBook gets activated. This Trojan is pretty harmful to the system as it is designed to steal personal information such as passwords, bank details, keystrokes, clipboard history, and more. FormBook Trojan can also open doors for the entry of other malicious programs like Spyware or Ransomware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the symptoms of the Facebook Messenger Virus attack?
 
 The Facebook Messenger Virus might be hiding anywhere in the system and sneakingly spying on users or conducting other illicit activities. Since it disguises itself in the name of a legitimate and safe process, it is pretty challenging to detect the Facebook Messenger Virus. However, the system shows some common symptoms that might confirm the presence of Trojan malware. Here is the list of those indications:
@@ -70,6 +63,13 @@ The Facebook Messenger Virus might be hiding anywhere in the system and sneaking
 ## How did Facebook Messenger Virus infect my computer?
 
 As already mentioned, Facebook Messenger Virus is spread through the Messenger platform of Facebook, hence the name. Victims receive the malicious file attachments through their trusted connections which are either compromised or trapped in a Phishing attack. They believe since the attachment is sent through a friend, it can be relied on, and hence they open it and install the FormBook into their system. Sometimes the Trojan is delivered through a link, which looks like a link from YouTube, so victims open them without any suspicion or hesitation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to remove Facebook Messenger Virus?
 
@@ -89,31 +89,17 @@ If the Facebook Messenger Virus is still there on your PC, try to find the culpr
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -130,6 +116,20 @@ Here are the steps to eliminate thre temporary files:
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### **Reset Web Browser Settings**
@@ -141,27 +141,20 @@ If your browser is misbehaving because of Facebook Messenger Virus, then reset i
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 5. Relaunch your browser.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -173,13 +166,6 @@ MalwareFox is a reliable security software that promises to protect your system 
 
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -204,16 +190,29 @@ If you download any malicious attachment or click on any suspicious links sent t
 
 The best way to get rid of a Facebook virus is by installing a robust security application like MalwareFox on your device. Other options include uninstalling the suspicious applications, deleting temporary files, and more listed in this post.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 thoughts on “Facebook Messenger Virus: How to Stay Safe”
 
 1. ![](https://secure.gravatar.com/avatar/9f5931c247643e9688c235261f4fa803?s=50&d=mm&r=g)  
 Mark  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [December 21, 2021 at 11:22 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -228,6 +227,13 @@ Question, how much of this info, I suspect all, applies to Android and windows s
    To answer your question, I would say that there are some reports that Facebook Messenger has infected Android devices. You will get almost the same symptoms mentioned in this post. However, removing the malware from Android requires a totally different approach.  
    So, for that follow this post: <https://www.malwarefox.com/remove-android-malware/>  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -254,24 +260,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-compre-habits-of-top-reddit-posters-explained/"><u>[New] The Compre Habits of Top Reddit Posters Explained</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhance-viewing-experience-best-youtube-converters-to-avi-for-2024/"><u>[Updated] Enhance Viewing Experience Best YouTube Converters to AVI for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-novice-to-expert-film-cameras-you-can-trust/"><u>[Updated] From Novice to Expert Film Cameras You Can Trust</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-shaky-to-steady-selecting-an-ideal-camera-gimbals-for-uavs-for-2024/"><u>[Updated] From Shaky to Steady Selecting an Ideal Camera Gimbals for UAVs for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-customize-your-youtube-view-adjust-speed-settings/"><u>[Updated] In 2024, Customize Your YouTube View Adjust Speed Settings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-sounds-ownership-policy/"><u>[Updated] In 2024, Instagram Sounds Ownership Policy</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/usbdvd/"><u>「USB/DVDでのシステムリカバリーディスク作成手順ガイド」</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-engaging-with-your-audience-through-twitter-promos/"><u>2024 Approved Engaging With Your Audience Through Twitter Promos</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728489808987-windows-11/"><u>如何在Windows 11上建立復原點的簡易指南（以視覺化與命令行方式）</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728495497530-windows-server/"><u>効果的な戦略：Windows Serverのバックアップエラー修正法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-users-trust-the-safety-of-chatgpts-operations/"><u>Can Users Trust the Safety of ChatGPT's Operations?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-the-continuous-browser-bugs-causing-content-warnings-to-collapse-on-your-desktop/"><u>Fix the Continuous Browser Bugs Causing Content Warnings to Collapse on Your Desktop</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/leading-disk-sanitization-tools-for-windows-operating-systems-11-10-8-and-7/"><u>Leading Disk Sanitization Tools for Windows Operating Systems (11, 10, 8, and 7)</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/missing-old-yahoo-emails-learn-the-easy-steps-to-recover-them/"><u>Missing Old Yahoo Emails? Learn the Easy Steps to Recover Them!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/navigating-through-windows-11s-picture-this-feature-for-efficient-screen-shot-management/"><u>Navigating Through Windows 11'S Picture This Feature for Efficient Screen Shot Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-solution-resolving-your-magic-mouses-tracking-issues/"><u>Simple Solution: Resolving Your Magic Mouse's Tracking Issues</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/soluzioni-per-il-problema-unita-non-supportata-sulla-macchina-da-bucato-samsung-magic-guida-completa-ai-7-migliori-passaggi/"><u>Soluzioni per Il Problema Unità Non Supportata Sulla Macchina Da Bucato Samsung Magic - Guida Completa Ai 7 Migliori Passaggi</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/strategie-efficaci-per-il-recupero-di-macchine-virtuali-usando-windows-server-backup/"><u>Strategie Efficaci per Il Recupero Di Macchine Virtuali Usando Windows Server Backup</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/tuto-guide-facile-a-suivre-pour-installer-windows-nouvelle-version-directement-en-externe-avec-cle-usb/"><u>Tuto-Guide Facile À Suivre Pour Installer Windows Nouvelle Version Directement en Externe Avec Clé USB.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-achieve-superior-mp4-output-from-instagram-videos-2-ways/"><u>[Updated] 2024 Approved Achieve Superior MP4 Output From Instagram Videos 2 Ways</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-channel-identity-design-icons-and-thumbnails-essentials/"><u>[Updated] Channel Identity Design Icons & Thumbnails Essentials</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-flat-to-fierce-transformative-color-workflows-for-2024/"><u>[Updated] From Flat to Fierce Transformative Color Workflows for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-art-of-snapchat-personal-branding-generate-a-hundredplus-ideas-for-memorable-stories/"><u>2024 Approved The Art of Snapchat Personal Branding Generate a Hundred+ Ideas for Memorable Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-cloud-apps-android-list-seamless-backup-and-sync-edition/"><u>Best-Cloud-Apps-Android-List Seamless Backup and Sync Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bust-through-rdr2s-persistent-loading-screen-dilemma/"><u>Bust Through RDR2's Persistent Loading Screen Dilemma</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/come-clonare-il-disco-di-installazione-di-windows-11-trasferimento-sicuro-su-un-nuovo-ssd/"><u>Come Clonare Il Disco Di Installazione Di Windows 11: Trasferimento Sicuro Su Un Nuovo SSD</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comment-resoudre-les-problemes-de-mises-a-jour-automatiques-donedrive-8-strategies-efficaces/"><u>Comment Résoudre Les Problèmes De Mises À Jour Automatiques D'OneDrive : 8 Stratégies Efficaces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964468515-exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th!</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/losungen-fur-den-fehler-google-drive-zeigt-nicht-alle-dateien-an/"><u>Lösungen Für Den Fehler: Google Drive Zeigt Nicht Alle Dateien An</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-photogridding-services-to-polish-your-art/"><u>Professional Photogridding Services to Polish Your Art</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/rollback-rxwindows-1087/"><u>RollBack Rxと同等以上の機能を提供するWindows 10/8/7向けの無料バックアップソリューション</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/trova-la-soluzione-per-lenvironment-di-riparazione-di-windows-con-difficolta-insolite/"><u>Trova La Soluzione per L'Environment Di Riparazione Di Windows Con Difficoltà Insolite</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ultimate-tutorial-restoring-non-saved-excel-workbooks-in-windows-10-system/"><u>Ultimate Tutorial: Restoring Non-Saved Excel Workbooks in Windows 10 System</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/win-1111/"><u>Win 11/11 檢與恢復失去的文件：永久消除後還原秘技解析</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/44or44k944kz44oz5yaf44gn55s75yop44ks6kal44gk44gr44kl44gf44kb44gu5yq55p6c55qe44gq5pa55rov/"><u>パソコン内で画像を見つけるための効果的な方法</u></a></li>
 </ul></div>
 
