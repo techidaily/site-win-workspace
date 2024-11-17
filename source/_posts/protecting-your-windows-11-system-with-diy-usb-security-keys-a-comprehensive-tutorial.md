@@ -1,7 +1,7 @@
 ---
 title: Protecting Your Windows 11 System with DIY USB Security Keys - A Comprehensive Tutorial
-date: 2024-11-05T17:04:09.841Z
-updated: 2024-11-06T16:14:45.676Z
+date: 2024-11-12T01:56:30.649Z
+updated: 2024-11-16T18:10:29.150Z
 tags:
   - product
   - antivirus
@@ -48,16 +48,16 @@ You can get such a physical security key from the manufacturer like Yubikey, Goo
 
 The cheaper alternative is creating your own USB login key. However, for that, you have to compromise one of your USB drives or get an affordable Pendrive specifically for this purpose. 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pros and Cons of the Physical Security Key
 
 Every coin has two sides. Likewise, security keys also have two sides, positive and negative. Let us list them out.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Pros:**
 
@@ -66,13 +66,6 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 * You already have to memorize several passwords of your different accounts, getting a physical lock key would reduce some strain, and you can lock/unlock your computer hassle-free.
 
 [How to Remove Virus Alert from Microsoft Edge?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Cons:**
 
@@ -96,18 +89,18 @@ The first step is to enable the BitLocker on your system Drive, that is, the dri
 
 ![Turn on BitLocker.](https://www.malwarefox.com/wp-content/uploads/2020/06/Turn-on-BitLocker.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 – Follow the on-screen steps, and at the end, click on “**Start encrypting.**“
 
 ![Start encrypting](https://www.malwarefox.com/wp-content/uploads/2020/06/Bitlocker-encryption.png)
 
 – Your system would restart, and then encryption would begin, which would take some time, depending on the size of the drive.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Enable Security Key using BitLocker**
 
@@ -118,18 +111,25 @@ In Windows search bar, type “group policy editor” and click on the relatable
 ![Open Group Policy Editor](https://www.malwarefox.com/wp-content/uploads/2020/06/Group-Policy-Editor.png)
 2. **Navigate to Operating System Drives**  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Follow this path **Computer Configuration -> Administrative Templates -> Windows Components -> BitLocker Drive Encryption -> Operating System Drives**
 3. **Open Require Additional Authentication at startup**  
 Look for “**Require Additional Authentication at startup**” and open it.  
 ![Require Additional Authentication at startup](https://www.malwarefox.com/wp-content/uploads/2020/06/Additional-Authentication.jpg)
 4. **Enable it and Configure its settings**  
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A new window would open, click on **Enable** bullet option. There’s a drop-down menu labeled “**Configure TPM startup key**.” Change this to “**Require Startup Key With TPM.**“  
 ![Enable additional authentication](https://www.malwarefox.com/wp-content/uploads/2020/06/Enable-additional-authentication.png)
 5. **Run Command Prompt**  
@@ -139,13 +139,40 @@ In the final step, run Command Prompt as admin and type this command:
 Where ‘c:’ is the drive where Windows is installed and ‘j:’ is assigned to the USB drive.  
 ![Run Command](https://www.malwarefox.com/wp-content/uploads/2020/06/USB-key.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
 That’s it. The security key is created, and you would be asked to insert it whenever you start the computer.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to create a USB Security Key Using Third-party App?
 
 If you are a Windows 10 home user or you didn’t want to use the complicated method of Windows Bitlocker to create your USB security key, then some third-party applications could help you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **USB Raptor**
 
@@ -159,16 +186,16 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Predator**
 
 ![Predator USB security key](https://www.malwarefox.com/wp-content/uploads/2020/06/predator.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Predator is another popular program to turn a USB into a physical security key. After the USB drive is converted into a security key, your system would only be accessible when the USB is plugged in. As soon as the drive would be plugged out, the computer will be locked automatically.
 
@@ -181,28 +208,15 @@ Installation of the Predator is easy. Download the installation file and open it
 ---
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Rohos Logon Key**
 
 ![Rohos Logon USB security Key](https://www.malwarefox.com/wp-content/uploads/2020/06/rohos-logon-key.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Rohos Logon Key is a multi-platform security key maker software that provides two-factor authentication to unlock both Windows and macOS devices. It comes with both a free and paid version. Though the free version offers a lot of features, it is only available for Windows users. 
 
@@ -229,13 +243,6 @@ While creating a key, you would always be prompted to create a recovery method i
 **3\. How do I backup my YubiKey?** 
 
 [According to YubiKey](https://support.yubico.com/support/solutions/articles/15000010242-can-i-duplicate-or-back-up-a-yubikey-), due to security reasons, the firmware of YubiKey does not allow the system to read the drive after it is written. Therefore, it is impossible to create a backup of YubiKey.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2 thoughts on “How to Make a USB Security Key to Protect Windows 10 PC”
 
@@ -277,22 +284,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-breakthrough-tactics-for-efficient-home-podcasting/"><u>[New] In 2024, Breakthrough Tactics for Efficient Home Podcasting</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>[Updated] In 2024, An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-ways-to-record-without-background-sounds/"><u>2024 Approved Innovative Ways to Record Without Background Sounds</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-striking-a-balance-in-youtube-thumbnail-sizing/"><u>2024 Approved Striking a Balance in YouTube Thumbnail Sizing</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/5pa55rov44gr44ki44kl44kk44oz44k44o844on44od44oi5lia5pmc44ov44kh44kk44or44gu6jih55sfic0g44or44k944kz44oz44ks5ps55zae44gz44kl57ch5y2y44gq44og44kv44ol44od44kv.73/"><u>方法によるインターネット一時ファイルの蘇生 - パソコンを改善する簡単なテクニック</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/iuwujoeplusjueahowmuuwdlplusimowonplusakgow3pzrlm5vkukrnrodljzxmraxpqqtmjifljzci/"><u>完美的区块还原技巧:四个简单步骤指南</u></a></li>
-<li><a href="https://win-able.techidaily.com/accelerate-chrome-swift-and-simple-fixes-for-speedier-surfing/"><u>Accelerate Chrome: Swift & Simple Fixes for Speedier Surfing</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/erstellen-einer-windows-server-201n-wiederherstellungskopie-mit-unterschiedlichen-softwareoptionen/"><u>Erstellen Einer Windows Server 201N-Wiederherstellungskopie Mit Unterschiedlichen Softwareoptionen</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/how-ai-and-machine-learning-enhance-kyc-compliance-in-the-financial-industry/"><u>How AI and Machine Learning Enhance KYC Compliance in the Financial Industry</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-lenovo-thinkpad-x1-nano-assessment-the-ultimate-compact-workhorse/"><u>In-Depth Lenovo ThinkPad X1 Nano Assessment - The Ultimate Compact Workhorse</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/inaccessible-boot-device/"><u>Inaccessible Boot Device</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/losungen-fur-probleme-beim-offnen-einer-onedrive-datei-funf-effektive-methoden/"><u>Lösungen Für Probleme Beim Öffnen Einer OneDrive-Datei: Fünf Effektive Methoden</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/secure-and-easy-access-to-the-latest-windows-11-2022-update/"><u>Secure & Easy Access to the Latest Windows 11 2022 Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/this-weeks-tech-highlights-unpacking-the-atandt-security-flaw-and-exciting-new-releases-from-samsung/"><u>This Week's Tech Highlights: Unpacking the AT&T Security Flaw and Exciting New Releases From Samsung</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/ultimate-step-by-step-tutorial-no-cost-veeam-backup-solutions-for-vmware-and-hyper-v/"><u>Ultimate Step-by-Step Tutorial: No Cost Veeam Backup Solutions for VMWare and Hyper-V</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/vmware-esxi-gegen-hyper-v-von-microsoft-ein-detaillierter-head-to-head-test-fur-servervirtualisierung/"><u>VMware ESXi Gegen Hyper-V Von Microsoft - Ein Detaillierter Head-to-Head Test Für Servervirtualisierung</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-essential-forgotten-tips-for-instagram-proficiency-for-2024/"><u>[New] Essential, Forgotten Tips for Instagram Proficiency for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-nine-key-approaches-for-storing-mov-in-windows-environments-for-2024/"><u>[New] Nine Key Approaches for Storing .mov in Windows Environments for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-efficient-strategies-for-restoring-lost-files-on-your-external-hdd-a-comprehensive-guide/"><u>1. Efficient Strategies for Restoring Lost Files on Your External HDD: A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-software-for-high-quality-video-capture-on-windows-pcs/"><u>2024 Approved Essential Software for High-Quality Video Capture on Windows PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-15-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 15 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-visual-performance-adaptive-refresh-rates-for-todays-displays/"><u>Enhancing Visual Performance: Adaptive Refresh Rates for Today’s Displays</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guide-complet-supprimer-avec-precaution-le-dossier-dobsolescence-winsxs-sur-windows-117-4-etapes/"><u>Guide Complet : Supprimer Avec Précaution Le Dossier D'Obsolescence WinSxS Sur Windows 11/7 (4 Étapes)</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-recover-deleted-drives-and-folders-in-windows-operating-systems-windows-10-11-8-and/"><u>How to Recover Deleted Drives and Folders in Windows Operating Systems (Windows 10, 11, 8, &</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-home-film-expertise-in-a-flash-top-5-diy-tips-for-speed/"><u>In 2024, Home Film Expertise in a Flash Top 5 DIY Tips for Speed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-sony-bravia-theater-u-evaluation-my-surprisingly-positive-impressions-of-the-neck-speaker/"><u>In-Depth Sony Bravia Theater U Evaluation: My Surprisingly Positive Impressions of the Neck Speaker</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/quick-solutions-prevent-and-restore-lost-data-using-google-backup-and-sync/"><u>Quick Solutions: Prevent & Restore Lost Data Using Google Backup & Sync</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/soluzione-rapida-problemi-con-le-mail-salvato-su-outlook-365/"><u>Soluzione Rapida: Problemi Con L'E-Mail Salvato Su Outlook 365</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncing-scenes-merging-pc-and-cloud-images-for-2024/"><u>Syncing Scenes Merging PC & Cloud Images for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/usbwindows-10/"><u>USB存储在Windows 10中安全擦除的多种技巧</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/versnelling-van-het-reverteren-van-uw-iphone-naar-een-oudere-ios-versie-begrepen-in-3-stappen/"><u>Versnelling Van Het Reverteren Van Uw iPhone Naar Een Oudere iOS-Versie Begrepen in 3 Stappen</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/warum-ihre-iphone-modelle-14-13-itunes-nicht-verbinden-losungen-mit-fonebackup/"><u>Warum Ihre iPhone-Modelle (14, 13) iTunes Nicht Verbinden: Lösungen Mit FoneBackup</u></a></li>
 </ul></div>
 

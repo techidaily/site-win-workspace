@@ -1,7 +1,7 @@
 ---
 title: "IFind Data Rescue: Step-by-Step Guide to Fixing a Damaged SD Card"
-date: 2024-11-02T18:14:30.016Z
-updated: 2024-11-06T18:48:47.997Z
+date: 2024-11-15T01:56:41.170Z
+updated: 2024-11-16T17:11:00.545Z
 tags:
   - product
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 SD Card repair can be a very agonizing question for most of us, but we are really using memory cards all day alone, for the android phone, camera, mp3 and more. So we will show you **how to repair damaged or Corrupted sd card** with some easy and multi-angle tips.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary:
 
 [1: what is a corrupt sd card?](https://www.ifind-recovery.com/how-to/corrupt-sd-card-repair/#part1)  
@@ -37,29 +44,29 @@ _You need to format the disk in (your sd card drive) before you can use it._
 
 ![sd card corrupted sign](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/01/sd-card-corrupted.jpg?resize=400%2C143&ssl=1)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _(Your sd card drive) is not accessible_
 
 ![Your sd card device is not accessible](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/01/sd-card-corrupted2.jpg?resize=400%2C156&ssl=1)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And there are some other warnings like “_write protected_“, “_Please insert a disk into drive_” or “_cannot recognize (your sd card)_“.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## how to repair damaged sd card without formatting
 
 To fix a corrupted SD card, you can follow the next tips and see what’s works for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Device hardware environment check
 
@@ -79,13 +86,6 @@ First, let’s check if there is something wrong around your sd card which cause
 
 If there is nothing wrong with the device, to fix the damaged sd card, you can try the next tips.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Give the SD card drive another drive letter
 
 ![change drive letter](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/01/change-drive-letter.jpg?resize=600%2C375&ssl=1)
@@ -99,13 +99,6 @@ Sometimes there is a problem for windows system about drive letter assignment. I
 5. Select the current letter and hit change, choose a new letter in the next window and click OK
 
 Then check how the device works now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use chkdsk command to fix SD card errors
 
@@ -124,41 +117,22 @@ You need Administrators Permission to run chkdsk to fix your device, which means
 5. In the command prompt, input “_chkdsk \[your memory card drive letter\]: /f_ “, If your sd card drive letter is E: then the final command will be “”_chkdsk E: /f_“
 6. Then wait and see _chkdsk fix your drive errors, it maybe takes a while, and may ask you for some more actions until finished._
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Notice:
 
 Do NOT Interrupt or terminate the command prompt when it’s running.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use Windows Explorer to repair corrupted SD card
 
 If you are not a fan of the command prompt, you can also use windows explorer. To repair your damaged SD card with Windows Explorer, you can follow the next steps:
 
 ![Windows Explorer repair sd card](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/01/Windows-Explorer-repair-sd-card.jpg?resize=418%2C538&ssl=1)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 1:** Connect your SD card device to your computer
 
@@ -170,6 +144,13 @@ If you are not a fan of the command prompt, you can also use windows explorer. T
 
 **Step 5:** Click Start in the next window and wait Windows scan and fix your SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips:
 
 There are also any SD card repair tools made by the big manufacturer, Such as SanDisk, Fujifilm, Samsung, Transcend, Lexar, PNY, Sony, Kingston, and Toshiba. These most famous brands usually offer standalone repair, formatting tools targeting their own products. You can check their website and support center to find it out.
@@ -180,18 +161,24 @@ OK, if you still can’t fix the problems without format your SD card, the next 
 
 > Related: [How to Recover Deleted Photos/Pictures from SD Card?](https://www.ifind-recovery.com/how-to/how-to-recover-deleted-photos-from-sd-card/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More Tips for Keep your Sd card safe and healthy
 
 ### Backup
 
 Data is Priceless. To protect your files and images, you should back up the SD card from time to time, especially when there are any kinds of warning message we talk about in the begin of this article, you should back up all the data ASAP!
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Warranty
 
@@ -210,16 +197,16 @@ Even you fixed the problem (nice job by the way), you should know there also hav
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Show Us some Love:
 
@@ -240,6 +227,13 @@ October 31, 2018
 In "Knowledge Base"
 
 [![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/Windows_10.png?fit=1025%2C576&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### [How To Recover Permanently Deleted Files in Windows PC & Prevent Data Loss Forever | 2024?](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
 
@@ -272,18 +266,24 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-workspace.techidaily.com/1728506966674-usb/"><u>「失われたデータを取り戻せる：USBハードディスクの回復手順」</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-photographers-roadmap-to-stunning-hdr-portraits/"><u>2024 Approved The Photographer's Roadmap to Stunning HDR Portraits</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728479838922-aomei/"><u>AOMEI 集中式后备存拥有哪些支持的文件格式</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-six-digital-communication-hubs-for-corporate-success/"><u>Essential Six Digital Communication Hubs for Corporate Success</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-online-converter-transform-audio-files-from-voc-to-mp3-with-ease/"><u>Free Online Converter: Transform Audio Files From VOC to MP3 with Ease</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/get-ready-to-lip-sync-discover-the-5-best-apps-for-stunning-videos-for-2024/"><u>Get Ready to Lip Sync Discover the 5 Best Apps for Stunning Videos for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210187012-9781736348116-healing-made-simple/"><u>Healing Made Simple | Free Book</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/online-gratis-konvertoren-voor-mka-naar-ogg-professioneel-werk-met-movavi-online-tools/"><u>Online Gratis Konvertoren Voor MKA Naar OGG: Professioneel Werk Met Movavi Online Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970574880-simple-steps-to-get-your-hp-drivers-installed-today/"><u>Simple Steps to Get Your HP Drivers Installed Today!</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-for-retrieving-information-on-your-external-hdd-using-buffalo-technology/"><u>Step-by-Step Guide for Retrieving Information on Your External HDD Using Buffalo Technology</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/transition-en-douce-vers-un-ssd-sans-reinstaller-clonage-disque-dur-assure/"><u>Transition en Douce Vers Un SSD Sans Réinstaller: Clonage Disque Dur Assuré</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/understanding-adware-identifying-harmful-advertisements-and-effective-removal-strategies/"><u>Understanding Adware: Identifying Harmful Advertisements and Effective Removal Strategies</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/44ov44o844kv44ov44kp44or44oa44gu6ieq5yuv5zcm5pyf5pa55rovic0g44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj/"><u>ワークフォルダの自動同期方法 - ステップバイステップガイド</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-top-16-youtube-beginnings-for-higher-engagement/"><u>[New] 2024 Approved Top 16 YouTube Beginnings for Higher Engagement</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-swiftcapture-solutions-w-audio-walkthrough-support-for-2024/"><u>[New] SwiftCapture Solutions W/ Audio Walkthrough Support for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows4-windows-10/"><u>「Windowsセキュリティ」開けない問題に勝つたった4方法 - Windows 10向け</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/come-mastering-clonezilla-in-windows-7-per-creare-una-copia-del-tuo-sistema/"><u>Come Mastering Clonezilla in Windows 7 Per Creare Una Copia Del Tuo Sistema</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/como-migrar-de-windows-11-x86-a-x64-sin-perdida-de-informacion-paso-a-paso/"><u>Cómo Migrar De Windows 11 X86 a X64 Sin Pérdida De Información: Paso a Paso</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comprehensive-tutorial-deploying-microsofts-operating-system-within-a-virtual-machine/"><u>Comprehensive Tutorial: Deploying Microsoft's Operating System Within a Virtual Machine</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-random-website-tracking-on-your-iphone-through-screen-time-settings/"><u>Correcting Random Website Tracking on Your iPhone Through Screen Time Settings</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/efficient-file-recovery-with-acer-erecovery-proven-techniques-and-tips/"><u>Efficient File Recovery with Acer eRecovery: Proven Techniques and Tips</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effortless-network-drive-backup-with-windows/"><u>Effortless Network Drive Backup with Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-announcement-ca-aims-to-end-sale-of-gas-cars-by-the-year-2035/"><u>Groundbreaking Announcement: CA Aims to End Sale of Gas Cars by the Year 2035</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-xcover-7-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy XCover 7 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>In 2024, The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-xiaomi-11-a-new-era-of-high-fidelity-video-recording/"><u>In 2024, Xiaomi 11 A New Era of High Fidelity Video Recording</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ipad-pro-vs-microsoft-surface-pro-an-in-depth-comparison-of-features/"><u>IPad Pro Vs. Microsoft Surface Pro: An In-Depth Comparison of Features</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/multi-database-recovery-techniques-in-sql-server-exploring-three-effective-strategies/"><u>Multi-Database Recovery Techniques in SQL Server - Exploring Three Effective Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-overcome-the-silence-on-netflix-restore-sound-now/"><u>Quick Fixes: Overcome the Silence on Netflix – Restore Sound Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-finding-unique-video-graphics-online-for-2024/"><u>The Ultimate Guide to Finding Unique Video Graphics Online for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-10-restaurez-gratuitement-vos-fichiers-supprimes-avec-notre-logiciel-gratuit/"><u>Windows 10 - Restaurez Gratuitement Vos Fichiers Supprimés Avec Notre Logiciel Gratuit</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/iuodhplusocoplusocueocrplusobruegtoaqjeobqpluswvvuwnoobmeociplusawueazltroqq3jgblj5bjgorkui3og73jgarjg4jg7zjg4njg4njg6njgqtjg5bjgplkv67mrapjgznjgovmiyvpoiyi161/"><u>ディスクの破損に対応する方法:読み取り不能なハードドライブを修正する手順</u></a></li>
 </ul></div>
 

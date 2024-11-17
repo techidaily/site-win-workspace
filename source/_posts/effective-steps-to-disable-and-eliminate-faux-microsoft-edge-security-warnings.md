@@ -1,7 +1,7 @@
 ---
 title: Effective Steps to Disable and Eliminate Faux Microsoft Edge Security Warnings
-date: 2024-10-30T20:57:04.525Z
-updated: 2024-11-06T18:54:13.246Z
+date: 2024-11-09T17:07:32.493Z
+updated: 2024-11-16T17:28:52.950Z
 tags:
   - product
   - antivirus
@@ -58,24 +58,18 @@ It is essential to get rid of the source behind this fake virus alert from Micro
 
 Here are a few ways to remove the fake Microsoft Edge virus alert:
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Restart your PC in Safe Mode**
 
 Windows Safe Mode is the perfect environment to find out and solve the critical errors in the system. In safe mode, only system programs and some crucial programs run. Safe mode would most likely kill the applications and its files that try to run automatically on your system. [Follow this guide to boot your Windows 10 PC in **Safe Mode**](https://www.windowschimp.com/how-to-boot-windows-10-into-safe-mode/)**.**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Uninstall Suspicious Applications**
 
@@ -89,6 +83,19 @@ If the Microsoft Edge virus alert pop-up still appears on your PC, try to find t
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -107,10 +114,10 @@ Here are the steps to eliminate thre temporary files:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Clear Browsing Data**
@@ -122,30 +129,36 @@ Clearing the browsing data such as history, cookies, cached data, and others mig
 3. On the left pane of the Settings page, click on **Privacy, search, and services**.![privacy settings edge browser](https://www.malwarefox.com/wp-content/uploads/2021/05/privacy-settings-edge-browser.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Scroll down and under **Clear browsing data,** click on **Choose what to clear** button.![choose what to clear](https://www.malwarefox.com/wp-content/uploads/2021/05/choose-what-to-clear.png)
 5. Select Browsing History, Download History, Cache, Cookies, and other data, choose the appropriate Time range, and click on the **Clear now** button.![clear edge data](https://www.malwarefox.com/wp-content/uploads/2021/05/clear-edge-data.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Install an Antimalware and Perform a Scan**
 
@@ -156,14 +169,14 @@ MalwareFox is reliable security software that promises to protect your system an
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
-[Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+[Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
 
 ## Final Words
 
@@ -195,31 +208,24 @@ I got the exactly the same popup fake Microsoft Edge Virus Detector. I followed 
 3. ![](https://secure.gravatar.com/avatar/20992e115e6854d4d3354bfec2ef927a?s=50&d=mm&r=g)  
 Anon  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [January 24, 2022 at 11:03 pm](https://tools.techidaily.com/malwarefox/products/)  
 In macOS, I received one of these on my google chrome browser. All you have to do is get the website that is doing it and search it up in your chrome notification setting. Then, you can click delete cookies and it will go away.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 4. ![](https://secure.gravatar.com/avatar/0114c46f2404b3774063826691486a89?s=50&d=mm&r=g)  
 Bob  
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [March 1, 2022 at 9:17 pm](https://tools.techidaily.com/malwarefox/products/)  
 Thank you. So far my pl4fulbunny is gone.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 5. ![](https://secure.gravatar.com/avatar/52cae7ccd666126cec6e637b0faf5e67?s=50&d=mm&r=g)  
 Julie  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [August 15, 2022 at 6:14 am](https://tools.techidaily.com/malwarefox/products/)  
 Your suggestions seemed to have helped! Restarting in “safe mode” was kinda scary, and didn’t take care of the problem; but as I made my way thru the list, the notifications stopped. Thanks for mentioning “not to panic” too, btw… cause I definitely was :p  
@@ -256,19 +262,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfect-pictures-at-work-master-snap-camera-use/"><u>[New] In 2024, Perfect Pictures at Work Master Snap Camera Use</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-vimeo-downloader-tools/"><u>[New] In 2024, Top Vimeo Downloader Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance/"><u>[Updated] Leverage the Power of Live Streaming Strategies for Facebook Dominance</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-nokia-c300-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C300 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/crafting-silent-pauses-in-music-tracks/"><u>Crafting Silent Pauses in Music Tracks</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/effective-methods-to-eliminate-ransomware-from-your-windows-computer-a-step-by-step-guide/"><u>Effective Methods to Eliminate Ransomware From Your Windows Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone SE to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/metodos-faciles-para-transferir-tu-sistema-operativo-a-un-disco-duro-nuevo-en-las-versiones-de-windows/"><u>Métodos Fáciles Para Transferir Tu Sistema Operativo a Un Disco Duro Nuevo en Las Versiones De Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/precision-and-power-top-5-text-plugins-for-after-effects-creativity-for-2024/"><u>Precision and Power Top 5 Text Plugins for After Effects Creativity for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/quick-guide-to-boot-into-windows-10-from-new-solid-state-drive-with-and-without-installation-media/"><u>Quick Guide to Boot Into Windows 10 From New Solid-State Drive: With and Without Installation Media</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unlocking-the-secrets-of-raw-media-a-comprehensive-guide-to-retrieving-stored-data/"><u>Unlocking the Secrets of RAW Media: A Comprehensive Guide to Retrieving Stored Data</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728499958643-vhd/"><u>VHD 與磁碟結合 - 最佳複製手冊（分步指南）</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unlocking-earnings-potential-with-youtube-adsense-payments-per-1k-viewer/"><u>[New] 2024 Approved Unlocking Earnings Potential with Youtube AdSense Payments Per 1K Viewer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-simplicity-in-ipad-screen-saving-tactics/"><u>[New] 2024 Approved Unveiling Simplicity in iPad Screen Saving Tactics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-choosing-platforms-youtube-shorts-vs-tiktok-best-for-minis/"><u>[Updated] Choosing Platforms YouTube Shorts Vs. TikTok – Best for Minis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-cross-posting-of-tiktok-content-to-facebook/"><u>[Updated] Seamless Cross-Posting of TikTok Content to Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-legality-taking-content-offline-for-2024/"><u>[Updated] YouTube Legality Taking Content Offline for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/comment-resoudre-les-problemes-de-transfert-de-fichiers-sur-windows-11-sujets-daide-et-conseils-rapides/"><u>Comment Résoudre Les Problèmes De Transfert De Fichiers Sur Windows 11? Sujets D'Aide Et Conseils Rapides</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/complete-tutorial-on-executing-dism-from-an-external-source-for-windows-11-recovery/"><u>Complete Tutorial on Executing DISM From an External Source for Windows 11 Recovery</u></a></li>
+<li><a href="https://win-net.techidaily.com/day-to-day-data-protection-the-benefits-of-incremental-vs-differential-backups-explained/"><u>Day-to-Day Data Protection: The Benefits of Incremental Vs. Differential Backups Explained</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/expert-guide-retrieving-deleted-files-from-a-2008r2-server-a-three-step-approach/"><u>Expert Guide: Retrieving Deleted Files From a 2008/R2 Server – A Three-Step Approach</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-connected-to-contented-the-top-10-reasons-why-quitting-facebook-is-worth-it/"><u>From Connected to Contented: The Top 10 Reasons Why Quitting Facebook Is Worth It</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guide-completement-a-reset-your-computer-before-selling-it/"><u>Guide Completement À Reset Your Computer Before Selling It</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-setup-a-comprehensive-guide-for-windows-1110-users/"><u>Mastering Bluetooth Setup: A Comprehensive Guide for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/probleme-de-segment-dinscription-illisible-solutions-pour-windows-11-10-8-et-7/"><u>Problème De Segment D’inscription Illisible : Solutions Pour Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/scopri-come-usare-i-comandi-della-riga-di-comando-per-recuperare-file-nascosti-dal-tuo-dispositivo-usb/"><u>Scopri Come Usare I Comandi Della Riga Di Comando per Recuperare File Nascosti Dal Tuo Dispositivo USB</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/soluciones-gratuitas-para-transferir-tu-disco-duro-instale-un-nuevo-so-y-mueva-archivos-sin-gastos/"><u>Soluciones Gratuitas Para Transferir Tu Disco Duro: Instale Un Nuevo SO Y Mueva Archivos Sin Gastos</u></a></li>
+<li><a href="https://games-able.techidaily.com/titans-of-tunes-vs-indie-artists-the-battle-continues-podcast-dialogue/"><u>Titans of Tunes Vs. Indie Artists: The Battle Continues! [Podcast Dialogue]</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-10hdd3/"><u>Windows 10に最適！外付けHDD不要で安全なバックアップ手段トップ3</u></a></li>
 </ul></div>
 
