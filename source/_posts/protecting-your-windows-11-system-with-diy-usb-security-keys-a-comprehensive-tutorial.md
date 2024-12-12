@@ -1,7 +1,7 @@
 ---
 title: Protecting Your Windows 11 System with DIY USB Security Keys - A Comprehensive Tutorial
-date: 2024-11-21T02:56:15.882Z
-updated: 2024-11-25T19:10:16.153Z
+date: 2024-12-05T03:18:02.310Z
+updated: 2024-12-12T03:22:05.208Z
 tags:
   - product
   - antivirus
@@ -52,6 +52,10 @@ The cheaper alternative is creating your own USB login key. However, for that, y
 
 Every coin has two sides. Likewise, security keys also have two sides, positive and negative. Let us list them out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Pros:**
 
 * A USB security would provide an extra layer of protection to your device by forming a two-factor authentication.
@@ -68,10 +72,6 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 
 So, these are the Pros and Cons of the Physical Security key. Weigh them keeping your preference in mind and then choose whether to go for it or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create a USB Security Key on Windows 10?
 
 You can create a USB security key on Windows 10 using an in-built program – **Windows BitLocker.** However, this method would only work for Pro and Enterprise versions of Windows as the Home version does not come with BitLocker.
@@ -79,7 +79,7 @@ You can create a USB security key on Windows 10 using an in-built program – **
 The first step is to enable the BitLocker on your system Drive, that is, the drive where the Windows 10 is installed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Enable Bitlocker**
@@ -90,15 +90,15 @@ The first step is to enable the BitLocker on your system Drive, that is, the dri
 
 ![Turn on BitLocker.](https://www.malwarefox.com/wp-content/uploads/2020/06/Turn-on-BitLocker.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 – Follow the on-screen steps, and at the end, click on “**Start encrypting.**“
 
 ![Start encrypting](https://www.malwarefox.com/wp-content/uploads/2020/06/Bitlocker-encryption.png)
 
 – Your system would restart, and then encryption would begin, which would take some time, depending on the size of the drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Enable Security Key using BitLocker**
 
@@ -109,19 +109,23 @@ In Windows search bar, type “group policy editor” and click on the relatable
 ![Open Group Policy Editor](https://www.malwarefox.com/wp-content/uploads/2020/06/Group-Policy-Editor.png)
 2. **Navigate to Operating System Drives**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Follow this path **Computer Configuration -> Administrative Templates -> Windows Components -> BitLocker Drive Encryption -> Operating System Drives**
 3. **Open Require Additional Authentication at startup**  
 Look for “**Require Additional Authentication at startup**” and open it.  
 ![Require Additional Authentication at startup](https://www.malwarefox.com/wp-content/uploads/2020/06/Additional-Authentication.jpg)
 4. **Enable it and Configure its settings**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A new window would open, click on **Enable** bullet option. There’s a drop-down menu labeled “**Configure TPM startup key**.” Change this to “**Require Startup Key With TPM.**“  
 ![Enable additional authentication](https://www.malwarefox.com/wp-content/uploads/2020/06/Enable-additional-authentication.png)
 5. **Run Command Prompt**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the final step, run Command Prompt as admin and type this command:  
 **manage-bde -protectors -add c: -TPMAndStartupKey j:**  
@@ -131,10 +135,6 @@ Where ‘c:’ is the drive where Windows is installed and ‘j:’ is assigned 
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
 That’s it. The security key is created, and you would be asked to insert it whenever you start the computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to create a USB Security Key Using Third-party App?
 
@@ -153,12 +153,16 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Predator**
 
 ![Predator USB security key](https://www.malwarefox.com/wp-content/uploads/2020/06/predator.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Predator is another popular program to turn a USB into a physical security key. After the USB drive is converted into a security key, your system would only be accessible when the USB is plugged in. As soon as the drive would be plugged out, the computer will be locked automatically.
 
@@ -169,10 +173,6 @@ Installation of the Predator is easy. Download the installation file and open it
 [Get Predator](https://www.predator-usb.com/predator/en/index.php)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Rohos Logon Key**
 
@@ -216,7 +216,7 @@ what about windows 11 this is now outdated information I been looking up informa
    Lukas  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    [February 25, 2022 at 2:41 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -224,7 +224,7 @@ what about windows 11 this is now outdated information I been looking up informa
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -252,18 +252,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-discovering-the-best-in-webcam-videography-tech/"><u>[New] Discovering the Best in WebCam Videography Tech</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-efficient-methods-to-block-facebook-adverts/"><u>[Updated] 2024 Approved Efficient Methods to Block Facebook Adverts</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/a-thorough-guide-to-restoring-deleted-files-from-a-patriot-memory-sd-card/"><u>A Thorough Guide to Restoring Deleted Files From a Patriot Memory SD Card</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/audio-visual-synergy-iphones-role-in-modern-music-videos-for-2024/"><u>Audio-Visual Synergy IPhone's Role in Modern Music Videos for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/ecco-il-metodo-per-risolvere-i-problemi-imprevedibili-nella-migrazione-dei-dati-samsung-ottimizzazioni-e-soluzioni/"><u>Ecco Il Metodo Per Risolvere I Problemi Imprevedibili Nella Migrazione Dei Dati Samsung: Ottimizzazioni E Soluzioni</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-0xc0000022-explained-successful-troubleshooting-of-adobe-application-starts/"><u>Error Code 0xC0000022 Explained - Successful Troubleshooting of Adobe Application Starts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-uploading-your-smartphone-images-from-ios-device-to-windowsmac-desktop/"><u>Guide: Uploading Your Smartphone Images From iOS Device to Windows/Mac Desktop</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mastering-server-backups-host-vs-guest-layer-approach/"><u>Mastering Server Backups: Host Vs. Guest Layer Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-win11-cc-troubleshooting-made-easy/"><u>Step-by-Step Guide: Win11 CC Troubleshooting Made Easy</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-solutions-addressing-windows-11-stalled-startup-problems/"><u>Step-by-Step Solutions: Addressing Windows 11 Stalled Startup Problems</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-three-nations-where-facebook-fails/"><u>The Three Nations Where Facebook Fails</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/verstandliche-tipps-zur-wiederbelebung-vergangener-ordnerdateien-windowsold-auf-ihrem-pc-mit-windows-11/"><u>Verständliche Tipps Zur Wiederbelebung Vergangener Ordnerdateien (Windows.old) Auf Ihrem PC Mit Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proiphone-photo-techniques-for-beginners/"><u>[New] Proiphone Photo Techniques for Beginners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>[Updated] 2024 Approved Elevate with IG Stories Constructing an Impactful Marketing Strategy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-fabricate-funny-faces/"><u>[Updated] Fabricate Funny Faces</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-iphone-autofocusing-a-guide-for-users/"><u>2024 Approved Mastering iPhone Autofocusing A Guide for Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/diagnosing-and-repairing-non-functional-displays-tips-and-solutions-by-yl-software-professionals/"><u>Diagnosing and Repairing Non-Functional Displays: Tips & Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effective-techniques-for-trading-cryptocurrencies-according-to-yl-software-experts/"><u>Effective Techniques for Trading Cryptocurrencies, According to YL Software Experts</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-regularly-should-you-archive-your-systems-windows-registry-insights-by-yl-software-experts/"><u>How Regularly Should You Archive Your System's Windows Registry? Insights by YL Software Experts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Itel S23 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mastering-green-screen-in-fcp-x-a-step-by-step-guide-for-2024/"><u>Mastering Green Screen in FCP X A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/mastering-the-art-of-crypto-startup-analysis-with-tips-from-yl-software-experts/"><u>Mastering the Art of Crypto Startup Analysis with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-navigating-to-the-advanced-system-configuration-on-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to the Advanced System Configuration on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-selection-of-no-cost-toshiba-hard-disk-clone-and-protection-tools/"><u>Ultimate Selection of No-Cost Toshiba Hard Disk Clone & Protection Tools</u></a></li>
 </ul></div>
 
