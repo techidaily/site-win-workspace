@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Legacy: How Early Hostilities with Japan Forged Today's China – Perspectives by YL Computing Solutions"
-date: 2025-01-18T02:52:08.137Z
-updated: 2025-01-23T16:05:43.987Z
+date: 2025-01-25T17:53:23.388Z
+updated: 2025-01-31T16:05:15.630Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-boosting-video-dimensions-on-youtube-platform/"><u>[Updated] 2024 Approved Boosting Video Dimensions on YouTube Platform</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-confirmed-age-adjustment-editing-your-profile-on-tiktok-easily/"><u>[Updated] Confirmed Age Adjustment Editing Your Profile on TikTok Easily</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1-rapid-solutions-fixing-error-code-0xc000005-instantly/"><u>1. Rapid Solutions: Fixing Error Code 0xC000005 Instantly</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/5pwz56il77ya5o6n5yi25ywl6zqg5pmc5a656yep6ywn572uic0g55uu5qiz56gs56kf5yig5ymy5y2a5asn5bcp/"><u>教程：控制克隆時容量配置 - 目標硬碟分割區大小</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728469019491-win107/"><u>讓Win10自動更新再次成功：7種不同的修改方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/battle-for-top-chatbot-title-gpt-microsofts-and-google-writes/"><u>Battle for Top Chatbot Title: GPT, Microsoft's & Google' Writes</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/beste-ansatze-zum-einrichten-einer-geister-uefi-auf-einem-windows-10-system/"><u>Beste Ansätze Zum Einrichten Einer Geister-UEFI Auf Einem Windows 10 System</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/break-through-barriers-essential-tips-for-dealing-with-cannot-save-here-restrictions-7-strategies/"><u>Break Through Barriers: Essential Tips for Dealing with 'Cannot Save Here' Restrictions (7 Strategies)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/confirmar-su-imagen-de-backup-en-windows-n-10-tres-formas-simples-y-practicas/"><u>Confirmar Su Imagen De Backup en Windows N 10: Tres Formas Simples Y Prácticas</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/fixing-the-wrong-parameter-issue-complete-troubleshooting-tips-and-procedures/"><u>Fixing the Wrong Parameter Issue: Complete Troubleshooting Tips and Procedures</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-a34-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy A34 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-100plus-cool-gaming-channel-names-for-every-gamer/"><u>In 2024, 100+ Cool Gaming Channel Names for Every Gamer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-hot-30-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Hot 30 5G Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-itel-a05s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Itel A05s Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/secouez-vous-de-votre-peur-garder-windows-11-protege-par-etape-facile-a-faire-en-trois-gestes/"><u>Secouez-Vous De Votre Peur: Garder Windows 11 Protégé Par Étape, Facile À Faire en Trois Gestes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-ranked-game-client-for-mastering-holeio-on-your-desktop-computer/"><u>Top Ranked Game Client for Mastering Hole.io on Your Desktop Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-curated-selection-of-best-ps3-simulators-pc-edition/"><u>2024 Approved Expert-Curated Selection of Best PS3 Simulators (PC Edition)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-pioneers-in-stop-motion-top-15-must-watch-films/"><u>2024 Approved Pioneers in Stop Motion Top 15 Must-Watch Films</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>2024 Approved The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/6-sur-une-solution-nas/"><u>6 Sur Une Solution NAS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/8-must-have-macbook-wallpaper-apps/"><u>8 Must-Have MacBook Wallpaper Apps</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/come-eseguire-la-clonazione-del-tuo-disco-di-installazione-su-windows-11-senza-perdere-informazioni-importanti/"><u>Come Eseguire La Clonazione Del Tuo Disco Di Installazione Su Windows 11 Senza Perdere Informazioni Importanti</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-problems-and-solutions-for-non-functional-multiplayer-in-elden-ring/"><u>Common Problems and Solutions for Non-Functional Multiplayer in Elden Ring</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/easy-steps-to-break-the-connection-between-your-iphone-and-ipad/"><u>Easy Steps to Break the Connection Between Your iPhone & iPad</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/estimated-prices-for-retrieving-lost-files-from-an-exterior-hard-disk/"><u>Estimated Prices for Retrieving Lost Files From an Exterior Hard Disk</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-clear-audio-back-in-no-time-fixed-skype-volume-problems-demystified/"><u>Get Clear Audio Back in No Time: Fixed Skype Volume Problems Demystified</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/komplizanzen-vermeiden-sichere-deine-outlook-dateien-mit-dieser-einfachen-methode-fur-windows-t-garantie-kein-datentotalausfall/"><u>Komplizanzen Vermeiden: Sichere Deine Outlook-Dateien Mit Dieser Einfachen Methode Für Windows T! Garantie: Kein Datentotalausfall.</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/step-by-step-tutorial-on-migrating-samsung-ssd-contents-to-an-alternate-ssd-with-windows-tools/"><u>Step-by-Step Tutorial on Migrating Samsung SSD Contents to an Alternate SSD with Windows Tools</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-5-techniques-pour-la-protection-de-fichiers-particuliers-sous-windows-11/"><u>Top 5 Techniques Pour La Protection De Fichiers Particuliers Sous Windows 11</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshooting-and-solutions-for-non-booting-replicated-ssds-on-dell-systems/"><u>Troubleshooting and Solutions for Non-Booting Replicated SSDs on DELL Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-companion-navigating-through-different-ipados-releases/"><u>Ultimate Companion: Navigating Through Different iPadOS Releases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-and-managing-video-layouts-in-zoom-for-windows-11-users-for-2024/"><u>Understanding and Managing Video Layouts in Zoom for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlocking-the-secrets-of-bak-files-compatibility-options-beyond-sql-server/"><u>Unlocking the Secrets of BAK Files: Compatibility Options Beyond SQL Server</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100i-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100i Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

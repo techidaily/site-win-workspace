@@ -1,7 +1,7 @@
 ---
 title: Protecting Your Windows 11 System with DIY USB Security Keys - A Comprehensive Tutorial
-date: 2025-01-15T20:07:28.477Z
-updated: 2025-01-17T22:00:06.185Z
+date: 2025-01-27T16:40:47.983Z
+updated: 2025-01-31T16:16:06.966Z
 tags:
   - product
   - antivirus
@@ -40,6 +40,10 @@ In this guide, we would discuss what a USB security key is and how to convert yo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a USB Security Key?
 
 The USB Security key or the physical security key is the advanced method of login authentication. This USB key can be used for locking and unlocking the PC and is a part of two-factor authentication. Obviously, it would be quite difficult for hackers to get their hands on the tangible key.
@@ -47,10 +51,6 @@ The USB Security key or the physical security key is the advanced method of logi
 You can get such a physical security key from the manufacturer like Yubikey, Google, and Thetis. However, they are costly. 
 
 The cheaper alternative is creating your own USB login key. However, for that, you have to compromise one of your USB drives or get an affordable Pendrive specifically for this purpose. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pros and Cons of the Physical Security Key
 
@@ -64,10 +64,6 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 
 [How to Remove Virus Alert from Microsoft Edge?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Cons:**
 
 * If you damage or lose the physical key, the recovery is possible but by a long and lethargic process.
@@ -76,6 +72,10 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 
 So, these are the Pros and Cons of the Physical Security key. Weigh them keeping your preference in mind and then choose whether to go for it or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to create a USB Security Key on Windows 10?
 
 You can create a USB security key on Windows 10 using an in-built program – **Windows BitLocker.** However, this method would only work for Pro and Enterprise versions of Windows as the Home version does not come with BitLocker.
@@ -83,7 +83,7 @@ You can create a USB security key on Windows 10 using an in-built program – **
 The first step is to enable the BitLocker on your system Drive, that is, the drive where the Windows 10 is installed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Enable Bitlocker**
@@ -95,7 +95,7 @@ The first step is to enable the BitLocker on your system Drive, that is, the dri
 ![Turn on BitLocker.](https://www.malwarefox.com/wp-content/uploads/2020/06/Turn-on-BitLocker.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 – Follow the on-screen steps, and at the end, click on “**Start encrypting.**“
@@ -129,12 +129,16 @@ Where ‘c:’ is the drive where Windows is installed and ‘j:’ is assigned 
 ![Run Command](https://www.malwarefox.com/wp-content/uploads/2020/06/USB-key.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
 That’s it. The security key is created, and you would be asked to insert it whenever you start the computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to create a USB Security Key Using Third-party App?
 
@@ -144,6 +148,10 @@ If you are a Windows 10 home user or you didn’t want to use the complicated me
 
 ![USB Raptor security key](https://www.malwarefox.com/wp-content/uploads/2020/06/usb-raptor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 USB Raptor is one of the popular tools for turning a USB drive into a USB security key. The best part is that it is open-source software, and that is why it is entirely free to use for personal and non-commercial use. It is compatible with all the versions of Windows from Windows XP and above. 
 
 With Raptor, you can link the key to the serial number of the drive. The only problem with Raptor is, it does not encrypt the system as the BitLocker does. Yet, it would lock and unlock the device with the USB drive. However, it is easy to install and is quite flexible, so you can use it for a medium-security.
@@ -151,10 +159,6 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 [Get Raptor](https://sourceforge.net/projects/usbraptor/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Predator**
 
@@ -184,6 +188,10 @@ Rohos store your login credential into the USB drive, and during startup, when y
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These are the method using which you can convert a USB drive into a USB security key. As already mentioned, the physical keys can be of great use and provide extra security over passwords. Currently, you can use these keys for locking and unlocking the device; soon, you can also use them to log in to your different accounts.
@@ -201,7 +209,7 @@ While creating a key, you would always be prompted to create a recovery method i
 [According to YubiKey](https://support.yubico.com/support/solutions/articles/15000010242-can-i-duplicate-or-back-up-a-yubikey-), due to security reasons, the firmware of YubiKey does not allow the system to read the drive after it is written. Therefore, it is impossible to create a backup of YubiKey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 thoughts on “How to Make a USB Security Key to Protect Windows 10 PC”
@@ -209,19 +217,11 @@ While creating a key, you would always be prompted to create a recovery method i
 1. ![](https://secure.gravatar.com/avatar/1f15aeebf604b14368e5d572c11913a9?s=50&d=mm&r=g)  
 Robert  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [January 1, 2022 at 2:40 pm](https://tools.techidaily.com/malwarefox/products/)  
 what about windows 11 this is now outdated information I been looking up information for windows 11 it pulls up this windows 10 in search on bing.com  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/b078f2f4ee5a7d70f03d2ed3d315f291?s=50&d=mm&r=g)  
    Lukas  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    [February 25, 2022 at 2:41 am](https://tools.techidaily.com/malwarefox/products/)  
    Windows 11 is literally just a reskin of Windows 10 (with a few extra features). All of these should work perfectly fine.  
@@ -252,14 +252,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-charting-your-course-through-youtube-compliance/"><u>[New] 2024 Approved Charting Your Course Through YouTube Compliance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-focus-freshness-the-ultimate-clear-image-software-guide-for-2024/"><u>[Updated] Focus Freshness The Ultimate Clear Image Software Guide for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlock-the-full-potential-of-zoom-meetings-for-win10-users-for-2024/"><u>[Updated] Unlock the Full Potential of Zoom Meetings for WIN10 Users for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-notebook-driver-downloads-latest-updates-and-installation-guide/"><u>ASUS Notebook Driver Downloads: Latest Updates and Installation Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-of-ai-unveiled-at-taipei-expo-2024/"><u>Future of AI Unveiled at Taipei Expo 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/high-definition-clownfish-wallpaper-and-backdrop-graphics-ultrahd-wallpapers-by-yl-computing/"><u>High-Definition Clownfish Wallpaper & Backdrop Graphics - UltraHD Wallpapers by YL Computing</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/premium-jaguar-xj-2018-desktop-icons-and-wallpapers-from-yl-software/"><u>Premium Jaguar XJ (2018) Desktop Icons and Wallpapers From YL Software</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-updating-your-devices-drivers-with-yl-computing-solutions/"><u>Step-by-Step Guide: Updating Your Device's Drivers with YL Computing Solutions</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/sui-dynasty-legal-innovations-exploring-the-legislative-achievements-of-ancient-china/"><u>Sui Dynasty Legal Innovations: Exploring the Legislative Achievements of Ancient China</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-chromes-video-performance-boost-for-social-media/"><u>[New] 2024 Approved Chrome's Video Performance Boost for Social Media</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-cadence-in-clips-the-guide-to-musical-integration-on-ig-for-2024/"><u>[New] Cadence in Clips The Guide to Musical Integration on IG for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-chords-to-chart-toppers-essential-musician-focused-youtube-content/"><u>[New] In 2024, From Chords to Chart-Toppers Essential Musician-Focused YouTube Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-to-counteract-obs-fullscreen-woes-for-2024/"><u>[Updated] Tips to Counteract OBS Fullscreen Woes for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/expert-insights-on-identifying-and-addressing-memory-difficulties-with-yl-software-solutions/"><u>Expert Insights on Identifying and Addressing Memory Difficulties with YL Software Solutions</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/high-definition-chrissy-teigen-wallpaper-collection-stunning-backgrounds-and-images-by-yl-computing/"><u>High-Definition Chrissy Teigen Wallpaper Collection: Stunning Backgrounds & Images by YL Computing</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-minimize-unnecessary-pre-installed-programs-on-your-computer-expert-advice-from-yl-computing/"><u>How to Minimize Unnecessary Pre-Installed Programs on Your Computer - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-v27e-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo V27e Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/susan-coffee-digital-wallpaper-collection-ultra-hd-visuals-and-inspiring-nature-scenes-by-yl-computing/"><u>Susan Coffee Digital Wallpaper Collection - Ultra-HD Visuals & Inspiring Nature Scenes by YL Computing</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlock-your-systems-potential-by-deleting-uninstall-resistant-programs-in-windows-guided-by-yl-software-experts/"><u>Unlock Your System's Potential by Deleting Uninstall-Resistant Programs in Windows – Guided by YL Software Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-value-review-of-patriots-vp4nano-sata-iii-vp4300-lite-4tb-ssd-balancing-cost-and-capacity/"><u>Unpacking the Value: Review of Patriot's VP4nano SATA III VP4300 Lite, 4TB SSD Balancing Cost and Capacity</u></a></li>
 </ul></div>
 
